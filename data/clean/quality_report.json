@@ -1,0 +1,8 @@
+{
+  "raw_rows": 3060,
+  "exact_duplicates_removed": 60,
+  "duplicate_txn_ids_removed": 0,
+  "invalid_rows_removed": 18,
+  "missing_customer_id": 39,
+  "clean_rows": 2982
+}

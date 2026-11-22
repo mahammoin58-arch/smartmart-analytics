@@ -1,0 +1,1536 @@
+transaction_id,order_date,customer_id,customer_name,city,region,channel,category,product,quantity,unit_price,discount_pct
+T01209,2024-07-26,C0340,Customer 340,Lahore,Central,Online,Clothing,Jeans,4,37.38,10.0
+T02727,2024-04-09,C0786,Customer 786,Peshawar,North,Store,Clothing,T-Shirt,1,14.46,5.0
+T00728,2024-03-05,C0791,Customer 791,Faisalabad,Central,Store,Electronics,Laptop,1,940.89,0.0
+T00363,2024-06-12,C0070,Customer 70,Lahore,Central,Store,Electronics,Headphones,2,57.91,5.0
+T01338,2024-08-04,C0492,Customer 492,Lahore,Central,Online,Home Appliances,Microwave,4,115.28,20.0
+T00581,2024-03-09,C1323,Customer 1323,Lahore,Central,Store,Home Appliances,Microwave,3,123.64,5.0
+T01741,2024-11-10,C0398,Customer 398,Lahore,Central,Store,Electronics,Smart Watch,1,155.53,10.0
+T02442,2024-01-01,C0769,Customer 769,Lahore,Central,Store,Grocery,Snack Box,1,8.54,20.0
+T00808,2024-03-21,C0234,Customer 234,Peshawar,North,Store,Electronics,Laptop,1,857.32,10.0
+T01496,2024-11-10,C0941,Customer 941,Faisalabad,Central,Online,Clothing,Jeans,3,39.01,0.0
+T01904,2024-06-30,C1081,Customer 1081,Karachi,South,Store,Electronics,Headphones,3,62.8,5.0
+T00753,2024-03-03,C1441,Customer 1441,Hyderabad,South,Store,Home Appliances,Microwave,4,111.08,20.0
+T01052,2024-09-23,C0592,Customer 592,Faisalabad,Central,Store,Electronics,Smart Watch,1,142.23,0.0
+T02435,2024-11-24,C0789,Customer 789,Islamabad,North,Online,Home Appliances,Air Fryer,4,89.82,0.0
+T02844,2024-12-18,C0012,Customer 12,Lahore,Central,Online,Electronics,Smart Watch,2,156.51,0.0
+T01919,2024-11-25,C1267,Customer 1267,Hyderabad,South,Store,Electronics,Laptop,1,897.66,10.0
+T00890,2024-07-16,C1237,Customer 1237,Peshawar,North,Store,Home Appliances,Microwave,1,129.36,5.0
+T00700,2024-03-10,C1140,Customer 1140,Islamabad,North,Store,Home Appliances,Blender,3,47.1,20.0
+T00721,2024-04-11,C0959,Customer 959,Karachi,South,Store,Grocery,Tea Pack,1,6.35,0.0
+T01418,2024-11-16,C0235,Customer 235,Hyderabad,South,Store,Grocery,Rice 5kg,1,11.91,0.0
+T01534,2024-05-17,C1128,Customer 1128,Peshawar,North,Store,Home Appliances,Blender,2,46.91,0.0
+T01237,2024-01-04,C1418,Customer 1418,Hyderabad,South,Store,Grocery,Snack Box,1,7.79,10.0
+T01464,2024-02-07,C0984,Customer 984,Islamabad,North,Online,Grocery,Snack Box,1,8.04,0.0
+T00718,2024-12-25,C0376,Customer 376,Hyderabad,South,Store,Clothing,T-Shirt,2,16.22,5.0
+T00276,2024-12-18,C1386,Customer 1386,Faisalabad,Central,Online,Grocery,Cooking Oil,3,9.59,10.0
+T02923,2024-03-31,C0984,Customer 984,Islamabad,North,Store,Home Appliances,Microwave,1,117.07,10.0
+T01809,2024-03-06,C0585,Customer 585,Faisalabad,Central,Store,Home Appliances,Air Fryer,4,88.74,10.0
+T00096,2024-07-29,C1128,Customer 1128,Peshawar,North,Online,Grocery,Tea Pack,3,6.07,5.0
+T01492,2024-12-23,C0296,Customer 296,Islamabad,North,Store,Home Appliances,Vacuum Cleaner,1,190.75,20.0
+T00604,2024-04-08,C0936,Customer 936,Karachi,South,Store,Home Appliances,Vacuum Cleaner,3,197.88,20.0
+T00528,2024-04-15,C0136,Customer 136,Karachi,South,Store,Grocery,Snack Box,1,8.29,10.0
+T01527,2024-08-20,C0029,Customer 29,Hyderabad,South,Online,Clothing,Sneakers,1,63.62,20.0
+T02194,2024-06-08,C0134,Customer 134,Hyderabad,South,Online,Electronics,Headphones,1,54.29,0.0
+T00839,2024-01-11,C1440,Customer 1440,Peshawar,North,Online,Electronics,Laptop,2,902.95,5.0
+T00738,2024-08-31,C0793,Customer 793,Islamabad,North,Store,Home Appliances,Blender,3,42.58,10.0
+T01366,2024-01-13,C1258,Customer 1258,Islamabad,North,Store,Electronics,Smartphone,4,426.46,10.0
+T01550,2024-01-04,,Customer 1304,Karachi,South,Online,Home Appliances,Vacuum Cleaner,3,185.13,0.0
+T02848,2024-10-09,C1012,Customer 1012,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,4,189.96,0.0
+T01459,2024-07-11,C0175,Customer 175,Faisalabad,Central,Online,Electronics,Smartphone,1,463.79,20.0
+T01383,2024-09-10,C0530,Customer 530,Karachi,South,Store,Home Appliances,Microwave,4,116.01,0.0
+T02410,2024-01-20,C1065,Customer 1065,Faisalabad,Central,Online,Electronics,Smart Watch,1,157.38,10.0
+T02103,2024-05-05,C0364,Customer 364,Karachi,South,Store,Home Appliances,Microwave,4,111.01,20.0
+T02585,2024-09-12,,Customer 689,Islamabad,North,Store,Electronics,Laptop,2,818.23,20.0
+T02423,2024-03-16,C0111,Customer 111,Faisalabad,Central,Online,Clothing,Jacket,2,87.51,5.0
+T01779,2024-08-12,C0160,Customer 160,Islamabad,North,Online,Home Appliances,Microwave,4,125.81,0.0
+T02780,2024-02-02,C0191,Customer 191,Peshawar,North,Online,Grocery,Cooking Oil,1,8.69,0.0
+T02635,2024-03-01,C1150,Customer 1150,Lahore,Central,Online,Grocery,Cooking Oil,4,9.21,0.0
+T00749,2024-08-16,C1379,Customer 1379,Hyderabad,South,Store,Home Appliances,Blender,1,46.82,5.0
+T01924,2024-11-13,C1019,Customer 1019,Hyderabad,South,Store,Home Appliances,Air Fryer,4,97.95,0.0
+T02663,2024-04-19,C1291,Customer 1291,Hyderabad,South,Online,Clothing,Jacket,1,92.29,10.0
+T01778,2024-04-28,C1123,Customer 1123,Islamabad,North,Store,Clothing,T-Shirt,1,15.91,20.0
+T01594,2024-01-14,C1093,Customer 1093,Karachi,South,Store,Grocery,Rice 5kg,4,12.93,0.0
+T00659,2024-02-22,C0503,Customer 503,Peshawar,North,Store,Electronics,Smartphone,2,467.49,0.0
+T01970,2024-04-21,C1224,Customer 1224,Peshawar,North,Online,Grocery,Snack Box,4,7.79,20.0
+T02502,2024-03-13,C0338,Customer 338,Peshawar,North,Store,Grocery,Snack Box,4,7.86,5.0
+T00281,2024-07-20,C0131,Customer 131,Islamabad,North,Store,Home Appliances,Air Fryer,4,101.02,20.0
+T02496,2024-05-29,C0280,Customer 280,Islamabad,North,Store,Clothing,Sneakers,4,66.06,20.0
+T00111,2024-07-21,C0810,Customer 810,Hyderabad,South,Online,Home Appliances,Air Fryer,3,92.95,5.0
+T01538,2024-03-21,C1086,Customer 1086,Lahore,Central,Store,Home Appliances,Blender,4,42.34,20.0
+T00841,2024-07-29,C1307,Customer 1307,Karachi,South,Online,Clothing,Jeans,2,36.49,5.0
+T02431,2024-04-06,C1443,Customer 1443,Lahore,Central,Store,Clothing,Jeans,4,41.54,20.0
+T01145,2024-08-29,C0194,Customer 194,Peshawar,North,Store,Electronics,Smart Watch,1,150.62,10.0
+T01309,2024-10-29,C1205,Customer 1205,Hyderabad,South,Online,Home Appliances,Microwave,3,108.87,0.0
+T00695,2024-03-06,C0593,Customer 593,Peshawar,North,Store,Electronics,Headphones,1,56.94,20.0
+T00663,2024-01-26,C1453,Customer 1453,Peshawar,North,Store,Electronics,Laptop,3,958.93,10.0
+T01807,2024-01-07,C0702,Customer 702,Hyderabad,South,Online,Electronics,Smartphone,1,426.64,0.0
+T01786,2024-06-26,C0539,Customer 539,Faisalabad,Central,Online,Grocery,Snack Box,2,8.03,20.0
+T00770,2024-10-01,C0501,Customer 501,Islamabad,North,Online,Electronics,Smartphone,3,455.04,0.0
+T00632,2024-08-27,C0819,Customer 819,Lahore,Central,Store,Electronics,Headphones,3,60.81,0.0
+T02224,2024-11-04,C1229,Customer 1229,Lahore,Central,Store,Clothing,Sneakers,2,68.96,5.0
+T00796,2024-08-03,C0413,Customer 413,Peshawar,North,Online,Grocery,Cooking Oil,2,9.18,20.0
+T02079,2024-07-07,C1211,Customer 1211,Hyderabad,South,Online,Grocery,Tea Pack,2,5.66,10.0
+T00413,2024-07-22,C0334,Customer 334,Karachi,South,Store,Grocery,Rice 5kg,4,12.31,10.0
+T02060,2024-10-21,C0947,Customer 947,Faisalabad,Central,Store,Electronics,Smartphone,2,417.89,0.0
+T02269,2024-03-27,C1049,Customer 1049,Faisalabad,Central,Store,Grocery,Cooking Oil,4,9.73,0.0
+T01783,2024-01-18,C0515,Customer 515,Faisalabad,Central,Online,Grocery,Tea Pack,2,6.56,20.0
+T02870,2024-05-30,C1001,Customer 1001,Faisalabad,Central,Store,Grocery,Tea Pack,3,6.54,10.0
+T01484,2024-03-22,C0091,Customer 91,Lahore,Central,Store,Home Appliances,Microwave,1,124.81,5.0
+T01978,2024-09-06,C0167,Customer 167,Hyderabad,South,Store,Clothing,Jacket,4,78.22,20.0
+T02358,2024-06-09,C1119,Customer 1119,Peshawar,North,Store,Electronics,Laptop,3,975.6,0.0
+T02201,2024-09-24,C0655,Customer 655,Karachi,South,Online,Electronics,Smartphone,3,490.89,10.0
+T02266,2024-03-10,C1332,Customer 1332,Lahore,Central,Store,Electronics,Smartphone,4,483.36,5.0
+T00415,2024-01-14,C0897,Customer 897,Peshawar,North,Store,Grocery,Snack Box,3,7.67,0.0
+T02590,2024-09-09,C1270,Customer 1270,Karachi,South,Store,Home Appliances,Vacuum Cleaner,4,164.95,10.0
+T02082,2024-03-07,C0761,Customer 761,Peshawar,North,Online,Grocery,Rice 5kg,4,12.1,0.0
+T00946,2024-03-28,C1100,Customer 1100,Faisalabad,Central,Store,Grocery,Cooking Oil,3,8.91,0.0
+T01876,2024-03-29,C0997,Customer 997,Islamabad,North,Online,Electronics,Headphones,2,57.29,0.0
+T00300,2024-01-16,C1205,Customer 1205,Islamabad,North,Online,Grocery,Snack Box,3,8.53,5.0
+T01322,2024-07-19,C0673,Customer 673,Islamabad,North,Store,Grocery,Cooking Oil,4,8.91,10.0
+T02499,2024-01-24,C1486,Customer 1486,Faisalabad,Central,Store,Electronics,Smartphone,4,434.6,0.0
+T02705,2024-02-20,C0468,Customer 468,Hyderabad,South,Store,Clothing,T-Shirt,3,15.51,10.0
+T02734,2024-06-05,,Customer 616,Peshawar,North,Store,Electronics,Smartphone,3,477.87,0.0
+T00834,2024-04-14,C0990,Customer 990,Islamabad,North,Store,Clothing,T-Shirt,2,15.83,0.0
+T02538,2024-12-30,C1262,Customer 1262,Islamabad,North,Store,Grocery,Cooking Oil,2,9.76,0.0
+T02364,2024-03-27,C1281,Customer 1281,Islamabad,North,Store,Electronics,Headphones,1,57.13,0.0
+T00891,2024-03-13,C0852,Customer 852,Peshawar,North,Store,Home Appliances,Blender,4,40.51,5.0
+T02577,2024-07-16,C0868,Customer 868,Hyderabad,South,Store,Home Appliances,Air Fryer,4,97.93,10.0
+T00111,2024-07-21,C0810,Customer 810,Hyderabad,South,Online,Home Appliances,Air Fryer,3,92.95,5.0
+T01967,2024-09-27,C0339,Customer 339,Hyderabad,South,Store,Clothing,Jacket,1,78.65,0.0
+T01079,2024-10-31,C0371,Customer 371,Hyderabad,South,Store,Home Appliances,Air Fryer,3,90.46,10.0
+T00869,2024-11-21,C0333,Customer 333,Islamabad,North,Online,Clothing,Jacket,4,82.8,5.0
+T01781,2024-02-04,C1275,Customer 1275,Faisalabad,Central,Online,Home Appliances,Vacuum Cleaner,4,172.39,10.0
+T01917,2024-07-25,C0157,Customer 157,Peshawar,North,Online,Home Appliances,Blender,3,43.21,5.0
+T01446,2024-01-27,C0625,Customer 625,Hyderabad,South,Store,Home Appliances,Microwave,4,121.69,10.0
+T00993,2024-05-23,C0211,Customer 211,Lahore,Central,Store,Home Appliances,Air Fryer,1,88.92,20.0
+T00620,2024-04-12,C0131,Customer 131,Peshawar,North,Online,Home Appliances,Air Fryer,4,94.3,20.0
+T00376,2024-03-09,C0758,Customer 758,Peshawar,North,Online,Clothing,Jeans,1,37.96,5.0
+T00031,2024-11-24,C1099,Customer 1099,Faisalabad,Central,Store,Home Appliances,Air Fryer,4,100.26,0.0
+T00373,2024-10-26,C0464,Customer 464,Islamabad,North,Store,Electronics,Laptop,1,833.83,10.0
+T00585,2024-10-21,C1129,Customer 1129,Faisalabad,Central,Store,Electronics,Smartphone,2,421.18,20.0
+T00119,2024-06-28,C0036,Customer 36,Karachi,South,Store,Grocery,Rice 5kg,2,12.49,0.0
+T02529,2024-03-04,C0041,Customer 41,Karachi,South,Online,Grocery,Cooking Oil,3,8.98,20.0
+T01326,2024-05-16,C0590,Customer 590,Faisalabad,Central,Store,Home Appliances,Blender,1,45.05,0.0
+T02092,2024-08-26,C0563,Customer 563,Islamabad,North,Online,Home Appliances,Air Fryer,3,103.53,20.0
+T01976,2024-02-06,C1205,Customer 1205,Islamabad,North,Store,Electronics,Smartphone,2,418.81,5.0
+T02385,2024-05-14,C0091,Customer 91,Karachi,South,Online,Grocery,Rice 5kg,4,11.81,0.0
+T00306,2024-04-12,C0383,Customer 383,Karachi,South,Store,Home Appliances,Microwave,1,125.37,0.0
+T01819,2024-04-08,,Customer 802,Lahore,Central,Online,Grocery,Rice 5kg,3,10.96,0.0
+T00638,2024-08-04,C0749,Customer 749,Islamabad,North,Store,Grocery,Cooking Oil,1,9.25,0.0
+T02613,2024-05-12,C0960,Customer 960,Faisalabad,Central,Store,Clothing,Sneakers,4,75.42,5.0
+T02813,2024-05-24,C0449,Customer 449,Lahore,Central,Store,Grocery,Rice 5kg,3,12.67,20.0
+T02997,2024-08-08,C1282,Customer 1282,Peshawar,North,Online,Clothing,Jacket,1,92.6,0.0
+T00469,2024-05-12,C0788,Customer 788,Islamabad,North,Store,Grocery,Rice 5kg,2,12.81,0.0
+T00735,2024-06-01,C0484,Customer 484,Lahore,Central,Store,Home Appliances,Microwave,3,124.63,5.0
+T00848,2024-02-07,C0540,Customer 540,Lahore,Central,Store,Clothing,T-Shirt,3,14.08,5.0
+T00758,2024-10-06,C0821,Customer 821,Hyderabad,South,Online,Grocery,Rice 5kg,1,10.84,0.0
+T02317,2024-03-04,C0807,Customer 807,Karachi,South,Store,Electronics,Smart Watch,3,145.29,0.0
+T02318,2024-11-14,C0159,Customer 159,Lahore,Central,Store,Grocery,Rice 5kg,2,13.11,20.0
+T01190,2024-01-06,C1351,Customer 1351,Peshawar,North,Online,Grocery,Cooking Oil,3,9.05,0.0
+T00187,2024-05-01,C1149,Customer 1149,Islamabad,North,Store,Grocery,Rice 5kg,4,12.44,20.0
+T02944,2024-05-17,C0977,Customer 977,Hyderabad,South,Store,Electronics,Headphones,-1,54.86,5.0
+T01491,2024-07-19,C0283,Customer 283,Lahore,Central,Online,Clothing,T-Shirt,4,15.87,5.0
+T01437,2024-11-07,C0983,Customer 983,Hyderabad,South,Online,Electronics,Headphones,1,56.83,20.0
+T02764,2024-01-27,C0141,Customer 141,Hyderabad,South,Store,Grocery,Tea Pack,2,6.01,0.0
+T00537,2024-11-28,C0046,Customer 46,Faisalabad,Central,Online,Home Appliances,Blender,1,44.72,0.0
+T02643,2024-05-28,C1013,Customer 1013,Peshawar,North,Store,Home Appliances,Blender,4,42.04,0.0
+T01802,2024-12-07,,Customer 895,Hyderabad,South,Online,Grocery,Rice 5kg,1,11.83,5.0
+T02357,2024-10-27,C1043,Customer 1043,Hyderabad,South,Store,Grocery,Cooking Oil,1,9.28,5.0
+T01694,2024-10-15,C1294,Customer 1294,Islamabad,North,Store,Grocery,Rice 5kg,3,12.98,5.0
+T01590,2024-01-22,C0449,Customer 449,Peshawar,North,Store,Clothing,Sneakers,1,67.92,0.0
+T00431,2024-03-02,C0375,Customer 375,Islamabad,North,Online,Home Appliances,Microwave,2,123.16,5.0
+T02623,2024-03-16,C0302,Customer 302,Lahore,Central,Online,Grocery,Tea Pack,1,5.74,0.0
+T01160,2024-09-05,C0047,Customer 47,Peshawar,North,Store,Electronics,Laptop,1,956.15,5.0
+T00315,2024-06-27,C0605,Customer 605,Faisalabad,Central,Online,Electronics,Smartphone,2,453.12,20.0
+T02116,2024-05-27,C0394,Customer 394,Karachi,South,Store,Clothing,Jeans,4,40.41,5.0
+T00359,2024-03-07,C0281,Customer 281,Karachi,South,Store,Clothing,Jeans,3,38.59,5.0
+T01610,2024-04-01,C0655,Customer 655,Karachi,South,Store,Clothing,Jeans,4,38.51,0.0
+T02038,2024-01-30,C0823,Customer 823,Peshawar,North,Store,Clothing,Sneakers,2,70.26,10.0
+T00633,2024-11-12,C0056,Customer 56,Karachi,South,Online,Electronics,Headphones,4,56.63,10.0
+T02597,2024-12-31,C0801,Customer 801,Lahore,Central,Store,Home Appliances,Air Fryer,3,102.99,20.0
+T00486,2024-06-18,C0041,Customer 41,Islamabad,North,Store,Electronics,Smartphone,1,407.04,20.0
+T02867,2024-08-18,C1078,Customer 1078,Karachi,South,Store,Clothing,T-Shirt,1,13.91,10.0
+T01992,2024-11-15,C0784,Customer 784,Lahore,Central,Store,Electronics,Smartphone,1,427.13,10.0
+T02456,2024-12-13,C0205,Customer 205,Lahore,Central,Store,Grocery,Snack Box,4,8.54,0.0
+T02583,2024-07-31,C1065,Customer 1065,Hyderabad,South,Store,Home Appliances,Microwave,3,131.56,0.0
+T02225,2024-10-19,C0793,Customer 793,Faisalabad,Central,Store,Clothing,Sneakers,2,71.47,20.0
+T02415,2024-09-28,C0467,Customer 467,Hyderabad,South,Store,Grocery,Cooking Oil,1,9.2,0.0
+T00279,2024-02-17,C1490,Customer 1490,Karachi,South,Store,Clothing,T-Shirt,1,16.04,10.0
+T00152,2024-07-24,C0338,Customer 338,Islamabad,North,Store,Electronics,Smartphone,4,448.83,5.0
+T01514,2024-08-29,C1365,Customer 1365,Islamabad,North,Store,Clothing,Jeans,2,41.04,0.0
+T02315,2024-06-14,C0614,Customer 614,Faisalabad,Central,Store,Grocery,Cooking Oil,1,9.69,20.0
+T01180,2024-01-19,C0700,Customer 700,Islamabad,North,Online,Electronics,Headphones,3,65.64,0.0
+T02827,2024-09-21,C0229,Customer 229,Karachi,South,Online,Electronics,Smart Watch,2,160.82,5.0
+T00387,2024-02-19,C1162,Customer 1162,Lahore,Central,Online,Electronics,Smartphone,1,423.85,0.0
+T02253,2024-06-26,C1072,Customer 1072,Faisalabad,Central,Store,Electronics,Smartphone,4,423.75,0.0
+T00143,2024-07-20,,Customer 678,Faisalabad,Central,Store,Home Appliances,Vacuum Cleaner,2,191.37,10.0
+T00100,2024-04-12,C0410,Customer 410,Islamabad,North,Online,Clothing,T-Shirt,2,15.96,0.0
+T01814,2024-12-27,C0834,Customer 834,Hyderabad,South,Store,Electronics,Headphones,1,57.0,10.0
+T02534,2024-05-04,C0668,Customer 668,Islamabad,North,Store,Electronics,Headphones,3,64.78,0.0
+T02322,2024-01-26,C1262,Customer 1262,Hyderabad,South,Online,Clothing,T-Shirt,4,16.15,0.0
+T00326,2024-06-17,C1175,Customer 1175,Peshawar,North,Store,Clothing,T-Shirt,4,14.0,0.0
+T00357,2024-04-20,C0086,Customer 86,Lahore,Central,Online,Home Appliances,Air Fryer,3,91.61,20.0
+T02278,2024-02-07,C1235,Customer 1235,Hyderabad,South,Online,Grocery,Rice 5kg,3,12.63,0.0
+T01168,2024-10-17,C0272,Customer 272,Islamabad,North,Online,Electronics,Smart Watch,1,141.01,10.0
+T01704,2024-05-25,C1281,Customer 1281,Hyderabad,South,Online,Grocery,Cooking Oil,3,8.15,0.0
+T02527,2024-12-07,C0882,Customer 882,Peshawar,North,Online,Electronics,Smart Watch,4,154.17,20.0
+T02868,2024-04-24,C1323,Customer 1323,Peshawar,North,Online,Clothing,Sneakers,3,63.01,20.0
+T01167,2024-01-17,C0694,Customer 694,Lahore,Central,Store,Grocery,Rice 5kg,2,11.75,0.0
+T00563,2024-12-25,C0632,Customer 632,Islamabad,North,Online,Grocery,Snack Box,2,8.03,20.0
+T02479,2024-02-26,C0140,Customer 140,Hyderabad,South,Store,Clothing,Jeans,4,39.23,10.0
+T01683,2024-01-26,C1047,Customer 1047,Lahore,Central,Store,Clothing,Sneakers,3,68.93,0.0
+T02273,2024-08-04,C0363,Customer 363,Karachi,South,Online,Grocery,Tea Pack,2,6.06,0.0
+T01059,2024-11-05,C0308,Customer 308,Islamabad,North,Store,Home Appliances,Air Fryer,2,97.56,0.0
+T02667,2024-06-24,C0304,Customer 304,Peshawar,North,Online,Grocery,Rice 5kg,2,11.63,20.0
+T00588,2024-03-13,C1034,Customer 1034,Islamabad,North,Store,Grocery,Tea Pack,2,5.67,10.0
+T01316,2024-08-06,C0414,Customer 414,Peshawar,North,Online,Electronics,Smartphone,2,472.25,5.0
+T02004,2024-11-30,C1025,Customer 1025,Lahore,Central,Store,Electronics,Laptop,2,974.59,20.0
+T01431,2024-12-09,C1382,Customer 1382,Peshawar,North,Online,Electronics,Laptop,2,903.19,5.0
+T00799,2024-08-18,C0016,Customer 16,Lahore,Central,Online,Home Appliances,Vacuum Cleaner,2,197.98,10.0
+T00072,2024-05-18,C0722,Customer 722,Karachi,South,Store,Clothing,Jeans,4,42.41,10.0
+T02366,2024-03-03,C0231,Customer 231,Karachi,South,Store,Clothing,Jeans,1,40.99,10.0
+T02630,2024-01-29,C0043,Customer 43,Faisalabad,Central,Online,Clothing,Sneakers,1,75.52,0.0
+T01630,2024-04-02,C0529,Customer 529,Peshawar,North,Store,Clothing,T-Shirt,3,14.07,0.0
+T02460,2024-02-13,C1340,Customer 1340,Peshawar,North,Online,Home Appliances,Blender,1,47.19,10.0
+T02025,2024-02-23,C1309,Customer 1309,Karachi,South,Store,Clothing,Jeans,1,39.44,10.0
+T02003,2024-10-17,C0941,Customer 941,Islamabad,North,Store,Electronics,Headphones,4,64.72,5.0
+T02261,2024-01-18,C1491,Customer 1491,Karachi,South,Online,Grocery,Snack Box,1,7.95,5.0
+T00088,2024-08-16,C0265,Customer 265,Peshawar,North,Store,HOME APPLIANCES,Microwave,1,130.25,10.0
+T00884,2024-04-23,C0683,Customer 683,Faisalabad,Central,Store,Grocery,Cooking Oil,3,8.45,20.0
+T00653,2024-05-27,C0615,Customer 615,Hyderabad,South,Store,Electronics,Headphones,3,58.73,10.0
+T02490,2024-09-17,C0541,Customer 541,Peshawar,North,Online,Home Appliances,Vacuum Cleaner,2,193.76,10.0
+T00533,2024-04-23,C0092,Customer 92,Faisalabad,Central,Store,Electronics,Headphones,2,57.91,0.0
+T01482,2024-01-02,C0446,Customer 446,Islamabad,North,Online,Electronics,Smart Watch,4,162.71,20.0
+T02090,2024-01-15,C0792,Customer 792,Islamabad,North,Online,Home Appliances,Microwave,2,130.44,0.0
+T02329,2024-01-20,C0275,Customer 275,Lahore,Central,Online,Electronics,Headphones,3,65.39,0.0
+T01444,2024-11-12,C0679,Customer 679,Karachi,South,Store,Home Appliances,Vacuum Cleaner,4,165.89,0.0
+T02554,2024-05-21,C0973,Customer 973,Karachi,South,Online,Clothing,Sneakers,1,75.37,10.0
+T02964,2024-02-18,C0418,Customer 418,Islamabad,North,Store,Grocery,Snack Box,4,8.63,0.0
+T02302,2024-04-15,C1490,Customer 1490,Faisalabad,Central,Store,Grocery,Rice 5kg,2,11.81,0.0
+T01562,2024-07-04,C0631,Customer 631,Karachi,South,Online,Electronics,Smartphone,1,484.14,0.0
+T02967,2024-06-24,C1078,Customer 1078,Faisalabad,Central,Store,Clothing,Sneakers,4,63.28,20.0
+T02392,2024-05-20,C0249,Customer 249,Lahore,Central,Store,Clothing,Jacket,4,81.81,0.0
+T02812,2024-07-27,C0974,Customer 974,Faisalabad,Central,Online,Electronics,Smart Watch,3,144.56,20.0
+T02787,2024-07-25,C0969,Customer 969,Karachi,South,Online,Home Appliances,Microwave,3,116.84,5.0
+T01596,2024-04-30,C0065,Customer 65,Hyderabad,South,Online,Home Appliances,Blender,3,45.99,20.0
+T01946,2024-03-27,C1085,Customer 1085,Faisalabad,Central,Online,Home Appliances,Air Fryer,4,103.73,10.0
+T02889,2024-04-18,C0996,Customer 996,Peshawar,North,Online,Home Appliances,Air Fryer,2,94.0,10.0
+T00457,2024-04-18,C1126,Customer 1126,Islamabad,North,Online,Clothing,Jacket,1,81.17,0.0
+T00339,2024-05-27,,Customer 1288,Peshawar,North,Online,Home Appliances,Blender,4,47.1,0.0
+T00027,2024-10-20,C0171,Customer 171,Islamabad,North,Store,Grocery,Tea Pack,2,5.59,20.0
+T01184,2024-11-23,C1279,Customer 1279,Peshawar,North,Store,Grocery,Cooking Oil,4,9.12,10.0
+T01685,2024-09-18,C0776,Customer 776,Islamabad,North,Online,Electronics,Headphones,1,58.98,5.0
+T00001,2024-03-06,C1168,Customer 1168,Faisalabad,Central,Store,Home Appliances,Air Fryer,3,99.67,0.0
+T02110,2024-07-25,C0428,Customer 428,Hyderabad,South,Store,Electronics,Smart Watch,4,154.3,20.0
+T01011,2024-07-15,C0530,Customer 530,Lahore,Central,Store,Grocery,Cooking Oil,3,8.3,10.0
+T01796,2024-05-27,C0285,Customer 285,Hyderabad,South,Online,Home Appliances,Microwave,1,124.48,10.0
+T00564,2024-05-12,C1195,Customer 1195,Peshawar,North,Online,Clothing,Jeans,2,40.85,0.0
+T02851,2024-05-22,C0254,Customer 254,Faisalabad,Central,Online,Clothing,Jacket,2,88.71,20.0
+T00583,2024-03-18,C0310,Customer 310,Faisalabad,Central,Store,Grocery,Rice 5kg,2,12.34,0.0
+T00434,2024-04-05,C0506,Customer 506,Islamabad,North,Store,Home Appliances,Vacuum Cleaner,2,170.56,10.0
+T01307,2024-07-04,C1109,Customer 1109,Faisalabad,Central,Store,Electronics,Laptop,1,939.94,0.0
+T02669,2024-02-25,C1138,Customer 1138,Hyderabad,South,Store,Grocery,Cooking Oil,4,8.89,10.0
+T01817,2024-06-19,C1309,Customer 1309,Peshawar,North,Store,Grocery,Snack Box,4,8.01,10.0
+T00948,2024-04-07,C0554,Customer 554,Faisalabad,Central,Store,Grocery,Snack Box,4,7.29,5.0
+T02321,2024-03-13,C0473,Customer 473,Hyderabad,South,Store,Electronics,Smart Watch,1,160.05,0.0
+T00540,2024-01-16,C1241,Customer 1241,Peshawar,North,Online,Home Appliances,Air Fryer,3,96.92,20.0
+T02216,2024-10-11,C0349,Customer 349,Karachi,South,Store,Electronics,Headphones,3,58.74,0.0
+T02747,2024-06-12,C0650,Customer 650,Peshawar,North,Store,Home Appliances,Blender,3,48.07,10.0
+T02243,2024-11-26,C1365,Customer 1365,Faisalabad,Central,Online,Clothing,Sneakers,2,69.89,0.0
+T01069,2024-08-31,C1108,Customer 1108,Islamabad,North,Online,Home Appliances,Air Fryer,2,86.08,10.0
+T00833,2024-11-26,C1213,Customer 1213,Lahore,Central,Online,Grocery,Rice 5kg,1,12.06,10.0
+T01660,2024-07-04,C0747,Customer 747,Lahore,Central,Store,Grocery,Rice 5kg,2,11.41,5.0
+T00171,2024-03-18,C0944,Customer 944,Peshawar,North,Store,Clothing,Sneakers,3,72.27,0.0
+T02674,2024-05-16,C0975,Customer 975,Faisalabad,Central,Online,Home Appliances,Blender,4,42.1,5.0
+T00644,2024-12-17,C0738,Customer 738,Karachi,South,Online,Grocery,Tea Pack,2,6.41,0.0
+T00562,2024-02-01,C0255,Customer 255,Peshawar,North,Store,Clothing,Sneakers,1,76.36,0.0
+T02595,2024-08-11,C1276,Customer 1276,Faisalabad,Central,Store,Clothing,Jeans,4,40.61,5.0
+T02293,2024-06-20,,Customer 510,Karachi,South,Store,Clothing,T-Shirt,2,14.5,5.0
+T02999,2024-11-13,C1130,Customer 1130,Faisalabad,Central,Online,Grocery,Rice 5kg,3,11.06,0.0
+T01588,2024-02-27,C0462,Customer 462,Hyderabad,South,Store,Grocery,Tea Pack,3,6.5,5.0
+T01579,2024-03-23,C0413,Customer 413,Lahore,Central,Online,Grocery,Snack Box,4,8.24,0.0
+T00268,2024-09-10,C1036,Customer 1036,Karachi,South,Online,Grocery,Snack Box,1,8.4,10.0
+T02792,2024-04-23,C0133,Customer 133,Karachi,South,Online,Grocery,Tea Pack,1,6.5,10.0
+T01777,2024-08-30,C0504,Customer 504,Faisalabad,Central,Online,Home Appliances,Vacuum Cleaner,1,191.81,5.0
+T01099,2024-01-31,C1191,Customer 1191,Karachi,South,Store,Home Appliances,Blender,3,45.88,0.0
+T00705,2024-04-04,C1417,Customer 1417,Karachi,South,Online,Grocery,Cooking Oil,3,8.86,5.0
+T00593,2024-06-24,C1478,Customer 1478,Peshawar,North,Store,Electronics,Smartphone,3,485.27,0.0
+T01581,2024-08-04,C0292,Customer 292,Lahore,Central,Store,Clothing,Jeans,2,42.89,5.0
+T01651,2024-05-18,C0597,Customer 597,Lahore,Central,Online,Clothing,Jeans,1,39.41,20.0
+T00685,2024-05-03,C1464,Customer 1464,Karachi,South,Store,Grocery,Rice 5kg,4,10.88,0.0
+T00254,2024-08-28,C0558,Customer 558,Islamabad,North,Store,Home Appliances,Microwave,1,108.8,5.0
+T00637,2024-06-20,C0811,Customer 811,Islamabad,North,Online,Clothing,Jacket,3,82.15,0.0
+T00054,2024-12-06,C0537,Customer 537,Hyderabad,South,Online,Clothing,Jacket,4,92.13,5.0
+T00329,2024-04-13,C0590,Customer 590,Peshawar,North,Online,Clothing,Jacket,1,92.99,5.0
+T00271,2024-08-03,C0248,Customer 248,Karachi,South,Store,Electronics,Smartphone,3,492.83,0.0
+T01391,2024-08-11,C0271,Customer 271,Lahore,Central,Online,Electronics,Smartphone,3,440.28,10.0
+T02562,2024-09-18,C0176,Customer 176,Faisalabad,Central,Online,Grocery,Tea Pack,3,5.66,20.0
+T01017,2024-10-07,C0407,Customer 407,Hyderabad,South,Store,Home Appliances,Microwave,2,131.55,5.0
+T02204,2024-09-02,C1002,Customer 1002,Karachi,South,Online,Grocery,Tea Pack,1,6.41,5.0
+T02311,2024-07-23,C1367,Customer 1367,Karachi,South,Store,Home Appliances,Air Fryer,1,97.09,20.0
+T00292,2024-07-13,C0696,Customer 696,Faisalabad,Central,Online,Home Appliances,Microwave,1,127.67,0.0
+T02644,2024-12-06,C1019,Customer 1019,Lahore,Central,Online,Grocery,Snack Box,1,7.38,0.0
+T00858,2024-02-11,,Customer 28,Hyderabad,South,Store,Electronics,Smartphone,1,424.57,0.0
+T02384,2024-10-13,C0572,Customer 572,Peshawar,North,Online,Home Appliances,Microwave,4,124.09,5.0
+T02591,2024-02-21,C0123,Customer 123,Peshawar,North,Store,Electronics,Smartphone,4,436.48,20.0
+T00180,2024-12-31,C0255,Customer 255,Faisalabad,Central,Online,Electronics,Headphones,3,63.58,20.0
+T01612,2024-04-14,C0487,Customer 487,Islamabad,North,Online,Grocery,Rice 5kg,3,11.56,20.0
+T00761,2024-05-08,C0262,Customer 262,Faisalabad,Central,Online,Electronics,Headphones,3,63.39,0.0
+T00052,2024-05-22,C0263,Customer 263,Lahore,Central,Store,Clothing,T-Shirt,1,13.8,5.0
+T02223,2024-01-20,C1382,Customer 1382,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,2,190.32,0.0
+T01768,2024-12-07,C0013,Customer 13,Lahore,Central,Online,Grocery,Tea Pack,1,6.56,20.0
+T02556,2024-03-16,C0772,Customer 772,Lahore,Central,Online,Electronics,Laptop,1,977.08,0.0
+T00211,2024-07-09,C1441,Customer 1441,Hyderabad,South,Store,Electronics,Smart Watch,1,161.27,20.0
+T02581,2024-10-07,C0809,Customer 809,Lahore,Central,Store,Grocery,Rice 5kg,2,11.49,5.0
+T01030,2024-08-31,C0622,Customer 622,Islamabad,North,Online,Home Appliances,Vacuum Cleaner,3,166.19,5.0
+T02735,2024-11-22,C0978,Customer 978,Hyderabad,South,Online,Home Appliances,Microwave,1,117.57,0.0
+T00994,2024-11-10,C0428,Customer 428,Faisalabad,Central,Store,Grocery,Cooking Oil,4,8.74,20.0
+T00872,2024-05-27,C0155,Customer 155,Islamabad,North,Online,Home Appliances,Vacuum Cleaner,3,180.31,5.0
+T01096,2024-02-28,C0821,Customer 821,Karachi,South,Online,Clothing,T-Shirt,4,15.17,0.0
+T01743,2024-11-28,C0642,Customer 642,Hyderabad,South,Online,Grocery,Tea Pack,4,5.69,10.0
+T00975,2024-04-17,C0143,Customer 143,Faisalabad,Central,Online,Electronics,Smartphone,1,454.45,10.0
+T01609,2024-06-21,C1309,Customer 1309,Karachi,South,Store,Home Appliances,Air Fryer,1,93.12,20.0
+T01927,2024-09-19,C0599,Customer 599,Hyderabad,South,Online,Home Appliances,Air Fryer,2,93.89,0.0
+T01940,2024-05-31,C0508,Customer 508,Lahore,Central,Online,Electronics,Laptop,2,842.57,10.0
+T02846,2024-11-29,C0242,Customer 242,Peshawar,North,Online,Clothing,Jacket,4,90.53,20.0
+T02083,2024-08-25,C0001,Customer 1,Hyderabad,South,Store,Home Appliances,Microwave,4,111.7,5.0
+T02463,2024-12-12,C1062,Customer 1062, karachi ,Central,Store,Clothing,Jacket,2,82.28,10.0
+T00768,2024-12-15,C1124,Customer 1124,Lahore,Central,Store,Clothing,Sneakers,2,73.45,10.0
+T02854,2024-03-06,C1027,Customer 1027,Islamabad,North,Store,Grocery,Rice 5kg,4,11.83,10.0
+T02272,2024-08-20,C0643,Customer 643,Faisalabad,Central,Online,Home Appliances,Vacuum Cleaner,2,169.71,10.0
+T02552,2024-08-22,C0533,Customer 533,Islamabad,North,Online,Clothing,Sneakers,1,66.83,20.0
+T01193,2024-05-04,C1112,Customer 1112,Peshawar,North,Store,Clothing,Jacket,4,89.37,5.0
+T00454,2024-01-19,C0523,Customer 523,Islamabad,North,Store,Grocery,Snack Box,1,7.71,0.0
+T02298,2024-12-24,C0997,Customer 997,Peshawar,North,Online,Electronics,Smart Watch,1,138.47,0.0
+T02853,2024-03-24,C0384,Customer 384,Islamabad,North,Store,Electronics,Smartphone,3,483.95,10.0
+T00214,2024-11-24,C1447,Customer 1447,Lahore,Central,Store,Electronics,Smartphone,3,467.53,0.0
+T00342,2024-07-31,C0459,Customer 459,Karachi,South,Online,Home Appliances,Microwave,2,111.39,20.0
+T00148,2024-06-19,C1255,Customer 1255,Peshawar,North,Online,Grocery,Cooking Oil,2,8.86,0.0
+T02484,2024-08-21,C1267,Customer 1267,Hyderabad,South,Store,Home Appliances,Air Fryer,4,101.03,5.0
+T02915,2024-10-24,C0787,Customer 787,Hyderabad,South,Store,Clothing,Sneakers,1,65.86,0.0
+T00218,2024-03-11,C0645,Customer 645,Karachi,South,Store,Electronics,Laptop,4,825.72,10.0
+T00453,2024-12-30,C0679,Customer 679,Hyderabad,South,Online,Clothing,Jacket,1,79.73,5.0
+T01294,2024-01-04,C0142,Customer 142,Peshawar,North,Store,Grocery,Tea Pack,1,6.17,5.0
+T01252,2024-10-27,C0578,Customer 578,Faisalabad,Central,Store,Grocery,Rice 5kg,2,12.33,0.0
+T00944,2024-12-12,C1455,Customer 1455,Lahore,Central,Online,Grocery,Rice 5kg,1,11.27,20.0
+T01413,2024-07-01,C0501,Customer 501,Hyderabad,South,Online,Electronics,Laptop,2,926.77,5.0
+T02051,2024-05-05,C0652,Customer 652,Lahore,Central,Store,Home Appliances,Microwave,1,129.02,10.0
+T02126,2024-07-05,C1121,Customer 1121,Peshawar,North,Store,Home Appliances,Microwave,3,118.1,0.0
+T00972,2024-11-01,C1391,Customer 1391,Hyderabad,South,Online,Grocery,Cooking Oil,4,9.58,5.0
+T02356,2024-09-25,C1227,Customer 1227,Lahore,Central,Online,Grocery,Cooking Oil,4,8.2,10.0
+T02742,2024-03-11,C0933,Customer 933,Karachi,South,Online,Electronics,Smart Watch,3,161.99,0.0
+T01545,2024-06-17,,Customer 670,Hyderabad,South,Store,Electronics,Laptop,3,988.98,0.0
+T02160,2024-08-31,C1390,Customer 1390,Faisalabad,Central,Online,Clothing,T-Shirt,2,14.2,0.0
+T00752,2024-04-17,C1198,Customer 1198,Islamabad,North,Online,Clothing,Jacket,2,89.3,10.0
+T01085,2024-05-26,C0753,Customer 753,Faisalabad,Central,Store,Electronics,Smart Watch,4,135.88,0.0
+T02936,2024-06-15,C0426,Customer 426,Faisalabad,Central,Store,Clothing,Jacket,3,85.04,10.0
+T00485,2024-12-03,C0612,Customer 612,Peshawar,North,Online,Electronics,Laptop,3,879.28,5.0
+T02699,2024-04-03,C1079,Customer 1079,Faisalabad,Central,Store,Home Appliances,Air Fryer,1,92.36,0.0
+T01883,2024-05-09,C0748,Customer 748,Hyderabad,South,Store,Clothing,Sneakers,2,63.54,0.0
+T02537,2024-08-26,C0084,Customer 84,Peshawar,North,Store,Electronics,Smartphone,4,458.95,10.0
+T01584,2024-10-29,C1063,Customer 1063,Karachi,South,Store,Electronics,Headphones,2,65.4,0.0
+T02339,2024-02-01,C0585,Customer 585,Karachi,South,Store,Grocery,Snack Box,3,7.62,20.0
+T00518,2024-02-18,C1355,Customer 1355,Peshawar,North,Store,Home Appliances,Blender,1,47.39,0.0
+T02089,2024-08-10,C0207,Customer 207,Faisalabad,Central,Store,Electronics,Smartphone,2,458.28,10.0
+T02290,2024-10-31,C0437,Customer 437,Peshawar,North,Online,Home Appliances,Blender,1,46.08,20.0
+T00960,2024-10-27,C0323,Customer 323,Peshawar,North,Online,Electronics,Smart Watch,1,144.81,5.0
+T00073,2024-12-03,C0361,Customer 361,Hyderabad,South,Store,Home Appliances,Vacuum Cleaner,4,192.56,20.0
+T00018,2024-04-03,C0324,Customer 324,Faisalabad,Central,Online,Clothing,T-Shirt,4,14.17,0.0
+T02683,2024-10-11,C0572,Customer 572,Faisalabad,Central,Online,Grocery,Cooking Oil,1,8.41,20.0
+T02104,2024-04-04,C0749,Customer 749,Peshawar,North,Online,Electronics,Laptop,2,830.95,0.0
+T00263,2024-08-06,C1112,Customer 1112,Hyderabad,South,Store,Home Appliances,Air Fryer,3,98.79,0.0
+T00525,2024-08-20,C0437,Customer 437,Hyderabad,South,Online,Home Appliances,Blender,4,41.2,20.0
+T01850,2024-04-30,C1351,Customer 1351,Lahore,Central,Store,Clothing,Jeans,3,37.2,20.0
+T01136,2024-02-12,C1457,Customer 1457,Faisalabad,Central,Online,Grocery,Rice 5kg,3,11.42,0.0
+T00299,2024-07-26,C0809,Customer 809,Islamabad,North,Store,Electronics,Smartphone,3,470.72,0.0
+T02486,2024-09-20,C0263,Customer 263,Hyderabad,South,Online,Home Appliances,Air Fryer,3,91.71,0.0
+T01142,2024-09-04,C1290,Customer 1290,Lahore,Central,Store,Clothing,T-Shirt,1,15.81,0.0
+T02444,2024-06-03,C1212,Customer 1212,Lahore,Central,Store,Clothing,Sneakers,3,69.37,0.0
+T00399,2024-07-23,C0012,Customer 12,Islamabad,North,Online,GROCERY,Rice 5kg,2,11.56,0.0
+T00802,2024-08-08,C0873,Customer 873,Karachi,South,Online,Home Appliances,Microwave,1,110.61,0.0
+T01253,2024-02-24,C1471,Customer 1471,Karachi,South,Store,Clothing,T-Shirt,2,14.68,0.0
+T02032,2024-05-09,C1255,Customer 1255,Lahore,Central,Online,Grocery,Cooking Oil,4,8.37,20.0
+T00962,2024-10-25,C1290,Customer 1290,Lahore,Central,Online,Home Appliances,Vacuum Cleaner,2,171.96,5.0
+T02682,2024-03-14,C1181,Customer 1181,Faisalabad,Central,Online,HOME APPLIANCES,Microwave,4,109.18,20.0
+T00197,2024-09-07,C0339,Customer 339,Peshawar,North,Online,Clothing,Jacket,2,77.17,5.0
+T00408,2024-04-15,C0958,Customer 958,Islamabad,North,Online,Clothing,T-Shirt,1,15.98,0.0
+T02443,2024-01-07,C1384,Customer 1384,Karachi,South,Store,Home Appliances,Microwave,3,121.39,20.0
+T02337,2024-11-27,C1109,Customer 1109,Hyderabad,South,Store,Clothing,Sneakers,3,74.91,0.0
+T01682,2024-01-10,C0256,Customer 256,Lahore,Central,Store,Home Appliances,Blender,3,43.42,20.0
+T02475,2024-03-17,C0086,Customer 86,Hyderabad,South,Store,Home Appliances,Vacuum Cleaner,3,183.5,5.0
+T01456,2024-02-17,C0101,Customer 101,Faisalabad,Central,Store,Home Appliances,Blender,4,41.54,20.0
+T02615,2024-03-17,C0858,Customer 858,Islamabad,North,Online,Clothing,T-Shirt,1,13.73,20.0
+T00547,2024-11-09,C0614,Customer 614,Lahore,Central,Store,Electronics,Laptop,1,933.36,10.0
+T01454,2024-06-28,C1058,Customer 1058,Karachi,South,Online,Home Appliances,Microwave,4,118.61,20.0
+T01385,2024-10-09,C0575,Customer 575,Hyderabad,South,Store,Grocery,Snack Box,2,8.47,10.0
+T02188,2024-07-07,C0187,Customer 187,Peshawar,North,Store,Clothing,Jacket,3,85.6,0.0
+T00109,2024-12-10,C1352,Customer 1352,Hyderabad,South,Store,Electronics,Laptop,3,899.71,0.0
+T00719,2024-06-21,C1024,Customer 1024,Peshawar,North,Store,Grocery,Cooking Oil,4,8.73,0.0
+T01906,2024-06-27,C0963,Customer 963,Peshawar,North,Online,Clothing,T-Shirt,4,14.5,0.0
+T02229,2024-07-30,C0130,Customer 130,Karachi,South,Store,Home Appliances,Blender,2,43.65,5.0
+T02642,2024-12-28,C0432,Customer 432,Islamabad,North,Store,Grocery,Cooking Oil,2,9.63,20.0
+T01055,2024-02-25,C0009,Customer 9,Hyderabad,South,Store,Home Appliances,Air Fryer,4,95.79,20.0
+T01762,2024-10-25,C1272,Customer 1272,Hyderabad,South,Store,Clothing,Jacket,3,91.73,20.0
+T01804,2024-07-08,C1189,Customer 1189,Faisalabad,Central,Store,Clothing,Jeans,2,38.9,0.0
+T01268,2024-09-29,C1393,Customer 1393,Hyderabad,South,Store,Home Appliances,Blender,2,44.28,5.0
+T01926,2024-04-06,C0136,Customer 136,Lahore,Central,Online,Clothing,Sneakers,4,72.83,10.0
+T02700,2024-03-27,C0565,Customer 565,Peshawar,North,Online,Electronics,Smartphone,2,490.2,0.0
+T00855,2024-07-29,C0724,Customer 724,Hyderabad,South,Store,Electronics,Headphones,3,56.66,0.0
+T00201,2024-09-24,C1383,Customer 1383,Islamabad,North,Online,Clothing,T-Shirt,4,15.09,0.0
+T02222,2024-04-22,C1330,Customer 1330,Lahore,Central,Online,Grocery,Cooking Oil,1,9.61,0.0
+T00929,2024-11-01,C0995,Customer 995,Peshawar,North,Online,Clothing,T-Shirt,4,14.48,5.0
+T00526,2024-08-14,C0318,Customer 318,Peshawar,North,Online,Electronics,Smart Watch,2,147.84,20.0
+T01402,2024-06-25,C0179,Customer 179,Lahore,Central,Online,Electronics,Smart Watch,3,145.28,20.0
+T00480,2024-03-20,C1169,Customer 1169,Hyderabad,South,Store,Electronics,Headphones,2,57.62,5.0
+T01063,2024-04-15,C0949,Customer 949,Karachi,South,Store,Home Appliances,Vacuum Cleaner,4,180.18,20.0
+T01319,2024-11-23,C1278,Customer 1278,Karachi,South,Online,Grocery,Cooking Oil,1,9.56,5.0
+T00397,2024-02-02,C0681,Customer 681,Hyderabad,South,Online,Grocery,Snack Box,3,8.59,0.0
+T01820,2024-08-03,C1398,Customer 1398,Peshawar,North,Store,Clothing,T-Shirt,3,14.56,0.0
+T00898,2024-02-09,C0027,Customer 27,Islamabad,North,Online,Electronics,Smart Watch,1,154.81,20.0
+T02687,2024-06-27,C1138,Customer 1138,Karachi,South,Store,Clothing,Sneakers,1,67.49,0.0
+T02234,2024-04-10,C0297,Customer 297,Karachi,South,Store,Grocery,Cooking Oil,2,8.36,20.0
+T00241,2024-04-12,C0314,Customer 314,Lahore,Central,Online,Electronics,Headphones,2,57.72,5.0
+T01403,2024-08-06,C0600,Customer 600,Islamabad,North,Store,Grocery,Tea Pack,1,5.7,20.0
+T02491,2024-09-06,C0711,Customer 711,Islamabad,North,Online,Electronics,Smartphone,4,409.41,20.0
+T02519,2024-04-14,C0851,Customer 851,Peshawar,North,Store,Electronics,Laptop,1,821.52,5.0
+T02613,2024-05-12,C0960,Customer 960,Faisalabad,Central,Store,Clothing,Sneakers,4,75.42,5.0
+T00058,2024-04-22,C0222,Customer 222,Hyderabad,South,Store,Electronics,Smart Watch,1,137.38,0.0
+T02594,2024-03-10,C0941,Customer 941,Hyderabad,South,Store,Electronics,Smartphone,3,453.53,0.0
+T02706,2024-07-26,,Customer 1223,Peshawar,North,Store,Clothing,Jeans,4,38.15,20.0
+T00233,2024-01-15,C1015,Customer 1015,Faisalabad,Central,Store,Grocery,Cooking Oil,2,8.58,0.0
+T02574,2024-10-12,C1031,Customer 1031,Hyderabad,South,Online,Electronics,Smart Watch,2,149.12,0.0
+T02839,2024-06-06,C0417,Customer 417,Peshawar,North,Store,Home Appliances,Microwave,3,118.99,0.0
+T01076,2024-04-29,C0034,Customer 34,Islamabad,North,Store,Home Appliances,Blender,4,42.92,20.0
+T00142,2024-06-05,C0612,Customer 612,Karachi,South,Online,Home Appliances,Blender,1,47.74,0.0
+T00205,2024-11-29,C0450,Customer 450,Islamabad,North,Store,Clothing,Jacket,2,91.24,0.0
+T02073,2024-10-20,C0262,Customer 262,Peshawar,North,Store,Grocery,Cooking Oil,1,8.36,5.0
+T02041,2024-07-30,C0528,Customer 528,Karachi,South,Online,Electronics,Headphones,4,61.57,5.0
+T02934,2024-11-13,C0481,Customer 481,Hyderabad,South,Store,Electronics,Laptop,3,865.48,5.0
+T00682,2024-04-10,,Customer 49,Peshawar,North,Store,Clothing,Sneakers,4,67.04,0.0
+T00846,2024-01-04,C0716,Customer 716,Lahore,Central,Online,Clothing,Sneakers,2,70.37,10.0
+T01699,2024-09-19,C0452,Customer 452,Peshawar,North,Online,Home Appliances,Air Fryer,4,97.6,0.0
+T01124,2024-06-26,C0399,Customer 399,Peshawar,North,Store,Home Appliances,Air Fryer,1,91.29,5.0
+T00790,2024-01-09,C0475,Customer 475,Hyderabad,South,Online,Grocery,Cooking Oil,4,8.39,0.0
+T02763,2024-09-23,C0293,Customer 293,Hyderabad,South,Online,Electronics,Smart Watch,4,162.88,10.0
+T01532,2024-01-07,C0190,Customer 190,Faisalabad,Central,Store,Grocery,Rice 5kg,1,12.95,0.0
+T01615,2024-02-13,C0841,Customer 841,Peshawar,North,Store,Electronics,Smartphone,2,447.58,0.0
+T00779,2024-07-16,C1479,Customer 1479,Hyderabad,South,Online,Electronics,Headphones,3,63.28,0.0
+T01321,2024-03-24,C0989,Customer 989,Karachi,South,Store,Home Appliances,Microwave,1,126.36,20.0
+T01166,2024-03-17,C1021,Customer 1021,Lahore,Central,Online,Grocery,Cooking Oil,2,8.38,0.0
+T01367,2024-08-08,C0250,Customer 250,Karachi,South,Store,Clothing,Jeans,2,38.76,0.0
+T02200,2024-05-02,C1426,Customer 1426,Hyderabad,South,Store,Home Appliances,Blender,1,43.65,10.0
+T01524,2024-04-19,C1481,Customer 1481,Karachi,South,Store,Electronics,Headphones,4,61.35,10.0
+T00021,2024-12-31,C0525,Customer 525,Hyderabad,South,Online,Clothing,Sneakers,4,76.5,0.0
+T00750,2024-04-25,C1360,Customer 1360,Karachi,South,Online,Grocery,Cooking Oil,2,8.61,10.0
+T01078,2024-05-01,C0903,Customer 903,Hyderabad,South,Store,Home Appliances,Air Fryer,1,95.89,10.0
+T00118,2024-04-12,C0965,Customer 965,Karachi,South,Online,Electronics,Smart Watch,4,136.46,5.0
+T01410,2024-07-25,C0485,Customer 485,Karachi,South,Online,Electronics,Smart Watch,2,153.91,0.0
+T00564,2024-05-12,C1195,Customer 1195,Peshawar,North,Online,Clothing,Jeans,2,40.85,0.0
+T02636,2024-01-20,C0896,Customer 896,Hyderabad,South,Store,Electronics,Smart Watch,3,155.64,0.0
+T02712,2024-01-18,C1410,Customer 1410,Karachi,South,Store,Home Appliances,Blender,4,47.52,10.0
+T00047,2024-11-21,C1092,Customer 1092,Hyderabad,South,Store,Electronics,Smartphone,1,436.65,0.0
+T02367,2024-09-03,C0130,Customer 130, karachi ,North,Store,Grocery,Snack Box,1,8.48,5.0
+T02459,2024-12-12,C0777,Customer 777, karachi ,Central,Store,Grocery,Rice 5kg,4,11.85,0.0
+T00769,2024-04-12,C1212,Customer 1212,Karachi,South,Store,Home Appliances,Blender,3,46.92,20.0
+T01399,2024-01-19,C0105,Customer 105,Islamabad,North,Store,Electronics,Smart Watch,3,139.8,5.0
+T02767,2024-09-26,C0464,Customer 464,Lahore,Central,Store,Home Appliances,Blender,4,43.5,5.0
+T02746,2024-10-22,C0031,Customer 31,Islamabad,North,Store,Grocery,Rice 5kg,4,10.81,5.0
+T01039,2024-11-14,C0460,Customer 460,Islamabad,North,Store,Clothing,T-Shirt,4,14.9,0.0
+T02769,2024-12-15,C0705,Customer 705,Lahore,Central,Store,Home Appliances,Air Fryer,2,94.42,5.0
+T01950,2024-08-22,C0553,Customer 553,Faisalabad,Central,Store,Clothing,T-Shirt,4,14.18,10.0
+T01257,2024-06-11,C0491,Customer 491, karachi ,Central,Store,Grocery,Snack Box,1,7.53,0.0
+T00627,2024-09-03,C1157,Customer 1157,Lahore,Central,Store,Clothing,T-Shirt,2,15.59,0.0
+T02237,2024-07-01,C0838,Customer 838,Faisalabad,Central,Store,Clothing,Jacket,4,76.54,0.0
+T01435,2024-08-21,C0877,Customer 877,Karachi,South,Store,Clothing,Jacket,3,79.98,0.0
+T02875,2024-10-06,C1068,Customer 1068,Hyderabad,South,Store,Grocery,Snack Box,2,8.64,0.0
+T02368,2024-05-08,C0875,Customer 875,Hyderabad,South,Store,Clothing,T-Shirt,4,14.06,0.0
+T01225,2024-10-31,C1173,Customer 1173,Faisalabad,Central,Store,Electronics,Smart Watch,4,150.86,10.0
+T00756,2024-11-15,C0482,Customer 482,Faisalabad,Central,Online,Electronics,Smartphone,4,423.69,0.0
+T00044,2024-09-15,C0795,Customer 795,Faisalabad,Central,Store,Home Appliances,Microwave,2,110.26,5.0
+T02391,2024-11-27,C0269,Customer 269,Peshawar,North,Store,Electronics,Smart Watch,4,140.78,0.0
+T00033,2024-03-08,C0845,Customer 845,Lahore,Central,Online,Clothing,Sneakers,3,72.96,0.0
+T02282,2024-09-14,C1075,Customer 1075,Faisalabad,Central,Online,Electronics,Smartphone,4,443.43,5.0
+T01643,2024-11-22,C1430,Customer 1430,Faisalabad,Central,Online,Grocery,Rice 5kg,3,12.18,5.0
+T02751,2024-06-27,C1322,Customer 1322,Peshawar,North,Store,Clothing,Jeans,4,38.83,5.0
+T01110,2024-02-02,C0486,Customer 486,Peshawar,North,Store,Home Appliances,Air Fryer,2,86.55,20.0
+T02861,2024-05-21,C0772,Customer 772,Lahore,Central,Store,Clothing,T-Shirt,4,15.49,20.0
+T00465,2024-01-05,C0540,Customer 540,Islamabad,North,Store,Home Appliances,Air Fryer,2,99.92,20.0
+T00010,2024-03-09,C1219,Customer 1219,Peshawar,North,Online,Clothing,T-Shirt,2,15.75,5.0
+T01793,2024-09-07,C1457,Customer 1457,Karachi,South,Online,Clothing,T-Shirt,2,14.79,0.0
+T00998,2024-09-20,C1269,Customer 1269,Karachi,South,Store,Clothing,Sneakers,1,76.26,0.0
+T01515,2024-06-29,C1368,Customer 1368,Lahore,Central,Store,Home Appliances,Microwave,4,108.64,10.0
+T02016,2024-08-20,C1406,Customer 1406,Karachi,South,Online,Grocery,Rice 5kg,4,11.18,10.0
+T01503,2024-06-16,C1497,Customer 1497,Faisalabad,Central,Store,Home Appliances,Microwave,4,125.68,20.0
+T01721,2024-03-05,C0859,Customer 859,Peshawar,North,Store,Home Appliances,Air Fryer,4,101.05,20.0
+T00787,2024-01-24,,Customer 266,Karachi,South,Online,Grocery,Tea Pack,3,6.47,0.0
+T00066,2024-08-25,C0826,Customer 826,Lahore,Central,Store,Home Appliances,Vacuum Cleaner,1,189.23,20.0
+T02007,2024-11-12,C0747,Customer 747,Faisalabad,Central,Store,Electronics,Headphones,2,56.34,5.0
+T01788,2024-03-13,C0017,Customer 17,Islamabad,North,Store,Clothing,T-Shirt,4,15.91,10.0
+T01372,2024-09-07,C0255,Customer 255,Hyderabad,South,Online,Clothing,Jeans,2,37.28,0.0
+T01229,2024-04-22,C0522,Customer 522,Hyderabad,South,Online,Electronics,Smart Watch,3,142.94,5.0
+T01436,2024-03-15,C1395,Customer 1395,Faisalabad,Central,Online,Electronics,Smart Watch,2,135.76,20.0
+T02993,2024-05-20,C1237,Customer 1237,Islamabad,North,Online,Home Appliances,Blender,4,49.38,10.0
+T02078,2024-11-17,C0019,Customer 19,Karachi,South,Online,Electronics,Headphones,4,64.49,0.0
+T02962,2024-11-03,C0921,Customer 921,Lahore,Central,Store,Electronics,Smartphone,2,418.07,10.0
+T02856,2024-02-26,C0883,Customer 883,Peshawar,North,Online,Electronics,Smartphone,3,428.4,0.0
+T01123,2024-07-15,C1479,Customer 1479,Peshawar,North,Online,Clothing,Jacket,2,91.95,10.0
+T00238,2024-11-11,C1492,Customer 1492,Islamabad,North,Online,Clothing,Jacket,4,83.18,0.0
+T01794,2024-07-22,C0387,Customer 387,Lahore,Central,Online,Clothing,Jacket,2,91.32,0.0
+T01272,2024-03-20,C0798,Customer 798,Islamabad,North,Store,Electronics,Headphones,4,63.01,10.0
+T01592,2024-09-09,C0060,Customer 60,Karachi,South,Store,Home Appliances,Microwave,2,120.94,0.0
+T00899,2024-02-21,C0456,Customer 456,Lahore,Central,Store,Electronics,Smartphone,1,491.58,20.0
+T01772,2024-10-02,C1144,Customer 1144,Faisalabad,Central,Online,Clothing,T-Shirt,4,14.7,20.0
+T00523,2024-05-20,C1242,Customer 1242,Lahore,Central,Online,Grocery,Rice 5kg,4,12.38,10.0
+T01236,2024-09-09,C0060,Customer 60,Hyderabad,South,Online,Home Appliances,Blender,4,42.69,0.0
+T00076,2024-12-13,C1122,Customer 1122,Hyderabad,South,Store,Grocery,Snack Box,1,8.51,0.0
+T02940,2024-05-03,C0275,Customer 275,Peshawar,North,Online,Clothing,T-Shirt,3,16.23,0.0
+T00055,2024-12-29,C1182,Customer 1182,Karachi,South,Store,Grocery,Cooking Oil,1,8.72,0.0
+T00267,2024-11-22,C1108,Customer 1108,Islamabad,North,Store,Electronics,Smart Watch,1,141.15,0.0
+T01853,2024-11-27,C0160,Customer 160,Faisalabad,Central,Store,Electronics,Smartphone,1,448.03,5.0
+T02990,2024-11-08,C0845,Customer 845,Islamabad,North,Store,Grocery,Cooking Oil,4,8.27,5.0
+T02835,2024-10-10,C0383,Customer 383,Faisalabad,Central,Store,Electronics,Laptop,2,859.75,5.0
+T02330,2024-04-17,C0738,Customer 738,Karachi,South,Store,Clothing,Jacket,4,83.2,0.0
+T01770,2024-05-23,C0071,Customer 71,Hyderabad,South,Online,Electronics,Smart Watch,2,151.09,10.0
+T00464,2024-11-01,C0077,Customer 77,Peshawar,North,Store,Electronics,Smart Watch,3,147.49,10.0
+T01821,2024-08-16,C0810,Customer 810,Faisalabad,Central,Online,Electronics,Headphones,1,61.11,0.0
+T02815,2024-05-25,C0890,Customer 890,Karachi,South,Online,Electronics,Laptop,1,934.87,5.0
+T01353,2024-12-27,C0827,Customer 827,Karachi,South,Store,Grocery,Rice 5kg,1,12.77,0.0
+T01907,2024-08-04,C0429,Customer 429,Karachi,South,Store,Grocery,Rice 5kg,3,11.99,20.0
+T01386,2024-06-20,C1082,Customer 1082,Peshawar,North,Store,Home Appliances,Air Fryer,1,92.35,0.0
+T01616,2024-05-06,C0647,Customer 647,Islamabad,North,Store,Clothing,Jacket,3,90.98,10.0
+T01230,2024-07-29,C0022,Customer 22,Karachi,South,Store,Home Appliances,Blender,4,47.15,20.0
+T02301,2024-07-14,C0101,Customer 101,Peshawar,North,Online,Clothing,Jacket,4,89.02,0.0
+T00368,2024-08-18,C0432,Customer 432,Karachi,South,Store,Grocery,Cooking Oil,3,9.67,5.0
+T02608,2024-07-06,C0894,Customer 894,Karachi,South,Online,Electronics,Smart Watch,1,143.22,10.0
+T01748,2024-10-02,C0377,Customer 377,Hyderabad,South,Store,Grocery,Snack Box,2,7.63,5.0
+T02441,2024-09-21,C0776,Customer 776,Karachi,South,Online,Grocery,Tea Pack,2,6.24,0.0
+T02171,2024-01-16,C0903,Customer 903,Karachi,South,Store,Home Appliances,Microwave,1,122.47,0.0
+T02433,2024-04-28,C0500,Customer 500,Lahore,Central,Online,Electronics,Smartphone,4,407.06,20.0
+T00821,2024-01-18,C0190,Customer 190,Islamabad,North,Online,Home Appliances,Blender,1,47.86,0.0
+T02569,2024-10-03,C0472,Customer 472,Lahore,Central,Store,Home Appliances,Microwave,4,115.26,5.0
+T01911,2024-02-24,C1421,Customer 1421,Peshawar,North,Store,Grocery,Cooking Oil,2,9.38,10.0
+T01105,2024-08-11,C0117,Customer 117,Lahore,Central,Online,Grocery,Rice 5kg,1,11.16,5.0
+T01476,2024-08-08,C0481,Customer 481,Faisalabad,Central,Store,Grocery,Tea Pack,4,5.58,10.0
+T00005,2024-11-12,C1058,Customer 1058,Lahore,Central,Store,Home Appliances,Blender,1,47.18,5.0
+T02762,2024-11-10,C0243,Customer 243,Lahore,Central,Online,Home Appliances,Air Fryer,2,86.18,10.0
+T02076,2024-10-24,C0566,Customer 566,Islamabad,North,Online,Home Appliances,Vacuum Cleaner,4,196.05,5.0
+T00661,2024-05-09,C0837,Customer 837,Lahore,Central,Store,Clothing,Jeans,1,43.96,0.0
+T00384,2024-06-24,C1370,Customer 1370,Karachi,South,Store,Home Appliances,Air Fryer,3,90.43,20.0
+T02109,2024-07-23,C0489,Customer 489,Faisalabad,Central,Online,Grocery,Rice 5kg,2,11.32,5.0
+T00300,2024-01-16,C1205,Customer 1205,Islamabad,North,Online,Grocery,Snack Box,3,8.53,5.0
+T01872,2024-05-30,C1436,Customer 1436,Islamabad,North,Store,Grocery,Snack Box,3,7.39,10.0
+T00398,2024-05-23,C1441,Customer 1441,Islamabad,North,Store,Clothing,Jacket,1,84.85,10.0
+T02203,2024-01-29,C1255,Customer 1255,Hyderabad,South,Store,Home Appliances,Microwave,3,114.96,20.0
+T01719,2024-10-28,C0602,Customer 602,Hyderabad,South,Online,Home Appliances,Microwave,3,114.19,5.0
+T01034,2024-08-17,C0420,Customer 420,Islamabad,North,Online,Clothing,Sneakers,4,70.4,0.0
+T01114,2024-08-01,C1468,Customer 1468,Faisalabad,Central,Online,Grocery,Rice 5kg,3,12.42,10.0
+T00847,2024-04-24,C1158,Customer 1158,Islamabad,North,Online,Electronics,Smart Watch,2,140.04,10.0
+T00252,2024-12-26,C1121,Customer 1121,Islamabad,North,Online,Grocery,Tea Pack,1,6.01,5.0
+T01382,2024-07-26,C0173,Customer 173,Islamabad,North,Online,Electronics,Smart Watch,4,158.53,20.0
+T02100,2024-06-29,C0441,Customer 441,Islamabad,North,Online,Electronics,Headphones,3,59.39,20.0
+T02416,2024-12-20,C0345,Customer 345,Karachi,South,Online,Grocery,Tea Pack,1,5.91,0.0
+T00988,2024-08-18,C0107,Customer 107,Islamabad,North,Store,Grocery,Snack Box,3,8.25,0.0
+T02772,2024-01-30,C0333,Customer 333,Hyderabad,South,Store,Electronics,Laptop,3,970.67,10.0
+T00196,2024-03-04,C0264,Customer 264,Karachi,South,Store,Grocery,Rice 5kg,2,13.0,10.0
+T02921,2024-08-25,C0220,Customer 220,Lahore,Central,Store,Grocery,Tea Pack,2,6.59,20.0
+T00280,2024-03-01,C1095,Customer 1095,Karachi,South,Store,Electronics,Smart Watch,3,143.37,20.0
+T00097,2024-06-23,C0263,Customer 263,Lahore,Central,Store,Grocery,Snack Box,1,8.1,20.0
+T00442,2024-08-07,C0037,Customer 37,Hyderabad,South,Online,Clothing,T-Shirt,3,16.26,0.0
+T01043,2024-10-30,C1140,Customer 1140,Karachi,South,Store,Clothing,Jeans,1,39.27,20.0
+T00746,2024-09-22,C1479,Customer 1479,Lahore,Central,Store,Grocery,Cooking Oil,4,8.69,5.0
+T01112,2024-06-18,C0720,Customer 720,Faisalabad,Central,Online,Grocery,Snack Box,4,7.24,0.0
+T01388,2024-08-25,C0089,Customer 89,Karachi,South,Store,Clothing,Jacket,4,86.59,0.0
+T02080,2024-04-01,C0765,Customer 765,Peshawar,North,Store,Clothing,Jeans,4,43.95,20.0
+T01445,2024-04-11,C1107,Customer 1107,Lahore,Central,Online,Grocery,Snack Box,1,8.22,5.0
+T01996,2024-01-02,C0318,Customer 318,Hyderabad,South,Online,Clothing,Sneakers,3,66.27,5.0
+T00595,2024-08-22,C0374,Customer 374,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,3,167.94,20.0
+T01847,2024-10-20,C1257,Customer 1257,Faisalabad,Central,Store,Grocery,Snack Box,1,7.85,0.0
+T02564,2024-10-25,C0155,Customer 155,Peshawar,North,Online,Clothing,Sneakers,2,76.78,0.0
+T00542,2024-02-10,C0871,Customer 871,Karachi,South,Online,Home Appliances,Blender,2,49.0,0.0
+T01823,2024-08-08,C1363,Customer 1363,Peshawar,North,Store,Electronics,Smartphone,3,465.14,20.0
+T00301,2024-09-22,C0955,Customer 955,Peshawar,North,Online,Home Appliances,Microwave,1,109.25,5.0
+T01808,2024-12-17,C1339,Customer 1339,Hyderabad,South,Online,Clothing,Jacket,2,92.31,10.0
+T00554,2024-08-20,C1070,Customer 1070,Islamabad,North,Store,Clothing,Jacket,4,80.53,10.0
+T02163,2024-10-21,C0431,Customer 431,Hyderabad,South,Store,Grocery,Tea Pack,4,5.69,10.0
+T02177,2024-03-17,C0301,Customer 301,Peshawar,North,Store,Electronics,Headphones,1,61.58,10.0
+T01852,2024-07-03,C1089,Customer 1089,Faisalabad,Central,Online,Grocery,Snack Box,3,7.86,5.0
+T01960,2024-05-16,C1417,Customer 1417,Faisalabad,Central,Store,Home Appliances,Blender,4,44.58,0.0
+T02453,2024-03-10,C1265,Customer 1265,Faisalabad,Central,Online,Home Appliances,Vacuum Cleaner,3,172.97,0.0
+T00440,2024-10-17,C1245,Customer 1245,Lahore,Central,Store,Clothing,T-Shirt,4,16.24,20.0
+T00022,2024-09-27,C0197,Customer 197,Karachi,South,Store,CLOTHING,Sneakers,2,66.61,0.0
+T01889,2024-02-14,C0507,Customer 507,Lahore,Central,Store,Grocery,Rice 5kg,4,11.75,10.0
+T02085,2024-04-05,C0780,Customer 780,Faisalabad,Central,Online,Clothing,Sneakers,2,68.91,0.0
+T01458,2024-11-28,C0059,Customer 59,Faisalabad,Central,Store,Clothing,Jeans,2,41.4,10.0
+T00230,2024-05-09,C1253,Customer 1253,Lahore,Central,Online,Home Appliances,Microwave,1,110.98,5.0
+T01364,2024-05-27,C1452,Customer 1452,Karachi,South,Online,Home Appliances,Microwave,1,123.01,5.0
+T01754,2024-10-15,C1309,Customer 1309,Karachi,South,Store,Clothing,Sneakers,1,75.18,0.0
+T00287,2024-04-27,C0197,Customer 197,Faisalabad,Central,Online,Grocery,Rice 5kg,4,11.0,0.0
+T01478,2024-10-14,C0553,Customer 553,Faisalabad,Central,Store,Clothing,T-Shirt,1,16.05,5.0
+T01293,2024-11-19,C0740,Customer 740,Lahore,Central,Online,Home Appliances,Air Fryer,2,100.56,0.0
+T00811,2024-02-02,C0344,Customer 344,Karachi,South,Store,Electronics,Smartphone,1,487.5,0.0
+T02074,2024-09-06,C1173,Customer 1173,Faisalabad,Central,Store,Electronics,Laptop,2,934.29,10.0
+T00621,2024-11-12,C1495,Customer 1495,Karachi,South,Store,Grocery,Snack Box,3,7.38,20.0
+T01983,2024-02-09,C0281,Customer 281,Faisalabad,Central,Online,Home Appliances,Blender,3,47.09,20.0
+T00937,2024-04-25,C0786,Customer 786,Peshawar,North,Online,Grocery,Tea Pack,3,5.48,20.0
+T02860,2024-11-21,C1046,Customer 1046,Lahore,Central,Store,Electronics,Headphones,3,64.98,0.0
+T01479,2024-06-17,C1305,Customer 1305,Hyderabad,South,Online,Grocery,Snack Box,1,8.57,5.0
+T01328,2024-03-02,C0638,Customer 638,Islamabad,North,Store,Clothing,Sneakers,1,64.09,0.0
+T00285,2024-11-18,C0622,Customer 622,Faisalabad,Central,Store,Grocery,Cooking Oil,3,8.74,0.0
+T00979,2024-09-13,C0814,Customer 814,Hyderabad,South,Store,Clothing,Jeans,2,40.34,20.0
+T00624,2024-10-31,C0662,Customer 662,Faisalabad,Central,Online,Home Appliances,Vacuum Cleaner,4,191.89,10.0
+T00689,2024-11-20,C1451,Customer 1451,Karachi,South,Online,Clothing,T-Shirt,3,13.92,5.0
+T02271,2024-08-21,C0278,Customer 278,Peshawar,North,Store,Electronics,Smartphone,4,460.06,10.0
+T00505,2024-07-19,C0026,Customer 26,Karachi,South,Online,Electronics,Smart Watch,2,161.26,5.0
+T00309,2024-08-18,C0036,Customer 36,Faisalabad,Central,Online,Home Appliances,Blender,1,45.74,5.0
+T00580,2024-03-15,C0117,Customer 117,Karachi,South,Store,Home Appliances,Microwave,3,125.02,5.0
+T02333,2024-07-14,C0587,Customer 587,Faisalabad,Central,Store,Clothing,Jacket,2,83.74,5.0
+T00508,2024-06-29,C1218,Customer 1218,Peshawar,North,Store,Clothing,Sneakers,4,64.57,0.0
+T01531,2024-03-06,C0046,Customer 46,Hyderabad,South,Online,Home Appliances,Air Fryer,3,86.24,0.0
+T01239,2024-08-05,C1140,Customer 1140,Peshawar,North,Store,Home Appliances,Air Fryer,4,103.57,0.0
+T01263,2024-11-20,C0438,Customer 438,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,1,189.97,0.0
+T00189,2024-06-23,C0090,Customer 90,Faisalabad,Central,Store,Clothing,Jacket,3,81.32,5.0
+T01687,2024-11-08,C1423,Customer 1423,Faisalabad,Central,Store,Electronics,Smart Watch,1,136.9,0.0
+T02960,2024-12-14,C1313,Customer 1313,Islamabad,North,Store,Grocery,Tea Pack,1,5.8,5.0
+T02893,2024-09-22,C0189,Customer 189,Islamabad,North,Store,Electronics,Laptop,1,934.25,10.0
+T01652,2024-01-14,C1480,Customer 1480,Karachi,South,Online,Home Appliances,Blender,3,44.95,0.0
+T01429,2024-07-13,C1157,Customer 1157,Hyderabad,South,Online,Home Appliances,Microwave,2,128.01,0.0
+T02020,2024-12-02,C0964,Customer 964,Faisalabad,Central,Store,Grocery,Rice 5kg,1,12.28,0.0
+T00863,2024-03-28,C0372,Customer 372, karachi ,North,Online,Grocery,Rice 5kg,1,11.75,0.0
+T01174,2024-05-09,C0533,Customer 533,Hyderabad,South,Store,Grocery,Snack Box,1,7.83,5.0
+T01477,2024-12-24,C1409,Customer 1409,Peshawar,North,Online,Grocery,Snack Box,1,8.0,5.0
+T01116,2024-12-23,C0713,Customer 713,Hyderabad,South,Online,Home Appliances,Blender,3,42.87,0.0
+T00354,2024-11-13,C1093,Customer 1093,Peshawar,North,Store,Home Appliances,Microwave,4,125.52,5.0
+T01035,2024-02-18,C0639,Customer 639,Lahore,Central,Online,Grocery,Rice 5kg,1,12.7,20.0
+T02752,2024-02-28,C0326,Customer 326,Hyderabad,South,Store,Grocery,Snack Box,1,8.53,20.0
+T00732,2024-11-01,C1290,Customer 1290,Islamabad,North,Online,Grocery,Tea Pack,4,6.59,20.0
+T00703,2024-05-02,C0375,Customer 375,Karachi,South,Store,Clothing,Sneakers,3,67.78,0.0
+T02946,2024-03-19,C0193,Customer 193,Karachi,South,Store,Clothing,Jeans,3,40.96,0.0
+T02418,2024-07-08,C0256,Customer 256,Hyderabad,South,Online,Electronics,Smart Watch,1,155.84,0.0
+T02219,2024-07-28,C0078,Customer 78,Hyderabad,South,Online,Electronics,Smartphone,3,440.5,0.0
+T01468,2024-10-07,C1425,Customer 1425,Islamabad,North,Store,Electronics,Smartphone,4,489.94,0.0
+T01138,2024-09-24,C0389,Customer 389,Lahore,Central,Store,Home Appliances,Air Fryer,2,92.65,10.0
+T00163,2024-10-25,C0241,Customer 241,Faisalabad,Central,Online,Electronics,Smart Watch,4,152.21,10.0
+T01451,2024-08-02,C1289,Customer 1289,Karachi,South,Store,Grocery,Tea Pack,3,6.38,0.0
+T00186,2024-11-21,C1424,Customer 1424,Lahore,Central,Store,Clothing,Jacket,1,88.16,5.0
+T00460,2024-03-18,C0595,Customer 595,Faisalabad,Central,Store,Home Appliances,Air Fryer,2,95.06,0.0
+T01963,2024-04-14,C1479,Customer 1479,Karachi,South,Store,Home Appliances,Microwave,1,121.93,0.0
+T01730,2024-03-17,C0998,Customer 998,Faisalabad,Central,Store,Clothing,Sneakers,4,76.85,0.0
+T01877,2024-06-19,,Customer 619,Islamabad,North,Store,Home Appliances,Blender,1,40.73,5.0
+T01288,2024-06-20,C1210,Customer 1210,Hyderabad,South,Online,Grocery,Rice 5kg,3,12.22,5.0
+T00369,2024-01-17,C0636,Customer 636,Karachi,South,Store,Clothing,Sneakers,1,65.18,0.0
+T02146,2024-11-20,C1127,Customer 1127,Faisalabad,Central,Store,Electronics,Headphones,1,56.4,5.0
+T02355,2024-08-13,C1176,Customer 1176,Faisalabad,Central,Store,Grocery,Rice 5kg,4,11.58,5.0
+T00381,2024-01-04,C1249,Customer 1249,Lahore,Central,Online,Clothing,Sneakers,1,75.62,5.0
+T01915,2024-08-27,C1167,Customer 1167,Karachi,South,Store,Grocery,Snack Box,4,7.74,0.0
+T01698,2024-04-19,C0134,Customer 134,Peshawar,North,Store,Grocery,Rice 5kg,4,12.48,0.0
+T02841,2024-11-15,C1168,Customer 1168,Hyderabad,South,Store,Home Appliances,Microwave,3,113.17,0.0
+T01871,2024-02-01,C0286,Customer 286,Faisalabad,Central,Store,Electronics,Laptop,4,956.78,0.0
+T02504,2024-03-19,C1087,Customer 1087,Islamabad,North,Online,Electronics,Headphones,4,64.14,20.0
+T01433,2024-05-04,C1348,Customer 1348,Lahore,Central,Store,Clothing,Jacket,2,85.45,0.0
+T01601,2024-08-08,C1483,Customer 1483,Peshawar,North,Store,Grocery,Tea Pack,4,5.99,10.0
+T01333,2024-11-06,C1292,Customer 1292,Islamabad,North,Online,Electronics,Headphones,4,59.57,0.0
+T00144,2024-10-25,C0853,Customer 853,Karachi,South,Online,Electronics,Headphones,2,58.67,0.0
+T00250,2024-01-31,C0593,Customer 593,Islamabad,North,Online,Grocery,Tea Pack,2,6.6,0.0
+T01882,2024-07-12,C1497,Customer 1497,Islamabad,North,Store,Grocery,Rice 5kg,4,12.76,0.0
+T01937,2024-09-28,C1442,Customer 1442,Faisalabad,Central,Online,Grocery,Rice 5kg,2,12.89,20.0
+T02657,2024-02-12,C1246,Customer 1246,Karachi,South,Online,Electronics,Headphones,2,58.43,20.0
+T02886,2024-04-22,C1223,Customer 1223,Karachi,South,Store,Home Appliances,Blender,4,47.01,0.0
+T02398,2024-07-30,C0590,Customer 590,Hyderabad,South,Store,Home Appliances,Vacuum Cleaner,2,177.84,10.0
+T01488,2024-01-01,C0382,Customer 382,Islamabad,North,Store,Electronics,Headphones,4,58.59,5.0
+T01831,2024-09-16,C0523,Customer 523,Peshawar,North,Online,Electronics,Laptop,2,943.17,10.0
+T02419,2024-07-29,C0838,Customer 838,Lahore,Central,Store,Grocery,Rice 5kg,2,12.01,0.0
+T02618,2024-02-08,C0276,Customer 276,Hyderabad,South,Online,Grocery,Cooking Oil,4,9.1,0.0
+T01352,2024-10-13,C0849,Customer 849,Lahore,Central,Store,Clothing,Sneakers,4,65.9,0.0
+T01470,2024-02-14,C1123,Customer 1123,Islamabad,North,Online,Grocery,Rice 5kg,2,10.92,0.0
+T00147,2024-01-26,C0964,Customer 964,Islamabad,North,Store,Grocery,Cooking Oil,4,8.48,20.0
+T02069,2024-08-29,C0053,Customer 53,Karachi,South,Online,Grocery,Cooking Oil,4,8.73,0.0
+T02327,2024-09-06,C0849,Customer 849,Faisalabad,Central,Store,Electronics,Laptop,1,927.15,20.0
+T01359,2024-03-16,C1005,Customer 1005,Islamabad,North,Store,Electronics,Headphones,2,59.2,5.0
+T02056,2024-09-24,C1354,Customer 1354,Faisalabad,Central,Store,Home Appliances,Blender,3,41.63,0.0
+T00322,2024-03-19,C0243,Customer 243,Lahore,Central,Store,Electronics,Smart Watch,2,151.64,5.0
+T02095,2024-04-28,C0667,Customer 667,Peshawar,North,Store,Electronics,Smartphone,1,463.55,0.0
+T00100,2024-04-12,C0410,Customer 410,Islamabad,North,Online,Clothing,T-Shirt,2,15.96,0.0
+T02135,2024-11-17,C1090,Customer 1090,Karachi,South,Online,Grocery,Rice 5kg,1,12.31,5.0
+T01947,2024-04-24,C0555,Customer 555,Hyderabad,South,Store,Clothing,Jeans,2,39.44,20.0
+T00221,2024-04-03,C1050,Customer 1050,Faisalabad,Central,Store,Grocery,Snack Box,2,7.72,0.0
+T00928,2024-08-07,C0231,Customer 231,Islamabad,North,Online,Home Appliances,Microwave,4,108.14,0.0
+T02187,2024-08-10,C1295,Customer 1295,Islamabad,North,Online,Home Appliances,Blender,3,45.6,0.0
+T00534,2024-07-26,C1485,Customer 1485,Karachi,South,Online,Home Appliances,Microwave,2,117.22,0.0
+T00607,2024-08-23,C0492,Customer 492,Lahore,Central,Store,Grocery,Cooking Oil,4,8.6,5.0
+T02162,2024-06-27,C0040,Customer 40,Karachi,South,Online,Electronics,Smart Watch,1,148.08,10.0
+T02434,2024-08-17,C0755,Customer 755,Lahore,Central,Online,Grocery,Snack Box,1,8.64,10.0
+T00114,2024-12-01,C1396,Customer 1396,Hyderabad,South,Online,Home Appliances,Blender,3,49.39,10.0
+T00519,2024-12-13,C1018,Customer 1018,Hyderabad,South,Store,Clothing,Jacket,1,82.58,0.0
+T01120,2024-12-26,C0078,Customer 78,Lahore,Central,Store,Grocery,Snack Box,4,8.54,0.0
+T00036,2024-02-16,C1435,Customer 1435,Peshawar,North,Store,Electronics,Smart Watch,4,163.93,20.0
+T00831,2024-06-28,C1347,Customer 1347,Karachi,South,Store,Home Appliances,Air Fryer,1,100.56,0.0
+T02849,2024-07-23,C0906,Customer 906,Hyderabad,South,Store,Clothing,Jeans,2,41.82,0.0
+T00168,2024-05-01,C0403,Customer 403,Lahore,Central,Online,Home Appliances,Air Fryer,3,92.03,5.0
+T02639,2024-04-20,C0163,Customer 163,Lahore,Central,Store,Home Appliances,Air Fryer,4,93.44,0.0
+T00117,2024-01-28,C0943,Customer 943,Faisalabad,Central,Store,Grocery,Rice 5kg,2,11.84,10.0
+T00321,2024-08-22,C0128,Customer 128,Hyderabad,South,Online,Clothing,T-Shirt,2,16.24,5.0
+T00474,2024-12-07,C1329,Customer 1329,Peshawar,North,Store,Grocery,Tea Pack,4,5.66,0.0
+T02371,2024-02-02,C1176,Customer 1176,Islamabad,North,Online,Home Appliances,Blender,3,46.13,0.0
+T02238,2024-07-16,C1235,Customer 1235,Islamabad,North,Store,Grocery,Tea Pack,1,6.19,10.0
+T01782,2024-09-04,C0889,Customer 889,Faisalabad,Central,Store,Grocery,Rice 5kg,4,11.13,5.0
+T02526,2024-08-24,C0151,Customer 151,Faisalabad,Central,Store,Grocery,Cooking Oil,3,9.68,10.0
+T02265,2024-03-18,C1250,Customer 1250,Islamabad,North,Store,Home Appliances,Microwave,4,131.48,10.0
+T01645,2024-04-06,C0040,Customer 40,Islamabad,North,Online,Home Appliances,Air Fryer,4,88.4,10.0
+T01026,2024-02-10,C0210,Customer 210,Lahore,Central,Store,Home Appliances,Blender,4,43.14,20.0
+T02681,2024-03-26,C0286,Customer 286,Faisalabad,Central,Store,Clothing,Jeans,4,37.41,10.0
+T01773,2024-09-21,C0266,Customer 266,Lahore,Central,Store,Clothing,Jacket,2,80.24,5.0
+T00082,2024-11-15,C1231,Customer 1231,Hyderabad,South,Online,Clothing,Jacket,2,78.8,10.0
+T01529,2024-01-16,C0666,Customer 666,Islamabad,North,Store,Electronics,Smart Watch,4,145.6,20.0
+T01756,2024-08-20,C0904,Customer 904,Karachi,South,Store,Grocery,Cooking Oil,4,8.66,0.0
+T00063,2024-09-24,C0574,Customer 574,Faisalabad,Central,Store,Grocery,Rice 5kg,3,11.46,0.0
+T02650,2024-08-29,C1472,Customer 1472,Islamabad,North,Store,Clothing,Sneakers,1,64.47,0.0
+T00516,2024-03-17,C1459,Customer 1459,Lahore,Central,Store,Grocery,Rice 5kg,2,12.32,0.0
+T01355,2024-06-09,C0725,Customer 725,Karachi,South,Store,Grocery,Rice 5kg,1,11.91,0.0
+T00041,2024-04-30,C0593,Customer 593,Islamabad,North,Store,Home Appliances,Air Fryer,2,88.8,0.0
+T00020,2024-11-24,C1118,Customer 1118,Hyderabad,South,Store,Clothing,Sneakers,3,75.87,5.0
+T02810,2024-05-18,C0569,Customer 569,Lahore,Central,Store,Electronics,Headphones,2,64.17,0.0
+T01542,2024-06-25,C0944,Customer 944,Hyderabad,South,Store,Grocery,Rice 5kg,1,12.64,0.0
+T00290,2024-12-11,C0279,Customer 279,Islamabad,North,Online,Clothing,Jeans,2,36.1,0.0
+T00393,2024-09-25,C1196,Customer 1196,Islamabad,North,Online,Electronics,Headphones,2,60.84,10.0
+T01494,2024-08-31,C0393,Customer 393,Karachi,South,Online,Grocery,Rice 5kg,4,11.96,20.0
+T02220,2024-05-20,C0527,Customer 527,Peshawar,North,Store,Home Appliances,Microwave,1,113.24,10.0
+T02698,2024-10-31,C1152,Customer 1152,Hyderabad,South,Online,Electronics,Laptop,2,910.89,5.0
+T02807,2024-07-29,C0642,Customer 642,Islamabad,North,Store,Grocery,Tea Pack,3,6.16,5.0
+T01954,2024-12-05,C0215,Customer 215,Hyderabad,South,Online,Grocery,Rice 5kg,4,12.37,10.0
+T02130,2024-08-21,C0906,Customer 906,Hyderabad,South,Online,Electronics,Smartphone,2,462.28,10.0
+T02914,2024-06-13,C0236,Customer 236,Peshawar,North,Online,Grocery,Tea Pack,1,6.35,5.0
+T00371,2024-09-01,C1481,Customer 1481,Faisalabad,Central,Store,Electronics,Headphones,4,64.5,10.0
+T02911,2024-03-22,C0295,Customer 295,Karachi,South,Store,Home Appliances,Blender,2,44.14,0.0
+T00314,2024-07-24,C0338,Customer 338,Karachi,South,Store,Grocery,Snack Box,3,8.39,0.0
+T02566,2024-11-11,C0957,Customer 957,Peshawar,North,Store,Home Appliances,Vacuum Cleaner,4,180.09,5.0
+T01551,2024-07-23,C0068,Customer 68,Faisalabad,Central,Online,Grocery,Rice 5kg,3,11.05,10.0
+T00971,2024-08-06,C0717,Customer 717,Peshawar,North,Online,Electronics,Smartphone,1,487.24,20.0
+T00203,2024-12-27,C1155,Customer 1155,Karachi,South,Store,Home Appliances,Air Fryer,3,101.94,0.0
+T01864,2024-09-28,C1078,Customer 1078,Lahore,Central,Store,Home Appliances,Blender,2,46.86,0.0
+T02462,2024-06-06,C0005,Customer 5,Lahore,Central,Store,Clothing,T-Shirt,3,14.79,0.0
+T00439,2024-02-29,C1403,Customer 1403,Hyderabad,South,Online,Grocery,Rice 5kg,2,12.2,5.0
+T00327,2024-06-21,C0242,Customer 242,Peshawar,North,Store,Clothing,Jacket,4,91.9,20.0
+T01159,2024-10-07,C0300,Customer 300,Islamabad,North,Online,Electronics,Smart Watch,3,142.11,0.0
+T02191,2024-09-21,C1100,Customer 1100,Hyderabad,South,Store,Clothing,Jacket,1,89.85,0.0
+T01789,2024-12-11,C0460,Customer 460,Faisalabad,Central,Store,Grocery,Snack Box,2,7.61,10.0
+T00282,2024-12-21,C1132,Customer 1132,Faisalabad,Central,Store,Home Appliances,Vacuum Cleaner,2,190.55,20.0
+T01633,2024-03-07,C0413,Customer 413,Peshawar,North,Store,Electronics,Headphones,4,60.78,10.0
+T00352,2024-02-02,C1408,Customer 1408,Islamabad,North,Online,Electronics,Laptop,4,986.63,20.0
+T01356,2024-12-28,C1236,Customer 1236,Faisalabad,Central,Online,Clothing,T-Shirt,2,15.06,0.0
+T02466,2024-05-22,C0833,Customer 833,Faisalabad,Central,Store,Grocery,Snack Box,3,8.47,0.0
+T00102,2024-05-25,C0197,Customer 197,Islamabad,North,Online,Grocery,Tea Pack,1,5.42,20.0
+T02740,2024-09-08,C0055,Customer 55,Hyderabad,South,Store,Clothing,Sneakers,2,66.72,5.0
+T02991,2024-11-28,C0075,Customer 75,Hyderabad,South,Online,Grocery,Tea Pack,4,6.46,10.0
+T00447,2024-08-17,C0481,Customer 481,Peshawar,North,Store,Home Appliances,Vacuum Cleaner,3,170.46,10.0
+T00575,2024-01-06,C1430,Customer 1430,Islamabad,North,Online,Grocery,Tea Pack,3,6.08,0.0
+T00857,2024-06-27,C0539,Customer 539,Lahore,Central,Store,HOME APPLIANCES,Vacuum Cleaner,2,174.13,10.0
+T00748,2024-08-17,C1478,Customer 1478,Faisalabad,Central,Store,Home Appliances,Air Fryer,4,92.32,20.0
+T00573,2024-07-25,C1034,Customer 1034,Karachi,South,Online,Grocery,Cooking Oil,1,9.32,0.0
+T02736,2024-04-11,C0836,Customer 836,Faisalabad,Central,Store,Grocery,Tea Pack,2,6.44,5.0
+T00104,2024-01-06,C0659,Customer 659,Islamabad,North,Online,Clothing,Jacket,1,81.62,10.0
+T00411,2024-05-07,C0107,Customer 107,Faisalabad,Central,Online,Electronics,Headphones,1,55.64,10.0
+T02052,2024-08-08,C0227,Customer 227,Faisalabad,Central,Online,Home Appliances,Microwave,3,109.79,0.0
+T01179,2024-07-08,C0691,Customer 691,Peshawar,North,Store,Electronics,Headphones,1,63.03,20.0
+T01855,2024-03-18,C0084,Customer 84,Hyderabad,South,Store,Clothing,T-Shirt,3,15.71,0.0
+T02913,2024-12-10,C1033,Customer 1033,Lahore,Central,Store,CLOTHING,Jacket,2,88.34,5.0
+T02040,2024-11-24,C0323,Customer 323,Lahore,Central,Online,Clothing,Jeans,4,39.05,0.0
+T02412,2024-02-06,C0703,Customer 703,Lahore,Central,Store,ELECTRONICS,Smart Watch,3,145.85,0.0
+T00385,2024-01-24,C1198,Customer 1198,Islamabad,North,Store,Electronics,Laptop,2,974.9,0.0
+T02145,2024-09-21,C0961,Customer 961,Peshawar,North,Store,Electronics,Smartphone,2,473.47,0.0
+T01019,2024-01-31,C0281,Customer 281,Faisalabad,Central,Online,Home Appliances,Air Fryer,1,96.03,20.0
+T01395,2024-06-06,C0764,Customer 764,Islamabad,North,Store,Electronics,Laptop,3,964.09,0.0
+T00916,2024-11-30,C0118,Customer 118,Hyderabad,South,Online,Home Appliances,Air Fryer,4,85.63,0.0
+T00814,2024-07-26,C0665,Customer 665,Lahore,Central,Store,Grocery,Cooking Oil,3,8.34,20.0
+T01406,2024-04-23,C1343,Customer 1343,Islamabad,North,Store,Electronics,Headphones,3,60.25,5.0
+T00883,2024-11-23,C0863,Customer 863,Islamabad,North,Store,Grocery,Tea Pack,4,5.7,20.0
+T00699,2024-02-06,C0435,Customer 435,Islamabad,North,Online,Grocery,Rice 5kg,1,12.27,10.0
+T01839,2024-06-11,C1277,Customer 1277,Karachi,South,Store,Grocery,Cooking Oil,4,8.21,20.0
+T00004,2024-11-16,C1441,Customer 1441,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,4,165.3,20.0
+T00216,2024-07-17,C0397,Customer 397,Lahore,Central,Store,Electronics,Smartphone,3,418.05,20.0
+T00977,2024-03-10,C0967,Customer 967,Hyderabad,South,Online,Electronics,Smartphone,3,485.84,5.0
+T02723,2024-03-23,C1027,Customer 1027,Hyderabad,South,Store,Home Appliances,Microwave,4,128.8,20.0
+T02523,2024-06-02,C1127,Customer 1127,Hyderabad,South,Online,Electronics,Smart Watch,1,152.19,20.0
+T01192,2024-07-21,C0514,Customer 514,Hyderabad,South,Online,Electronics,Smart Watch,2,146.19,5.0
+T01517,2024-12-18,C0528,Customer 528,Islamabad,North,Store,Home Appliances,Vacuum Cleaner,2,163.67,20.0
+T00522,2024-04-16,C0499,Customer 499,Karachi,South,Online,Clothing,Jeans,4,41.33,10.0
+T01261,2024-07-13,C0339,Customer 339,Karachi,South,Online,Electronics,Smartphone,2,421.41,0.0
+T02209,2024-06-20,C0736,Customer 736,Lahore,Central,Online,Clothing,Jeans,2,38.78,0.0
+T01038,2024-01-11,C0922,Customer 922,Lahore,Central,Online,Grocery,Cooking Oil,3,9.89,5.0
+T00390,2024-04-21,C1017,Customer 1017,Faisalabad,Central,Store,Electronics,Smartphone,1,488.17,5.0
+T00952,2024-08-10,C0330,Customer 330,Islamabad,North,Store,Home Appliances,Microwave,3,111.19,0.0
+T00412,2024-06-16,C1480,Customer 1480,Hyderabad,South,Online,Grocery,Rice 5kg,1,11.1,20.0
+T01806,2024-02-02,C1130,Customer 1130,Karachi,South,Online,Home Appliances,Air Fryer,2,92.23,0.0
+T01302,2024-10-19,C0985,Customer 985,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,1,171.12,20.0
+T02745,2024-05-25,C0026,Customer 26,Islamabad,North,Store,Clothing,Jeans,2,40.63,20.0
+T01297,2024-07-10,C0669,Customer 669,Faisalabad,Central,Store,Home Appliances,Microwave,3,109.96,5.0
+T01771,2024-09-03,C0444,Customer 444,Faisalabad,Central,Online,Home Appliances,Microwave,3,122.47,5.0
+T02374,2024-10-17,C0359,Customer 359,Karachi,South,Store,Home Appliances,Air Fryer,1,86.03,0.0
+T02053,2024-09-20,C1445,Customer 1445,Islamabad,North,Online,Clothing,Sneakers,-1,66.44,20.0
+T01022,2024-02-22,C0072,Customer 72, karachi ,North,Store,Home Appliances,Air Fryer,3,93.18,10.0
+T02884,2024-02-05,C0334,Customer 334,Faisalabad,Central,Online,Clothing,Jeans,2,43.02,5.0
+T00759,2024-04-03,C0121,Customer 121,Faisalabad,Central,Online,Clothing,Sneakers,2,70.48,20.0
+T02255,2024-08-03,C0519,Customer 519,Peshawar,North,Store,Home Appliances,Air Fryer,2,103.81,0.0
+T00429,2024-01-19,C1170,Customer 1170,Faisalabad,Central,Online,Grocery,Rice 5kg,2,11.49,5.0
+T00074,2024-04-04,C1174,Customer 1174,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,2,162.94,0.0
+T01345,2024-05-16,C0562,Customer 562,Faisalabad,Central,Store,Clothing,Sneakers,2,71.14,0.0
+T01875,2024-10-25,C0286,Customer 286,Hyderabad,South,Store,Electronics,Smart Watch,3,145.11,5.0
+T00506,2024-11-27,C1333,Customer 1333,Peshawar,North,Store,Grocery,Snack Box,4,8.12,10.0
+T02696,2024-09-27,C0097,Customer 97,Hyderabad,South,Store,Electronics,Smart Watch,2,136.76,10.0
+T01395,2024-06-06,C0764,Customer 764,Islamabad,North,Store,Electronics,Laptop,3,964.09,0.0
+T02480,2024-04-08,C0863,Customer 863,Islamabad,North,Online,Grocery,Tea Pack,2,6.54,10.0
+T02920,2024-10-03,C1372,Customer 1372,Peshawar,North,Store,Home Appliances,Microwave,2,130.65,0.0
+T02786,2024-03-26,C0927,Customer 927,Peshawar,North,Online,Electronics,Smart Watch,2,150.58,0.0
+T02728,2024-01-30,C0157,Customer 157,Karachi,South,Online,Grocery,Rice 5kg,4,12.92,10.0
+T01635,2024-10-29,C0152,Customer 152,Hyderabad,South,Online,Grocery,Tea Pack,2,5.98,0.0
+T01121,2024-01-11,C1089,Customer 1089,Karachi,South,Online,Home Appliances,Microwave,2,118.99,5.0
+T02347,2024-08-26,C0747,Customer 747,Faisalabad,Central,Online,Electronics,Smart Watch,4,135.67,10.0
+T00612,2024-12-03,C1024,Customer 1024,Karachi,South,Store,Grocery,Rice 5kg,2,12.61,10.0
+T00426,2024-05-25,C1470,Customer 1470,Peshawar,North,Store,Clothing,Sneakers,1,73.48,20.0
+T01090,2024-04-13,C1472,Customer 1472,Faisalabad,Central,Online,Clothing,Jacket,2,92.73,10.0
+T02830,2024-04-02,C0685,Customer 685,Faisalabad,Central,Store,Clothing,Jeans,3,42.7,10.0
+T01409,2024-01-02,C0391,Customer 391,Islamabad,North,Store,Clothing,Jeans,3,38.5,0.0
+T00566,2024-06-21,C0392,Customer 392,Faisalabad,Central,Store,Home Appliances,Blender,3,49.24,0.0
+T02954,2024-11-14,C0981,Customer 981,Faisalabad,Central,Store,Electronics,Headphones,3,57.24,0.0
+T00783,2024-03-30,C0158,Customer 158,Karachi,South,Store,Clothing,Jeans,4,36.36,20.0
+T00630,2024-09-24,C1245,Customer 1245,Hyderabad,South,Store,Home Appliances,Air Fryer,-1,95.94,10.0
+T00501,2024-03-24,C0092,Customer 92,Faisalabad,Central,Store,Electronics,Headphones,1,63.65,5.0
+T02925,2024-11-04,C1368,Customer 1368,Islamabad,North,Store,Clothing,Sneakers,4,66.44,5.0
+T00165,2024-11-01,C0193,Customer 193,Islamabad,North,Store,Grocery,Snack Box,2,7.5,0.0
+T02881,2024-01-30,C0234,Customer 234,Lahore,Central,Online,Electronics,Smart Watch,3,164.25,10.0
+T02850,2024-09-20,C0090,Customer 90,Hyderabad,South,Store,Grocery,Tea Pack,1,5.84,10.0
+T01523,2024-05-19,C0808,Customer 808,Islamabad,North,Online,Electronics,Smartphone,2,437.44,10.0
+T00379,2024-10-04,C1287,Customer 1287,Islamabad,North,Store,Grocery,Cooking Oil,2,8.34,20.0
+T02975,2024-01-13,C1446,Customer 1446,Karachi,South,Store,Electronics,Smartphone,2,423.14,10.0
+T02283,2024-08-24,C1240,Customer 1240,Islamabad,North,Online,Grocery,Snack Box,2,8.63,10.0
+T02202,2024-01-06,C0617,Customer 617,Peshawar,North,Online,Electronics,Smartphone,3,433.17,10.0
+T01956,2024-10-19,C0290,Customer 290,Karachi,South,Store,Clothing,Jacket,2,83.46,10.0
+T01697,2024-12-08,C0114,Customer 114,Hyderabad,South,Online,Grocery,Snack Box,3,7.32,10.0
+T01178,2024-05-19,C1076,Customer 1076,Hyderabad,South,Store,Home Appliances,Microwave,1,124.92,0.0
+T00190,2024-08-08,C1252,Customer 1252,Hyderabad,South,Store,Clothing,Jacket,4,86.77,0.0
+T02716,2024-12-04,C0648,Customer 648,Karachi,South,Store,Grocery,Tea Pack,3,6.18,0.0
+T00275,2024-11-01,C0365,Customer 365,Islamabad,North,Store,Clothing,Sneakers,1,68.38,20.0
+T01075,2024-12-06,C0487,Customer 487,Lahore,Central,Store,Clothing,Jacket,3,80.93,0.0
+T02703,2024-06-10,C0416,Customer 416,Islamabad,North,Store,Electronics,Smartphone,1,471.71,0.0
+T02622,2024-10-13,C0068,Customer 68,Faisalabad,Central,Store,Clothing,Jacket,2,90.47,0.0
+T02210,2024-04-10,C0048,Customer 48,Lahore,Central,Online,Home Appliances,Microwave,1,120.34,20.0
+T00838,2024-05-24,C0900,Customer 900,Lahore,Central,Online,Grocery,Cooking Oil,2,8.73,0.0
+T02312,2024-02-19,C1391,Customer 1391,Hyderabad,South,Store,Electronics,Smartphone,1,465.89,0.0
+T02507,2024-12-01,C0163,Customer 163,Peshawar,North,Store,Home Appliances,Microwave,3,118.82,0.0
+T01251,2024-06-25,C0628,Customer 628,Peshawar,North,Online,Grocery,Rice 5kg,2,11.79,20.0
+T02354,2024-12-05,C0709,Customer 709,Faisalabad,Central,Store,Home Appliances,Microwave,3,123.42,10.0
+T01803,2024-11-27,C0333,Customer 333,Karachi,South,Store,Electronics,Headphones,2,55.28,10.0
+T00817,2024-02-01,,Customer 678,Lahore,Central,Online,Home Appliances,Vacuum Cleaner,2,166.94,0.0
+T02997,2024-08-08,C1282,Customer 1282,Peshawar,North,Online,Clothing,Jacket,1,92.6,0.0
+T01941,2024-04-30,C1091,Customer 1091,Islamabad,North,Online,Clothing,Sneakers,2,64.65,0.0
+T00303,2024-01-08,C0903,Customer 903,Islamabad,North,Store,Home Appliances,Vacuum Cleaner,1,185.74,20.0
+T00572,2024-10-30,C1264,Customer 1264,Karachi,South,Store,Grocery,Rice 5kg,3,12.87,5.0
+T02664,2024-12-28,C0677,Customer 677,Peshawar,North,Online,Home Appliances,Air Fryer,3,92.04,20.0
+T01512,2024-06-15,C0783,Customer 783,Karachi,South,Online,Clothing,Jeans,1,41.85,10.0
+T02800,2024-10-16,C0631,Customer 631,Karachi,South,Store,Electronics,Smart Watch,1,155.0,10.0
+T01854,2024-04-27,C0103,Customer 103,Hyderabad,South,Online,Home Appliances,Air Fryer,2,91.7,0.0
+T02487,2024-06-27,C0320,Customer 320, karachi ,North,Online,Electronics,Headphones,3,54.7,0.0
+T02215,2024-03-25,C1206,Customer 1206,Peshawar,North,Online,Electronics,Smart Watch,2,152.51,0.0
+T02012,2024-10-13,C0080,Customer 80,Faisalabad,Central,Store,Home Appliances,Blender,1,44.45,0.0
+T00298,2024-11-16,C1362,Customer 1362,Karachi,South,Store,Electronics,Smart Watch,3,138.82,20.0
+T01869,2024-01-23,C1383,Customer 1383,Faisalabad,Central,Store,Clothing,Jacket,2,79.7,0.0
+T00924,2024-04-15,C0626,Customer 626,Islamabad,North,Online,Home Appliances,Air Fryer,2,103.64,20.0
+T02248,2024-05-08,C1398,Customer 1398,Karachi,South,Store,Electronics,Smart Watch,3,160.07,0.0
+T02450,2024-05-05,C0252,Customer 252,Hyderabad,South,Online,Home Appliances,Microwave,4,121.39,0.0
+T01556,2024-04-28,C0325,Customer 325,Lahore,Central,Store,Electronics,Smartphone,1,469.01,10.0
+T01099,2024-01-31,C1191,Customer 1191,Karachi,South,Store,Home Appliances,Blender,3,45.88,0.0
+T00009,2024-05-27,C0944,Customer 944,Peshawar,North,Store,Home Appliances,Vacuum Cleaner,1,184.88,20.0
+T02968,2024-06-15,C0910,Customer 910,Hyderabad,South,Online,Clothing,Jacket,3,83.37,10.0
+T01666,2024-10-16,C1241,Customer 1241,Lahore,Central,Online,GROCERY,Tea Pack,4,5.81,20.0
+T00830,2024-01-22,C0226,Customer 226,Faisalabad,Central,Online,Grocery,Tea Pack,1,5.52,10.0
+T00386,2024-03-30,C0371,Customer 371,Hyderabad,South,Online,Clothing,Jacket,2,88.09,10.0
+T02306,2024-03-11,C1221,Customer 1221,Islamabad,North,Online,Electronics,Smart Watch,3,141.17,20.0
+T00450,2024-07-28,C0744,Customer 744,Peshawar,North,Online,Grocery,Cooking Oil,2,9.24,10.0
+T01115,2024-05-21,C0437,Customer 437,Hyderabad,South,Store,Electronics,Headphones,1,63.17,0.0
+T02910,2024-09-10,C0777,Customer 777,Peshawar,North,Store,Clothing,Sneakers,4,76.29,0.0
+T02788,2024-02-13,C0916,Customer 916,Hyderabad,South,Store,Home Appliances,Vacuum Cleaner,4,169.75,20.0
+T01227,2024-03-19,C0675,Customer 675,Peshawar,North,Store,Electronics,Smartphone,3,460.57,0.0
+T02928,2024-08-22,C0889,Customer 889,Lahore,Central,Store,Electronics,Laptop,1,943.7,20.0
+T02680,2024-09-30,C0069,Customer 69,Islamabad,North,Online,GROCERY,Rice 5kg,4,11.07,20.0
+T02789,2024-01-04,C0817,Customer 817,Peshawar,North,Online,Clothing,Jacket,2,88.43,10.0
+T02761,2024-04-07,C0188,Customer 188,Lahore,Central,Store,Grocery,Tea Pack,1,5.42,5.0
+T01107,2024-06-27,C0155,Customer 155,Lahore,Central,Store,Home Appliances,Air Fryer,4,93.07,0.0
+T00498,2024-09-30,C0715,Customer 715,Karachi,South,Store,Electronics,Headphones,3,55.66,5.0
+T00353,2024-08-06,C0159,Customer 159,Faisalabad,Central,Store,Home Appliances,Vacuum Cleaner,4,194.86,0.0
+T01931,2024-03-06,C0023,Customer 23,Peshawar,North,Store,Clothing,Sneakers,1,71.34,5.0
+T00443,2024-04-06,C0684,Customer 684,Lahore,Central,Online,Clothing,T-Shirt,1,15.61,5.0
+T01561,2024-07-31,C0733,Customer 733,Peshawar,North,Store,Home Appliances,Microwave,2,131.91,5.0
+T01647,2024-09-07,C1119,Customer 1119,Peshawar,North,Store,Clothing,Jacket,3,85.12,10.0
+T00784,2024-03-30,C1140,Customer 1140,Lahore,Central,Online,Electronics,Smartphone,1,407.38,0.0
+T01988,2024-06-03,C1385,Customer 1385,Hyderabad,South,Store,Clothing,Jeans,2,41.05,0.0
+T00349,2024-05-11,C0183,Customer 183,Hyderabad,South,Store,Grocery,Snack Box,1,8.12,5.0
+T00069,2024-02-25,,Customer 224,Hyderabad,South,Store,Grocery,Rice 5kg,1,10.97,0.0
+T00798,2024-11-30,C0098,Customer 98,Peshawar,North,Online,Electronics,Smartphone,2,427.87,5.0
+T01437,2024-11-07,C0983,Customer 983,Hyderabad,South,Online,Electronics,Headphones,1,56.83,20.0
+T02454,2024-12-09,C1178,Customer 1178,Hyderabad,South,Store,Grocery,Cooking Oil,3,9.4,20.0
+T00178,2024-04-27,C0445,Customer 445,Islamabad,North,Store,Home Appliances,Blender,1,40.64,0.0
+T00954,2024-11-08,C0696,Customer 696,Hyderabad,South,Store,Home Appliances,Air Fryer,1,101.25,0.0
+T01816,2024-03-21,C0447,Customer 447,Islamabad,North,Online,Grocery,Rice 5kg,3,12.5,0.0
+T02140,2024-10-19,C1494,Customer 1494,Faisalabad,Central,Store,Home Appliances,Blender,4,47.13,0.0
+T02540,2024-12-26,C1487,Customer 1487,Karachi,South,Store,Clothing,Jacket,4,88.39,0.0
+T00253,2024-05-17,C0235,Customer 235,Lahore,Central,Store,Electronics,Laptop,1,964.07,10.0
+T01439,2024-08-20,C0517,Customer 517,Karachi,South,Store,Grocery,Rice 5kg,1,11.68,0.0
+T01921,2024-10-14,C1465,Customer 1465,Faisalabad,Central,Store,Clothing,Jacket,1,86.85,0.0
+T00194,2024-09-21,C0288,Customer 288,Lahore,Central,Store,Home Appliances,Vacuum Cleaner,4,166.01,0.0
+T02931,2024-05-07,C1391,Customer 1391,Faisalabad,Central,Online,Clothing,T-Shirt,3,16.35,5.0
+T01508,2024-12-16,C0882,Customer 882,Faisalabad,Central,Store,Home Appliances,Blender,1,46.25,5.0
+T01331,2024-11-24,C0278,Customer 278,Faisalabad,Central,Online,Grocery,Tea Pack,2,5.44,0.0
+T00256,2024-04-15,C0284,Customer 284,Lahore,Central,Store,Home Appliances,Air Fryer,4,95.72,0.0
+T01489,2024-03-22,C0997,Customer 997,Hyderabad,South,Store,Grocery,Cooking Oil,2,8.5,0.0
+T01745,2024-06-02,C1045,Customer 1045,Lahore,Central,Store,Grocery,Snack Box,3,7.87,0.0
+T02381,2024-05-11,C0249,Customer 249,Peshawar,North,Online,Home Appliances,Microwave,3,117.26,0.0
+T02157,2024-11-19,C1394,Customer 1394,Lahore,Central,Store,Electronics,Laptop,3,959.14,0.0
+T02882,2024-06-21,C1480,Customer 1480,Islamabad,North,Store,Clothing,Jeans,4,36.42,0.0
+T02522,2024-02-02,C0980,Customer 980,Lahore,Central,Store,Clothing,Sneakers,2,76.68,20.0
+T02370,2024-05-08,C0428,Customer 428,Faisalabad,Central,Online,Home Appliances,Microwave,1,126.77,5.0
+T02912,2024-03-07,C0505,Customer 505,Islamabad,North,Store,Grocery,Snack Box,1,7.79,0.0
+T02395,2024-12-11,C0815,Customer 815,Islamabad,North,Store,Grocery,Tea Pack,4,5.92,5.0
+T02291,2024-10-15,C1243,Customer 1243,Karachi,South,Store,Home Appliances,Microwave,4,111.63,5.0
+T02665,2024-06-05,C0820,Customer 820,Karachi,South,Online,Grocery,Cooking Oil,4,8.36,5.0
+T02467,2024-08-07,C0051,Customer 51,Islamabad,North,Store,Electronics,Headphones,4,55.11,5.0
+T01891,2024-05-15,C1258,Customer 1258,Hyderabad,South,Store,Electronics,Headphones,2,64.32,10.0
+T00622,2024-12-14,C0334,Customer 334,Faisalabad,Central,Store,Grocery,Rice 5kg,3,12.38,20.0
+T01511,2024-08-31,C0450,Customer 450,Islamabad,North,Store,Electronics,Laptop,1,820.47,0.0
+T01701,2024-07-12,C1333,Customer 1333,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,2,167.17,10.0
+T02720,2024-04-29,C0687,Customer 687,Islamabad,North,Online,Grocery,Tea Pack,2,5.74,10.0
+T00664,2024-05-27,C1444,Customer 1444,Islamabad,North,Store,Clothing,Jacket,3,82.93,0.0
+T00574,2024-02-05,C0496,Customer 496,Islamabad,North,Online,Grocery,Tea Pack,3,5.79,0.0
+T02354,2024-12-05,C0709,Customer 709,Faisalabad,Central,Store,Home Appliances,Microwave,3,123.42,10.0
+T02360,2024-06-01,C0513,Customer 513,Karachi,South,Online,Electronics,Smart Watch,2,156.25,0.0
+T02909,2024-04-03,C1194,Customer 1194,Islamabad,North,Online,Clothing,Jeans,1,38.32,10.0
+T01122,2024-03-02,C1419,Customer 1419,Hyderabad,South,Online,Grocery,Snack Box,1,8.08,20.0
+T02021,2024-08-09,,Customer 1321,Islamabad,North,Store,Electronics,Laptop,1,880.58,0.0
+T00140,2024-11-14,C0742,Customer 742,Peshawar,North,Online,Home Appliances,Air Fryer,4,89.11,10.0
+T00259,2024-05-07,C0847,Customer 847,Faisalabad,Central,Store,Home Appliances,Blender,4,46.25,0.0
+T00617,2024-07-01,C0078,Customer 78,Peshawar,North,Store,Grocery,Rice 5kg,3,10.89,10.0
+T01798,2024-05-15,C0186,Customer 186,Faisalabad,Central,Online,Home Appliances,Vacuum Cleaner,2,181.9,5.0
+T00726,2024-03-26,C1486,Customer 1486,Islamabad,North,Store,Electronics,Headphones,2,54.9,20.0
+T01637,2024-04-30,C1237,Customer 1237,Islamabad,North,Store,Grocery,Rice 5kg,3,11.33,20.0
+T02521,2024-11-19,,Customer 656,Islamabad,North,Store,Electronics,Laptop,2,879.54,5.0
+T00678,2024-03-02,C1154,Customer 1154,Karachi,South,Store,Clothing,Jacket,2,83.84,5.0
+T01153,2024-11-10,C1368,Customer 1368,Karachi,South,Store,Home Appliances,Blender,4,44.22,5.0
+T00056,2024-02-01,C0718,Customer 718,Peshawar,North,Store,Grocery,Tea Pack,1,6.06,20.0
+T02541,2024-07-30,C0427,Customer 427,Islamabad,North,Online,Grocery,Cooking Oil,3,9.68,5.0
+T02259,2024-01-01,C1005,Customer 1005,Lahore,Central,Store,Home Appliances,Microwave,4,114.85,0.0
+T01289,2024-03-15,C1147,Customer 1147,Faisalabad,Central,Store,Clothing,Jeans,3,39.27,0.0
+T00167,2024-08-22,C1124,Customer 1124,Islamabad,North,Store,Grocery,Snack Box,2,7.34,10.0
+T02900,2024-05-27,C1313,Customer 1313,Lahore,Central,Store,Home Appliances,Air Fryer,1,100.18,20.0
+T00873,2024-03-24,C1298,Customer 1298,Hyderabad,South,Store,Home Appliances,Blender,1,48.71,0.0
+T01362,2024-02-19,C1178,Customer 1178,Peshawar,North,Store,Grocery,Cooking Oil,2,8.61,10.0
+T00888,2024-05-20,C0266,Customer 266,Peshawar,North,Store,Clothing,Sneakers,4,74.74,10.0
+T00889,2024-01-12,C0210,Customer 210,Faisalabad,Central,Online,Grocery,Tea Pack,2,6.29,0.0
+T02440,2024-02-18,C0835,Customer 835,Hyderabad,South,Online,Grocery,Rice 5kg,4,12.98,20.0
+T01820,2024-08-03,C1398,Customer 1398,Peshawar,North,Store,Clothing,T-Shirt,3,14.56,0.0
+T02472,2024-03-13,C0691,Customer 691,Lahore,Central,Store,Clothing,Sneakers,2,70.65,5.0
+T01057,2024-11-24,C1271,Customer 1271,Faisalabad,Central,Store,Electronics,Smart Watch,4,162.27,5.0
+T00365,2024-03-25,C0242,Customer 242,Peshawar,North,Store,Electronics,Smartphone,1,405.08,0.0
+T01101,2024-12-16,C0138,Customer 138,Islamabad,North,Online,Grocery,Tea Pack,3,5.47,10.0
+T01173,2024-10-12,C0760,Customer 760,Faisalabad,Central,Store,Grocery,Cooking Oil,2,9.45,10.0
+T00801,2024-01-09,C1385,Customer 1385,Peshawar,North,Store,Home Appliances,Microwave,1,111.84,20.0
+T00618,2024-07-13,C0614,Customer 614,Faisalabad,Central,Online,Home Appliances,Vacuum Cleaner,4,197.84,0.0
+T02658,2024-07-16,C1219,Customer 1219,Hyderabad,South,Online,Electronics,Smart Watch,3,142.05,0.0
+T00124,2024-12-09,C0921,Customer 921,Hyderabad,South,Online,Home Appliances,Blender,4,48.83,5.0
+T00335,2024-12-01,C0109,Customer 109,Karachi,South,Store,Grocery,Cooking Oil,1,8.84,20.0
+T02895,2024-07-09,C0808,Customer 808,Islamabad,North,Online,Electronics,Laptop,4,954.29,0.0
+T02550,2024-04-03,C1132,Customer 1132,Karachi,South,Store,Clothing,Sneakers,2,68.64,0.0
+T00919,2024-07-04,C0091,Customer 91,Peshawar,North,Store,Clothing,Jacket,1,81.76,5.0
+T01285,2024-10-05,C0183,Customer 183,Karachi,South,Store,Clothing,Sneakers,1,65.2,5.0
+T01880,2024-03-14,C1135,Customer 1135,Hyderabad,South,Store,Electronics,Smart Watch,1,135.16,20.0
+T01862,2024-08-04,C1243,Customer 1243,Karachi,South,Online,Electronics,Smart Watch,1,152.91,0.0
+T01351,2024-02-14,C0913,Customer 913,Lahore,Central,Online,Home Appliances,Microwave,4,108.73,20.0
+T01528,2024-04-10,C0140,Customer 140,Faisalabad,Central,Store,Grocery,Cooking Oil,3,8.74,0.0
+T02420,2024-11-01,C0965,Customer 965,Peshawar,North,Online,Home Appliances,Vacuum Cleaner,2,167.53,10.0
+T02254,2024-12-31,C0841,Customer 841,Islamabad,North,Online,Clothing,Jacket,4,79.62,0.0
+T00410,2024-01-11,C0711,Customer 711,Lahore,Central,Store,Grocery,Cooking Oil,3,8.81,5.0
+T00298,2024-11-16,C1362,Customer 1362,Karachi,South,Store,Electronics,Smart Watch,3,138.82,20.0
+T00023,2024-05-13,C0581,Customer 581,Peshawar,North,Store,Electronics,Smartphone,4,491.34,10.0
+T00729,2024-12-22,C0512,Customer 512,Faisalabad,Central,Online,Home Appliances,Microwave,3,109.42,0.0
+T01622,2024-01-03,C1493,Customer 1493,Faisalabad,Central,Online,Electronics,Headphones,4,61.0,5.0
+T01308,2024-06-22,C1199,Customer 1199,Faisalabad,Central,Store,Grocery,Snack Box,1,7.44,5.0
+T01673,2024-07-14,C0316,Customer 316,Hyderabad,South,Online,Clothing,Sneakers,2,72.13,0.0
+T00182,2024-04-21,C0293,Customer 293,Lahore,Central,Store,Clothing,Jeans,1,41.49,0.0
+T02958,2024-12-20,C1075,Customer 1075,Lahore,Central,Online,Home Appliances,Vacuum Cleaner,1,187.37,20.0
+T00294,2024-08-30,C0435,Customer 435,Lahore,Central,Online,Grocery,Snack Box,4,8.19,5.0
+T00127,2024-02-27,C1249,Customer 1249,Faisalabad,Central,Store,Electronics,Headphones,4,63.14,20.0
+T00532,2024-04-30,C0107,Customer 107,Faisalabad,Central,Store,Grocery,Rice 5kg,4,11.91,20.0
+T01432,2024-05-15,C0132,Customer 132,Faisalabad,Central,Online,Electronics,Smartphone,-1,431.89,10.0
+T02207,2024-04-08,C1059,Customer 1059,Peshawar,North,Store,Home Appliances,Microwave,1,121.23,0.0
+T01993,2024-07-28,C1488,Customer 1488,Lahore,Central,Online,Clothing,Jeans,1,38.37,20.0
+T00935,2024-11-19,C0276,Customer 276,Peshawar,North,Store,Home Appliances,Air Fryer,3,95.83,0.0
+T00687,2024-10-23,C0159,Customer 159,Peshawar,North,Online,Electronics,Smartphone,2,410.97,0.0
+T00818,2024-03-18,C1205,Customer 1205,Peshawar,North,Store,Clothing,Sneakers,1,72.25,5.0
+T00217,2024-02-27,C0009,Customer 9,Islamabad,North,Store,Grocery,Tea Pack,1,5.64,20.0
+T02845,2024-11-29,C1311,Customer 1311,Hyderabad,South,Online,Electronics,Smartphone,4,455.89,0.0
+T01842,2024-03-11,C0186,Customer 186,Hyderabad,South,Online,Grocery,Snack Box,4,7.89,20.0
+T01283,2024-10-14,C0255,Customer 255,Peshawar,North,Online,Home Appliances,Microwave,1,124.3,5.0
+T01605,2024-03-31,C0317,Customer 317,Karachi,South,Online,Clothing,T-Shirt,3,15.65,10.0
+T02866,2024-01-26,C0845,Customer 845,Islamabad,North,Online,Clothing,Jacket,1,79.55,20.0
+T01151,2024-09-27,C0494,Customer 494,Islamabad,North,Store,Grocery,Snack Box,3,8.06,0.0
+T02741,2024-05-15,C1126,Customer 1126,Lahore,Central,Store,Clothing,Sneakers,3,70.92,0.0
+T01555,2024-11-30,C1064,Customer 1064,Lahore,Central,Store,Clothing,T-Shirt,2,14.43,10.0
+T00251,2024-05-11,C0508,Customer 508,Karachi,South,Store,Home Appliances,Microwave,3,127.16,5.0
+T00844,2024-01-27,C0451,Customer 451,Faisalabad,Central,Store,Home Appliances,Microwave,3,112.56,10.0
+T02421,2024-07-07,C1202,Customer 1202,Faisalabad,Central,Online,Home Appliances,Air Fryer,4,94.6,0.0
+T01265,2024-06-23,C0900,Customer 900,Karachi,South,Store,Electronics,Smartphone,4,434.4,0.0
+T00328,2024-01-28,C0317,Customer 317,Faisalabad,Central,Store,Clothing,T-Shirt,4,15.46,5.0
+T00968,2024-08-19,C0363,Customer 363,Peshawar,North,Store,Electronics,Laptop,1,879.18,5.0
+T00950,2024-07-21,C0263,Customer 263,Peshawar,North,Store,Grocery,Tea Pack,4,6.25,0.0
+T00973,2024-12-14,C0187,Customer 187,Faisalabad,Central,Store,Clothing,Jacket,1,92.77,5.0
+T00188,2024-10-05,C0605,Customer 605,Faisalabad,Central,Online,Home Appliances,Vacuum Cleaner,1,180.3,20.0
+T02951,2024-01-23,C0601,Customer 601,Hyderabad,South,Online,Clothing,T-Shirt,1,15.55,0.0
+T02147,2024-05-08,C0714,Customer 714,Lahore,Central,Store,Electronics,Laptop,4,981.57,5.0
+T02077,2024-12-04,C0495,Customer 495,Faisalabad,Central,Online,Home Appliances,Microwave,4,118.07,20.0
+T00284,2024-12-24,C0147,Customer 147,Hyderabad,South,Store,Grocery,Rice 5kg,3,12.86,5.0
+T01145,2024-08-29,C0194,Customer 194,Peshawar,North,Store,Electronics,Smart Watch,1,150.62,10.0
+T01506,2024-06-26,C0569,Customer 569,Faisalabad,Central,Online,Home Appliances,Blender,1,41.56,0.0
+T01270,2024-02-05,C0757,Customer 757,Karachi,South,Online,Home Appliances,Blender,1,40.54,10.0
+T02427,2024-04-25,C1241,Customer 1241,Faisalabad,Central,Online,Clothing,Jacket,2,89.34,5.0
+T00976,2024-06-13,C1040,Customer 1040,Karachi,South,Store,Electronics,Headphones,4,54.17,0.0
+T02189,2024-12-03,C1228,Customer 1228,Lahore,Central,Store,Home Appliances,Blender,4,46.06,10.0
+T01646,2024-08-03,C0605,Customer 605,Faisalabad,Central,Store,Home Appliances,Air Fryer,1,100.36,0.0
+T02197,2024-07-31,C1406,Customer 1406,Lahore,Central,Online,Clothing,Jeans,4,42.79,0.0
+T02473,2024-10-29,C1200,Customer 1200,Lahore,Central,Store,Clothing,Jacket,4,86.44,0.0
+T00418,2024-03-29,C1314,Customer 1314,Islamabad,North,Store,Electronics,Laptop,4,836.95,0.0
+T00870,2024-01-30,C1068,Customer 1068,Faisalabad,Central,Online,Home Appliances,Microwave,2,125.99,10.0
+T02781,2024-08-15,C0291,Customer 291,Islamabad,North,Online,Grocery,Rice 5kg,3,11.7,10.0
+T01031,2024-12-21,C0813,Customer 813,Islamabad,North,Online,Home Appliances,Microwave,2,121.74,5.0
+T01999,2024-07-23,C1018,Customer 1018,Faisalabad,Central,Store,Home Appliances,Blender,4,41.8,0.0
+T01702,2024-05-10,C0085,Customer 85,Hyderabad,South,Online,Clothing,Sneakers,1,69.38,10.0
+T01543,2024-03-05,C1390,Customer 1390,Faisalabad,Central,Store,Clothing,Jacket,4,89.87,0.0
+T01157,2024-03-28,C1061,Customer 1061,Islamabad,North,Store,Grocery,Cooking Oil,3,8.77,10.0
+T00068,2024-09-27,C1058,Customer 1058,Hyderabad,South,Online,Clothing,Jeans,1,36.38,10.0
+T02297,2024-05-02,C0008,Customer 8,Hyderabad,South,Store,Clothing,Jeans,2,39.04,20.0
+T00333,2024-08-14,C0373,Customer 373,Karachi,South,Store,Electronics,Headphones,2,59.93,0.0
+T01593,2024-10-06,C0110,Customer 110,Islamabad,North,Online,Electronics,Smartphone,4,479.38,20.0
+T00913,2024-10-01,C0288,Customer 288,Lahore,Central,Online,Grocery,Cooking Oil,1,9.12,0.0
+T01576,2024-08-20,C1147,Customer 1147,Karachi,South,Store,Grocery,Tea Pack,3,5.52,10.0
+T01537,2024-04-22,C0122,Customer 122,Hyderabad,South,Store,Grocery,Snack Box,2,7.69,0.0
+T02186,2024-07-30,C0979,Customer 979,Karachi,South,Store,Electronics,Headphones,3,65.21,0.0
+T00473,2024-11-11,C1103,Customer 1103,Faisalabad,Central,Store,Grocery,Tea Pack,1,5.66,10.0
+T00902,2024-01-31,C1428,Customer 1428,Lahore,Central,Online,Electronics,Smartphone,4,457.56,0.0
+T01407,2024-09-10,C0389,Customer 389,Faisalabad,Central,Online,Grocery,Rice 5kg,1,12.3,5.0
+T01536,2024-01-23,C0762,Customer 762,Hyderabad,South,Online,Grocery,Tea Pack,2,6.16,0.0
+T00478,2024-01-14,C0797,Customer 797,Lahore,Central,Online,Grocery,Snack Box,4,8.25,0.0
+T01330,2024-09-06,C1320,Customer 1320,Faisalabad,Central,Online,Home Appliances,Air Fryer,4,96.84,20.0
+T01343,2024-03-28,C0702,Customer 702,Peshawar,North,Store,Clothing,T-Shirt,1,14.59,10.0
+T00133,2024-03-07,C1141,Customer 1141,Lahore,Central,Online,Clothing,T-Shirt,4,16.15,0.0
+T02819,2024-04-03,C0591,Customer 591,Faisalabad,Central,Online,Electronics,Headphones,1,55.51,5.0
+T02217,2024-11-24,C1180,Customer 1180,Faisalabad,Central,Store,Electronics,Smart Watch,4,137.09,20.0
+T01629,2024-10-10,C1144,Customer 1144,Lahore,Central,Store,Home Appliances,Microwave,1,129.33,10.0
+T01757,2024-09-11,C0862,Customer 862,Lahore,Central,Store,Home Appliances,Blender,2,41.1,10.0
+T02509,2024-10-24,C0851,Customer 851,Lahore,Central,Store,Clothing,Jacket,1,82.83,5.0
+T02596,2024-05-01,C0530,Customer 530,Karachi,South,Online,Home Appliances,Air Fryer,3,100.46,20.0
+T02565,2024-11-16,C0139,Customer 139,Islamabad,North,Online,Home Appliances,Air Fryer,4,104.07,20.0
+T00634,2024-10-04,C1141,Customer 1141,Islamabad,North,Online,Electronics,Smart Watch,4,135.71,20.0
+T00778,2024-03-27,C1276,Customer 1276,Lahore,Central,Store,Clothing,Jeans,1,43.32,5.0
+T02816,2024-03-09,C0087,Customer 87,Hyderabad,South,Store,Grocery,Cooking Oil,1,8.21,20.0
+T00262,2024-05-04,C0720,Customer 720,Faisalabad,Central,Online,Grocery,Rice 5kg,3,12.37,20.0
+T02469,2024-01-20,C0829,Customer 829,Faisalabad,Central,Store,Clothing,Sneakers,1,72.76,20.0
+T01890,2024-11-24,C0723,Customer 723,Faisalabad,Central,Store,Home Appliances,Vacuum Cleaner,4,193.88,10.0
+T02465,2024-12-04,C0297,Customer 297,Hyderabad,South,Store,Clothing,Jeans,1,40.59,0.0
+T00209,2024-07-11,C0631,Customer 631,Hyderabad,South,Store,Clothing,Jeans,3,36.75,0.0
+T01607,2024-04-17,C0361,Customer 361,Lahore,Central,Store,Home Appliances,Microwave,1,120.66,20.0
+T01021,2024-02-10,C0200,Customer 200,Faisalabad,Central,Online,Electronics,Headphones,4,63.73,0.0
+T02708,2024-08-09,C0482,Customer 482,Islamabad,North,Online,Grocery,Tea Pack,2,5.96,20.0
+T01404,2024-08-23,C1406,Customer 1406,Hyderabad,South,Online,Home Appliances,Air Fryer,2,91.9,20.0
+T00154,2024-08-02,C1190,Customer 1190,Lahore,Central,Store,Home Appliances,Blender,1,41.33,10.0
+T02349,2024-05-27,C0464,Customer 464,Karachi,South,Store,Clothing,Jeans,1,42.97,0.0
+T01968,2024-12-08,C0508,Customer 508,Lahore,Central,Online,Clothing,T-Shirt,1,14.46,0.0
+T01932,2024-12-17,C1102,Customer 1102,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,1,171.47,0.0
+T01566,2024-11-27,C0509,Customer 509,Faisalabad,Central,Store,Home Appliances,Blender,3,46.23,5.0
+T01519,2024-12-27,C1067,Customer 1067,Islamabad,North,Online,Electronics,Smartphone,3,481.46,5.0
+T00222,2024-11-28,C0380,Customer 380,Karachi,South,Store,Electronics,Smartphone,4,435.57,5.0
+T00226,2024-08-11,C1158,Customer 1158,Karachi,South,Store,Grocery,Tea Pack,2,5.7,5.0
+T01761,2024-10-07,C1451,Customer 1451,Peshawar,North,Online,Electronics,Laptop,3,876.38,10.0
+T01361,2024-03-01,C0012,Customer 12,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,4,174.55,0.0
+T02559,2024-01-23,C0792,Customer 792,Karachi,South,Online,Electronics,Smart Watch,3,151.57,0.0
+T01493,2024-01-22,C1045,Customer 1045,Faisalabad,Central,Store,Home Appliances,Microwave,2,110.07,10.0
+T02249,2024-04-23,C1351,Customer 1351,Karachi,South,Store,Home Appliances,Vacuum Cleaner,4,184.63,10.0
+T00206,2024-07-13,C1017,Customer 1017,Peshawar,North,Store,Clothing,Jeans,2,40.29,5.0
+T01028,2024-07-23,C0662,Customer 662,Karachi,South,Store,Home Appliances,Blender,4,41.0,5.0
+T02760,2024-11-09,C0002,Customer 2,Lahore,Central,Online,Electronics,Smart Watch,1,135.29,0.0
+T01047,2024-06-23,C0679,Customer 679,Faisalabad,Central,Online,Home Appliances,Blender,2,44.41,0.0
+T02409,2024-12-04,C0840,Customer 840,Islamabad,North,Store,Grocery,Snack Box,2,8.01,20.0
+T02373,2024-02-14,C0541,Customer 541,Peshawar,North,Store,Clothing,Jacket,4,82.13,0.0
+T01187,2024-04-13,C0399,Customer 399,Karachi,South,Online,Clothing,T-Shirt,2,13.99,0.0
+T01908,2024-04-27,C1186,Customer 1186,Hyderabad,South,Store,Grocery,Snack Box,4,8.76,20.0
+T01677,2024-04-19,C0834,Customer 834,Peshawar,North,Store,Grocery,Rice 5kg,4,12.82,0.0
+T01185,2024-11-02,C0084,Customer 84,Islamabad,North,Store,Home Appliances,Air Fryer,2,97.66,20.0
+T01572,2024-09-20,C0141,Customer 141,Faisalabad,Central,Online,Electronics,Laptop,2,954.03,0.0
+T01738,2024-03-13,C0550,Customer 550,Islamabad,North,Store,Home Appliances,Microwave,3,130.97,0.0
+T01420,2024-12-13,C0157,Customer 157,Peshawar,North,Online,Home Appliances,Air Fryer,1,85.75,0.0
+T00400,2024-08-14,C1083,Customer 1083,Hyderabad,South,Store,Electronics,Smart Watch,3,157.74,20.0
+T00619,2024-02-14,C0653,Customer 653,Hyderabad,South,Online,Grocery,Snack Box,2,7.59,0.0
+T00509,2024-07-15,C0088,Customer 88,Faisalabad,Central,Store,Electronics,Smart Watch,3,153.25,10.0
+T00887,2024-02-08,C0125,Customer 125,Karachi,South,Store,Grocery,Rice 5kg,1,11.11,0.0
+T02111,2024-07-24,C0824,Customer 824,Karachi,South,Store,Electronics,Smart Watch,2,141.94,5.0
+T02167,2024-08-18,C1084,Customer 1084,Islamabad,North,Store,Grocery,Cooking Oil,2,9.74,0.0
+T00871,2024-11-29,C0069,Customer 69,Peshawar,North,Online,Grocery,Snack Box,2,7.65,10.0
+T00791,2024-03-10,C0169,Customer 169,Lahore,Central,Store,Electronics,Headphones,4,64.51,10.0
+T00651,2024-12-23,C0181,Customer 181,Faisalabad,Central,Online,Clothing,T-Shirt,4,16.13,0.0
+T00380,2024-07-10,C0593,Customer 593,Karachi,South,Store,Clothing,Sneakers,2,67.85,0.0
+T00957,2024-10-19,C0782,Customer 782,Peshawar,North,Store,Electronics,Smart Watch,2,148.57,0.0
+T00172,2024-03-06,,Customer 1409,Peshawar,North,Online,Home Appliances,Vacuum Cleaner,2,191.44,10.0
+T01945,2024-10-04,C0054,Customer 54,Faisalabad,Central,Online,Home Appliances,Blender,4,41.53,10.0
+T00660,2024-07-29,C0741,Customer 741,Islamabad,North,Store,Electronics,Smartphone,2,476.93,10.0
+T01095,2024-08-27,C1440,Customer 1440,Karachi,South,Store,Grocery,Tea Pack,4,5.62,10.0
+T02717,2024-11-12,C0300,Customer 300,Peshawar,North,Store,Home Appliances,Vacuum Cleaner,3,173.34,10.0
+T00169,2024-09-01,C1234,Customer 1234,Hyderabad,South,Online,Clothing,Jeans,2,37.32,0.0
+T01518,2024-02-05,C0089,Customer 89,Lahore,Central,Store,Grocery,Cooking Oil,3,9.53,5.0
+T01801,2024-02-11,C0918,Customer 918,Faisalabad,Central,Online,Home Appliances,Air Fryer,1,97.14,20.0
+T02697,2024-04-03,C0114,Customer 114,Islamabad,North,Store,Clothing,Sneakers,3,70.9,10.0
+T01918,2024-12-24,C0410,Customer 410,Peshawar,North,Store,Electronics,Smart Watch,2,155.34,10.0
+T00273,2024-04-20,C0979,Customer 979,Faisalabad,Central,Online,Grocery,Rice 5kg,4,11.22,20.0
+T01216,2024-03-24,C1490,Customer 1490,Faisalabad,Central,Store,Home Appliances,Vacuum Cleaner,2,190.87,5.0
+T02277,2024-06-02,C0375,Customer 375,Karachi,South,Store,Grocery,Snack Box,1,8.67,0.0
+T02346,2024-07-06,C0598,Customer 598,Peshawar,North,Online,Electronics,Headphones,4,60.35,0.0
+T01913,2024-01-03,C0038,Customer 38,Islamabad,North,Online,Home Appliances,Microwave,1,117.44,10.0
+T00039,2024-07-21,C0425,Customer 425,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,3,186.41,0.0
+T00307,2024-08-08,C0414,Customer 414,Islamabad,North,Store,Home Appliances,Microwave,4,120.53,10.0
+T00007,2024-03-03,C0899,Customer 899,Karachi,South,Store,Grocery,Snack Box,3,8.46,0.0
+T01191,2024-10-30,,Customer 644,Karachi,South,Store,Home Appliances,Air Fryer,3,102.52,0.0
+T00584,2024-02-07,C0462,Customer 462,Karachi,South,Online,Home Appliances,Air Fryer,2,100.11,10.0
+T02425,2024-09-11,C0452,Customer 452,Islamabad,North,Online,Grocery,Cooking Oil,2,8.13,0.0
+T02977,2024-12-26,C1398,Customer 1398,Peshawar,North,Store,Electronics,Headphones,4,57.32,0.0
+T01795,2024-12-14,C0595,Customer 595,Faisalabad,Central,Store,Clothing,Jeans,4,36.66,20.0
+T00272,2024-01-17,C0618,Customer 618,Hyderabad,South,Store,Home Appliances,Blender,3,41.88,0.0
+T01690,2024-03-09,C1086,Customer 1086,Islamabad,North,Online,Home Appliances,Blender,2,44.39,10.0
+T02645,2024-11-26,C0915,Customer 915,Hyderabad,South,Online,Grocery,Rice 5kg,3,11.77,0.0
+T01776,2024-04-05,,Customer 68,Hyderabad,South,Online,Grocery,Cooking Oil,3,9.39,10.0
+T02000,2024-07-24,C0748,Customer 748,Karachi,South,Store,Grocery,Tea Pack,2,6.14,20.0
+T01248,2024-12-05,C0290,Customer 290,Faisalabad,Central,Store,Home Appliances,Vacuum Cleaner,3,184.82,0.0
+T01050,2024-03-28,C0685,Customer 685,Peshawar,North,Store,Electronics,Laptop,3,964.19,0.0
+T02686,2024-12-17,C0658,Customer 658,Islamabad,North,Store,Clothing,Jeans,2,37.17,20.0
+T00674,2024-03-10,C0001,Customer 1,Hyderabad,South,Store,Grocery,Rice 5kg,1,11.1,5.0
+T00510,2024-06-21,C0525,Customer 525,Lahore,Central,Online,Clothing,Jacket,2,89.46,10.0
+T02180,2024-11-29,C0604,Customer 604,Peshawar,North,Online,Electronics,Headphones,3,57.52,20.0
+T02106,2024-07-19,C0966,Customer 966,Karachi,South,Store,Electronics,Smart Watch,2,154.6,10.0
+T02765,2024-05-29,C0472,Customer 472,Peshawar,North,Store,Clothing,Sneakers,3,76.18,0.0
+T01974,2024-09-06,C1159,Customer 1159,Faisalabad,Central,Store,Electronics,Laptop,4,916.61,20.0
+T00087,2024-03-11,C0273,Customer 273,Faisalabad,Central,Store,Grocery,Snack Box,2,7.42,0.0
+T02929,2024-05-15,C0170,Customer 170,Karachi,South,Store,Electronics,Laptop,3,978.04,5.0
+T02407,2024-09-27,C1096,Customer 1096,Lahore,Central,Store,Home Appliances,Vacuum Cleaner,2,170.33,20.0
+T00709,2024-12-13,C0739,Customer 739,Karachi,South,Online,Electronics,Laptop,2,919.97,0.0
+T02129,2024-02-16,C1016,Customer 1016,Karachi,South,Store,Home Appliances,Blender,4,44.72,20.0
+T00419,2024-08-04,C0146,Customer 146,Islamabad,North,Store,Grocery,Tea Pack,3,6.43,0.0
+T01462,2024-08-16,C0509,Customer 509,Faisalabad,Central,Store,Electronics,Smartphone,1,415.8,10.0
+T01485,2024-10-29,C0704,Customer 704,Karachi,South,Store,Clothing,Jeans,2,36.22,20.0
+T02804,2024-02-16,C1397,Customer 1397,Faisalabad,Central,Online,Electronics,Smart Watch,4,141.09,20.0
+T02916,2024-11-15,C0018,Customer 18,Peshawar,North,Online,Grocery,Snack Box,3,8.72,0.0
+T01005,2024-04-03,C1202,Customer 1202,Faisalabad,Central,Store,Grocery,Cooking Oil,1,8.73,0.0
+T01835,2024-10-26,C1466,Customer 1466,Islamabad,North,Store,Grocery,Rice 5kg,2,11.35,20.0
+T02511,2024-05-25,C0609,Customer 609,Lahore,Central,Store,Electronics,Smart Watch,1,137.84,0.0
+T01624,2024-01-13,C0119,Customer 119,Peshawar,North,Online,Home Appliances,Blender,1,41.61,5.0
+T01481,2024-04-20,C0702,Customer 702,Lahore,Central,Store,Home Appliances,Blender,4,48.01,5.0
+T01279,2024-01-06,C1101,Customer 1101,Islamabad,North,Online,Clothing,Jeans,4,37.1,20.0
+T02461,2024-09-05,C1349,Customer 1349,Karachi,South,Store,Clothing,Jacket,3,86.14,10.0
+T02874,2024-06-08,C0483,Customer 483,Karachi,South,Online,Clothing,Jeans,3,36.62,5.0
+T02660,2024-04-27,C1105,Customer 1105,Islamabad,North,Store,Home Appliances,Air Fryer,3,103.77,10.0
+T00544,2024-05-07,C1162,Customer 1162,Peshawar,North,Store,Home Appliances,Blender,1,43.67,20.0
+T01881,2024-10-07,C0571,Customer 571,Islamabad,North,Online,Electronics,Headphones,2,57.48,10.0
+T02926,2024-05-13,C0152,Customer 152,Karachi,South,Store,Home Appliances,Air Fryer,2,97.02,0.0
+T00826,2024-03-07,C1356,Customer 1356,Faisalabad,Central,Online,Clothing,T-Shirt,2,15.72,20.0
+T01291,2024-06-19,C0103,Customer 103,Islamabad,North,Online,Electronics,Laptop,1,973.7,20.0
+T02600,2024-10-11,C1156,Customer 1156,Hyderabad,South,Online,Home Appliances,Microwave,4,121.05,5.0
+T00139,2024-09-10,C0704,Customer 704,Islamabad,North,Online,Electronics,Headphones,2,62.02,0.0
+T00164,2024-10-23,C0472,Customer 472,Hyderabad,South,Online,Home Appliances,Air Fryer,1,99.27,0.0
+T01619,2024-03-29,C0950,Customer 950,Islamabad,North,Online,Electronics,Smart Watch,2,140.99,0.0
+T01046,2024-04-22,C0021,Customer 21,Faisalabad,Central,Store,Home Appliances,Air Fryer,4,88.94,5.0
+T00961,2024-04-22,C1421,Customer 1421,Islamabad,North,Store,Electronics,Smartphone,1,488.72,20.0
+T02602,2024-06-05,C1498,Customer 1498,Karachi,South,Store,Electronics,Laptop,2,905.46,0.0
+T02308,2024-04-22,C1117,Customer 1117,Hyderabad,South,Store,Clothing,Jacket,2,83.83,10.0
+T02730,2024-12-03,C0623,Customer 623,Karachi,South,Online,Grocery,Snack Box,2,7.54,20.0
+T01060,2024-08-15,C0891,Customer 891,Islamabad,North,Store,Electronics,Smart Watch,2,155.74,20.0
+T00138,2024-01-23,C0716,Customer 716,Karachi,South,Store,Clothing,Jeans,2,40.97,20.0
+T01582,2024-06-06,C1459,Customer 1459,Lahore,Central,Online,Electronics,Smartphone,1,445.54,5.0
+T01267,2024-02-10,C0527,Customer 527,Faisalabad,Central,Store,Clothing,Jeans,1,38.21,0.0
+T00136,2024-08-09,C0024,Customer 24,Hyderabad,South,Store,Electronics,Laptop,2,868.95,10.0
+T01504,2024-08-23,C1158,Customer 1158,Lahore,Central,Store,Clothing,Sneakers,4,72.13,0.0
+T01363,2024-09-13,C0746,Customer 746,Karachi,South,Online,Electronics,Laptop,1,885.57,0.0
+T01018,2024-12-26,C0230,Customer 230,Karachi,South,Store,Grocery,Tea Pack,4,5.71,0.0
+T01925,2024-09-20,C0497,Customer 497,Lahore,Central,Online,Home Appliances,Microwave,4,118.01,0.0
+T02394,2024-06-10,C1230,Customer 1230,Lahore,Central,Online,Clothing,Jacket,4,86.8,0.0
+T01905,2024-08-31,C0284,Customer 284,Islamabad,North,Online,Electronics,Headphones,3,65.92,10.0
+T00199,2024-09-04,C1469,Customer 1469,Lahore,Central,Store,Grocery,Tea Pack,3,6.51,20.0
+T01769,2024-02-19,C0171,Customer 171,Faisalabad,Central,Store,Electronics,Smart Watch,3,164.63,0.0
+T02241,2024-06-12,C0527,Customer 527,Lahore,Central,Store,Grocery,Cooking Oil,2,9.23,0.0
+T00405,2024-12-30,C0589,Customer 589,Peshawar,North,Online,Grocery,Tea Pack,3,5.73,5.0
+T02694,2024-11-06,C0349,Customer 349,Lahore,Central,Store,Clothing,Jeans,1,37.16,5.0
+T01340,2024-10-24,C0754,Customer 754,Islamabad,North,Online,Home Appliances,Microwave,4,109.9,0.0
+T01032,2024-05-06,C0783,Customer 783,Karachi,South,Online,Clothing,T-Shirt,1,15.61,0.0
+T00792,2024-11-27,C0266,Customer 266,Lahore,Central,Store,Electronics,Smartphone,1,489.99,0.0
+T00800,2024-11-18,C0083,Customer 83,Hyderabad,South,Store,Clothing,Sneakers,2,68.52,0.0
+T01202,2024-12-14,C1121,Customer 1121,Islamabad,North,Store,Grocery,Snack Box,2,8.61,10.0
+T01786,2024-06-26,C0539,Customer 539,Faisalabad,Central,Online,Grocery,Snack Box,2,8.03,20.0
+T01480,2024-10-31,C0806,Customer 806,Lahore,Central,Store,Grocery,Rice 5kg,3,11.75,20.0
+T01929,2024-05-13,C0274,Customer 274, karachi ,South,Store,Clothing,Jeans,4,38.91,20.0
+T02553,2024-06-07,C0985,Customer 985,Lahore,Central,Store,Electronics,Laptop,3,956.85,20.0
+T00903,2024-06-08,C0764,Customer 764,Lahore,Central,Store,Clothing,Jeans,1,38.19,0.0
+T02885,2024-09-16,C0197,Customer 197,Islamabad,North,Store,Clothing,T-Shirt,4,14.12,0.0
+T01953,2024-02-22,C1175,Customer 1175,Lahore,Central,Online,Clothing,Jacket,1,81.98,0.0
+T00923,2024-11-21,C0722,Customer 722,Hyderabad,South,Online,Clothing,Jacket,3,93.49,20.0
+T01320,2024-10-16,C0064,Customer 64,Hyderabad,South,Store,Grocery,Snack Box,3,8.69,5.0
+T01474,2024-05-31,C0205,Customer 205,Faisalabad,Central,Online,Grocery,Cooking Oil,3,8.52,20.0
+T01774,2024-10-14,C1481,Customer 1481,Faisalabad,Central,Store,Home Appliances,Air Fryer,4,88.37,0.0
+T02592,2024-10-03,C0870,Customer 870,Faisalabad,Central,Store,Clothing,Jacket,3,85.21,10.0
+T01094,2024-10-13,C0668,Customer 668,Lahore,Central,Online,Grocery,Cooking Oil,3,9.56,0.0
+T02495,2024-11-01,C1162,Customer 1162,Karachi,South,Online,Electronics,Smart Watch,2,135.43,10.0
+T01240,2024-01-30,C0361,Customer 361,Karachi,South,Store,Home Appliances,Vacuum Cleaner,2,167.65,10.0
+T00243,2024-03-10,C1347,Customer 1347,Lahore,Central,Online,Home Appliances,Microwave,1,128.06,5.0
+T00436,2024-03-31,C0910,Customer 910,Lahore,Central,Online,Electronics,Smartphone,1,419.32,0.0
+T01935,2024-04-17,C0570,Customer 570,Karachi,South,Store,Grocery,Tea Pack,1,6.02,5.0
+T00552,2024-10-14,C0784,Customer 784,Karachi,South,Store,Grocery,Snack Box,2,7.79,0.0
+T01014,2024-08-17,C0734,Customer 734,Peshawar,North,Online,Grocery,Cooking Oil,1,8.32,0.0
+T02013,2024-04-21,C0899,Customer 899,Islamabad,North,Store,Grocery,Snack Box,3,8.65,20.0
+T00467,2024-05-01,C0809,Customer 809,Faisalabad,Central,Online,Grocery,Tea Pack,4,6.08,20.0
+T02976,2024-12-08,C0824,Customer 824,Faisalabad,Central,Store,Clothing,T-Shirt,4,16.21,20.0
+T01070,2024-01-08,C0151,Customer 151,Faisalabad,Central,Online,Electronics,Smart Watch,3,151.62,0.0
+T01549,2024-12-26,C0788,Customer 788,Faisalabad,Central,Store,Electronics,Headphones,3,60.4,20.0
+T01466,2024-03-22,C0142,Customer 142,Faisalabad,Central,Store,Grocery,Cooking Oil,1,8.43,5.0
+T01400,2024-08-06,C0995,Customer 995,Karachi,South,Online,Clothing,Sneakers,1,64.33,10.0
+T02515,2024-03-16,C0764,Customer 764,Peshawar,North,Store,Electronics,Headphones,4,61.39,0.0
+T01450,2024-03-16,C1348,Customer 1348,Faisalabad,Central,Store,Grocery,Snack Box,4,7.34,5.0
+T00907,2024-10-27,C1073,Customer 1073,Lahore,Central,Online,Clothing,Sneakers,1,74.33,0.0
+T02711,2024-02-18,C0411,Customer 411,Peshawar,North,Store,Grocery,Snack Box,4,7.44,5.0
+T02071,2024-05-18,C1364,Customer 1364,Hyderabad,South,Store,Grocery,Cooking Oil,4,8.94,10.0
+T02399,2024-07-02,C1404,Customer 1404,Islamabad,North,Online,Home Appliances,Air Fryer,2,90.23,5.0
+T00881,2024-03-03,C1298,Customer 1298,Lahore,Central,Store,Clothing,Jeans,1,39.17,10.0
+T01888,2024-10-28,C0810,Customer 810,Karachi,South,Store,Electronics,Smart Watch,2,145.9,10.0
+T01106,2024-05-12,C0679,Customer 679,Karachi,South,Online,Home Appliances,Vacuum Cleaner,3,192.2,20.0
+T00704,2024-05-05,C1359,Customer 1359,Peshawar,North,Online,Home Appliances,Blender,3,44.64,10.0
+T00483,2024-07-01,C1194,Customer 1194,Faisalabad,Central,Online,Grocery,Cooking Oil,3,9.61,20.0
+T01146,2024-12-18,C0420,Customer 420,Peshawar,North,Online,Home Appliances,Vacuum Cleaner,2,193.37,20.0
+T02979,2024-07-25,C0309,Customer 309,Peshawar,North,Store,Grocery,Cooking Oil,4,8.98,0.0
+T02314,2024-02-08,C0592,Customer 592,Hyderabad,South,Online,Electronics,Headphones,2,62.84,0.0
+T00908,2024-05-06,C1456,Customer 1456,Islamabad,North,Store,Grocery,Cooking Oil,4,9.46,10.0
+T00032,2024-06-14,C0409,Customer 409,Hyderabad,South,Store,Clothing,T-Shirt,2,13.69,20.0
+T02871,2024-07-25,C1181,Customer 1181,Hyderabad,South,Store,Electronics,Smartphone,4,418.78,0.0
+T00065,2024-10-26,C1061,Customer 1061,Karachi,South,Store,Electronics,Smartphone,2,469.84,10.0
+T00777,2024-11-05,C0799,Customer 799,Faisalabad,Central,Online,Clothing,Sneakers,1,63.17,10.0
+T00078,2024-06-14,C1223,Customer 1223,Faisalabad,Central,Online,Grocery,Rice 5kg,2,10.88,0.0
+T02654,2024-09-29,C0698,Customer 698,Hyderabad,South,Store,Grocery,Rice 5kg,1,12.36,20.0
+T02795,2024-02-20,C0606,Customer 606,Faisalabad,Central,Store,Home Appliances,Air Fryer,3,104.33,0.0
+T01286,2024-02-05,C1151,Customer 1151,Hyderabad,South,Online,Grocery,Rice 5kg,1,12.28,0.0
+T02549,2024-12-09,C0330,Customer 330,Faisalabad,Central,Store,Clothing,T-Shirt,1,16.31,0.0
+T01213,2024-12-02,C0624,Customer 624,Faisalabad,Central,Online,Home Appliances,Microwave,1,129.42,5.0
+T02891,2024-04-18,C1117,Customer 1117,Islamabad,North,Store,Grocery,Snack Box,4,8.05,20.0
+T00707,2024-01-06,C0235,Customer 235,Peshawar,North,Store,Home Appliances,Blender,2,40.83,20.0
+T01688,2024-10-24,C0433,Customer 433,Faisalabad,Central,Store,Grocery,Cooking Oil,2,8.92,20.0
+T01710,2024-06-03,C0640,Customer 640,Faisalabad,Central,Store,Grocery,Tea Pack,3,6.33,0.0
+T02773,2024-05-28,C0615,Customer 615,Lahore,Central,Store,Electronics,Laptop,3,954.12,5.0
+T00964,2024-06-07,C0568,Customer 568,Lahore,Central,Online,Home Appliances,Vacuum Cleaner,1,179.58,10.0
+T02544,2024-10-04,C1200,Customer 1200,Faisalabad,Central,Store,Electronics,Smartphone,3,466.66,10.0
+T02890,2024-05-22,C0426,Customer 426,Lahore,Central,Store,Home Appliances,Air Fryer,4,87.43,0.0
+T00352,2024-02-02,C1408,Customer 1408,Islamabad,North,Online,Electronics,Laptop,4,986.63,20.0
+T02587,2024-09-26,C0336,Customer 336,Karachi,South,Online,Home Appliances,Vacuum Cleaner,2,185.13,0.0
+T01453,2024-02-07,C0717,Customer 717,Peshawar,North,Online,Electronics,Smart Watch,2,142.07,0.0
+T00150,2024-02-12,C0163,Customer 163,Faisalabad,Central,Store,Clothing,Sneakers,1,74.07,0.0
+T00219,2024-11-22,C1480,Customer 1480,Karachi,South,Store,Home Appliances,Blender,3,43.85,0.0
+T02738,2024-05-17,C1397,Customer 1397,Karachi,South,Store,Home Appliances,Blender,2,47.03,0.0
+T02382,2024-11-23,C1423,Customer 1423,Karachi,South,Online,Home Appliances,Blender,4,46.02,0.0
+T02576,2024-08-28,C0809,Customer 809,Faisalabad,Central,Store,Clothing,Jeans,3,43.86,20.0
+T01358,2024-04-08,C0386,Customer 386,Lahore,Central,Online,Electronics,Laptop,4,987.17,0.0
+T00628,2024-09-25,C0356,Customer 356,Islamabad,North,Store,Grocery,Cooking Oil,2,8.39,0.0
+T02980,2024-12-13,C0916,Customer 916,Hyderabad,South,Store,Clothing,Jacket,3,84.6,10.0
+T00120,2024-03-24,C1301,Customer 1301,Hyderabad,South,Store,Grocery,Tea Pack,4,5.76,0.0
+T02506,2024-03-25,C1257,Customer 1257,Peshawar,North,Store,Grocery,Rice 5kg,4,12.45,10.0
+T01027,2024-02-26,C0315,Customer 315,Hyderabad,South,Online,Home Appliances,Vacuum Cleaner,3,173.52,0.0
+T00077,2024-08-29,C0164,Customer 164,Hyderabad,South,Store,Clothing,T-Shirt,1,15.52,20.0
+T00901,2024-01-04,C0778,Customer 778,Hyderabad,South,Store,Grocery,Snack Box,1,7.89,0.0
+T02582,2024-12-03,C1254,Customer 1254,Karachi,South,Store,Grocery,Cooking Oil,3,8.83,10.0
+T00942,2024-10-21,C0469,Customer 469,Islamabad,North,Store,Home Appliances,Vacuum Cleaner,3,179.35,10.0
+T00407,2024-11-12,C0534,Customer 534,Peshawar,North,Online,Grocery,Cooking Oil,4,9.17,0.0
+T01739,2024-01-03,C0525,Customer 525,Hyderabad,South,Store,Grocery,Rice 5kg,1,11.48,0.0
+T00500,2024-11-06,C0675,Customer 675,Faisalabad,Central,Store,Home Appliances,Microwave,3,127.72,0.0
+T00823,2024-04-09,C0823,Customer 823,Peshawar,North,Online,Home Appliances,Vacuum Cleaner,1,197.25,0.0
+T00795,2024-11-10,C1338,Customer 1338,Lahore,Central,Online,Clothing,Jacket,2,84.04,20.0
+T00991,2024-09-07,,Customer 1132,Faisalabad,Central,Online,Clothing,Jacket,3,78.43,0.0
+T00568,2024-07-01,C0231,Customer 231,Lahore,Central,Store,Electronics,Headphones,1,64.55,10.0
+T00744,2024-07-16,C0660,Customer 660,Hyderabad,South,Online,Clothing,Jeans,4,41.82,20.0
+T02401,2024-01-05,C1278,Customer 1278,Islamabad,North,Store,Electronics,Headphones,4,60.67,10.0
+T02805,2024-05-05,C0461,Customer 461,Peshawar,North,Online,Electronics,Smartphone,2,441.62,0.0
+T00481,2024-07-29,C1199,Customer 1199,Lahore,Central,Store,Grocery,Snack Box,4,7.86,10.0
+T01678,2024-11-02,C0852,Customer 852,Lahore,Central,Store,Home Appliances,Microwave,3,130.19,5.0
+T00121,2024-11-16,C0936,Customer 936,Islamabad,North,Online,Clothing,Sneakers,3,66.15,0.0
+T00224,2024-05-27,C1164,Customer 1164,Faisalabad,Central,Store,Electronics,Headphones,1,55.83,5.0
+T00614,2024-10-08,C0112,Customer 112,Karachi,South,Store,Electronics,Smartphone,1,472.02,20.0
+T01541,2024-12-13,C0898,Customer 898,Islamabad,North,Store,Grocery,Rice 5kg,3,11.29,0.0
+T00053,2024-09-22,C1127,Customer 1127,Karachi,South,Online,Home Appliances,Microwave,1,114.84,0.0
+T01900,2024-09-04,C0878,Customer 878,Faisalabad,Central,Store,Home Appliances,Air Fryer,2,97.9,0.0
+T02982,2024-02-14,C1187,Customer 1187,Faisalabad,Central,Store,Home Appliances,Vacuum Cleaner,2,177.7,10.0
+T01895,2024-04-07,C0724,Customer 724,Faisalabad,Central,Online,Home Appliances,Microwave,4,109.82,0.0
+T02030,2024-09-07,C0350,Customer 350,Hyderabad,South,Store,Home Appliances,Microwave,1,128.89,20.0
+T01131,2024-10-23,C0013,Customer 13,Peshawar,North,Store,Home Appliances,Air Fryer,4,94.29,0.0
+T00543,2024-05-22,C0128,Customer 128,Karachi,South,Online,Grocery,Rice 5kg,1,12.76,0.0
+T02749,2024-10-29,C1384,Customer 1384,Islamabad,North,Store,Home Appliances,Air Fryer,3,91.16,0.0
+T02340,2024-03-08,C0701,Customer 701,Islamabad,North,Store,Electronics,Laptop,1,917.45,10.0
+T02430,2024-07-16,C1291,Customer 1291,Faisalabad,Central,Store,Grocery,Snack Box,4,8.42,5.0
+T01368,2024-11-26,C0214,Customer 214,Faisalabad,Central,Online,Clothing,Jacket,3,92.05,5.0
+T01621,2024-07-12,C0927,Customer 927,Karachi,South,Online,Electronics,Headphones,4,58.17,20.0
+T02833,2024-08-07,C1234,Customer 1234,Faisalabad,Central,Store,Home Appliances,Microwave,1,124.67,0.0
+T01072,2024-06-01,C1175,Customer 1175,Faisalabad,Central,Store,Clothing,Jacket,4,80.8,0.0
+T01838,2024-08-10,C0102,Customer 102,Islamabad,North,Store,Home Appliances,Vacuum Cleaner,2,173.49,0.0
+T00536,2024-04-22,C0112,Customer 112,Hyderabad,South,Online,Electronics,Smart Watch,4,158.24,0.0
+T00155,2024-11-13,C0104,Customer 104,Hyderabad,South,Store,Grocery,Tea Pack,4,5.76,5.0
+T01711,2024-09-07,C0428,Customer 428,Lahore,Central,Online,Home Appliances,Microwave,2,129.08,0.0
+T01799,2024-12-15,C0587,Customer 587,Peshawar,North,Store,Grocery,Rice 5kg,3,10.9,20.0
+T02865,2024-03-04,C1370,Customer 1370,Peshawar,North,Store,Home Appliances,Air Fryer,1,97.48,20.0
+T00083,2024-04-27,C0416,Customer 416,Karachi,South,Store,Clothing,Jeans,4,42.84,0.0
+T01944,2024-01-22,C1297,Customer 1297,Lahore,Central,Online,Clothing,Sneakers,4,65.14,0.0
+T01989,2024-06-02,C1398,Customer 1398,Islamabad,North,Store,Clothing,T-Shirt,2,14.81,10.0
+T01575,2024-04-18,C1067,Customer 1067,Karachi,South,Online,Electronics,Smart Watch,3,155.91,20.0
+T02059,2024-10-14,C0383,Customer 383,Faisalabad,Central,Store,Home Appliances,Blender,2,46.99,20.0
+T01495,2024-10-26,C0461,Customer 461,Hyderabad,South,Online,Electronics,Headphones,3,56.88,0.0
+T00832,2024-06-24,C0305,Customer 305,Faisalabad,Central,Store,Clothing,Jeans,2,36.07,0.0
+T01175,2024-01-07,C0601,Customer 601,Faisalabad,Central,Store,Electronics,Laptop,1,882.2,0.0
+T00414,2024-04-06,C0141,Customer 141,Hyderabad,South,Store,Electronics,Laptop,1,858.86,20.0
+T01818,2024-07-03,C0495,Customer 495,Islamabad,North,Online,Clothing,Sneakers,4,66.18,5.0
+T02138,2024-01-17,C0983,Customer 983,Lahore,Central,Store,Home Appliances,Air Fryer,3,99.22,20.0
+T01353,2024-12-27,C0827,Customer 827,Karachi,South,Store,Grocery,Rice 5kg,1,12.77,0.0
+T01238,2024-03-31,C0163,Customer 163,Lahore,Central,Online,Grocery,Snack Box,1,8.2,10.0
+T02182,2024-06-24,C1152,Customer 1152,Lahore,Central,Online,Electronics,Laptop,4,862.82,20.0
+T02369,2024-04-28,C0998,Customer 998,Hyderabad,South,Online,Home Appliances,Air Fryer,2,87.8,20.0
+T00635,2024-05-13,C1442,Customer 1442,Lahore,Central,Online,Grocery,Cooking Oil,1,9.15,10.0
+T02341,2024-11-05,C0453,Customer 453,Lahore,Central,Store,Electronics,Smart Watch,1,162.29,0.0
+T01709,2024-06-26,C1152,Customer 1152,Islamabad,North,Store,Electronics,Smart Watch,4,164.57,10.0
+T02808,2024-08-14,C1496,Customer 1496,Karachi,South,Online,Home Appliances,Blender,3,48.79,10.0
+T00246,2024-03-02,C1215,Customer 1215,Hyderabad,South,Online,Home Appliances,Blender,3,46.91,0.0
+T01655,2024-04-24,C0184,Customer 184,Peshawar,North,Store,Clothing,Jacket,3,90.91,20.0
+T02856,2024-02-26,C0883,Customer 883,Peshawar,North,Online,Electronics,Smartphone,3,428.4,0.0
+T00091,2024-11-13,C0516,Customer 516,Lahore,Central,Store,Grocery,Snack Box,3,8.01,10.0
+T00094,2024-10-09,C0362,Customer 362,Peshawar,North,Online,Electronics,Smartphone,2,464.31,0.0
+T00925,2024-06-30,C0958,Customer 958,Karachi,South,Store,Clothing,T-Shirt,1,14.85,0.0
+T02292,2024-08-22,C1323,Customer 1323,Faisalabad,Central,Online,Clothing,Sneakers,2,73.89,0.0
+T02263,2024-01-24,C0884,Customer 884,Faisalabad,Central,Online,Grocery,Snack Box,2,7.46,10.0
+T00854,2024-06-23,C0529,Customer 529,Peshawar,North,Online,Grocery,Snack Box,3,8.36,20.0
+T02474,2024-05-31,C0273,Customer 273,Hyderabad,South,Online,Grocery,Cooking Oil,1,9.63,20.0
+T02205,2024-11-27,C0784,Customer 784,Faisalabad,Central,Store,Grocery,Cooking Oil,3,9.76,5.0
+T02275,2024-05-09,C0923,Customer 923,Hyderabad,South,Store,Clothing,Jacket,3,78.38,0.0
+T01104,2024-04-19,C0025,Customer 25,Karachi,South,Online,Home Appliances,Blender,3,48.14,5.0
+T02933,2024-04-28,C0508,Customer 508,Islamabad,North,Store,Home Appliances,Blender,3,42.79,20.0
+T01586,2024-08-19,C0916,Customer 916,Peshawar,North,Store,Clothing,Jacket,2,89.0,0.0
+T01502,2024-07-09,C0801,Customer 801,Lahore,Central,Online,Home Appliances,Vacuum Cleaner,1,164.75,5.0
+T02008,2024-04-21,C1244,Customer 1244,Islamabad,North,Store,Home Appliances,Blender,2,48.31,0.0
+T00626,2024-06-18,C1115,Customer 1115,Islamabad,North,Store,Home Appliances,Vacuum Cleaner,3,172.81,10.0
+T01886,2024-05-11,C0304,Customer 304,Islamabad,North,Store,Electronics,Smart Watch,4,163.64,5.0
+T01867,2024-03-22,C0703,Customer 703,Lahore,Central,Online,Clothing,Jacket,1,89.87,20.0
+T02307,2024-08-25,C0591,Customer 591,Hyderabad,South,Online,Grocery,Tea Pack,4,5.71,0.0
+T00235,2024-12-25,C0858,Customer 858,Faisalabad,Central,Online,Clothing,Jeans,4,38.34,0.0
+T01827,2024-03-17,C0296,Customer 296,Lahore,Central,Online,Grocery,Cooking Oil,3,8.77,0.0
+T02888,2024-02-16,C0253,Customer 253,Karachi,South,Store,Grocery,Cooking Oil,3,9.14,5.0
+T02641,2024-06-23,C1130,Customer 1130,Hyderabad,South,Store,Clothing,T-Shirt,4,13.82,10.0
+T01526,2024-02-04,C0688,Customer 688,Peshawar,North,Store,Electronics,Headphones,4,54.01,5.0
+T01563,2024-06-30,C0031,Customer 31,Faisalabad,Central,Online,Electronics,Laptop,3,940.68,20.0
+T02342,2024-10-14,C0922,Customer 922,Lahore,Central,Online,Home Appliances,Microwave,1,114.31,20.0
+T02063,2024-04-19,C0925,Customer 925,Islamabad,North,Online,Grocery,Tea Pack,1,6.55,5.0
+T02214,2024-03-25,C0922,Customer 922,Peshawar,North,Store,Grocery,Tea Pack,4,6.35,10.0
+T01360,2024-09-23,C1455,Customer 1455,Karachi,South,Store,Grocery,Rice 5kg,4,12.84,10.0
+T02108,2024-04-11,C1426,Customer 1426,Karachi,South,Online,Home Appliances,Air Fryer,3,97.92,5.0
+T00710,2024-12-06,C1275,Customer 1275,Karachi,South,Store,Grocery,Rice 5kg,3,10.91,5.0
+T00425,2024-10-31,C0916,Customer 916,Lahore,Central,Store,Electronics,Laptop,1,893.81,0.0
+T01066,2024-10-10,C0518,Customer 518,Lahore,Central,Online,Electronics,Smart Watch,1,142.3,10.0
+T02378,2024-04-10,C0383,Customer 383,Lahore,Central,Store,Electronics,Laptop,1,966.7,0.0
+T01639,2024-05-13,C0924,Customer 924,Faisalabad,Central,Store,Grocery,Rice 5kg,1,12.54,20.0
+T02478,2024-05-08,C1061,Customer 1061,Peshawar,North,Online,Clothing,Jeans,1,38.18,20.0
+T01013,2024-06-28,C1035,Customer 1035,Peshawar,North,Store,Home Appliances,Vacuum Cleaner,4,173.58,10.0
+T01718,2024-10-03,C1484,Customer 1484,Faisalabad,Central,Online,Home Appliances,Microwave,1,120.46,20.0
+T00938,2024-04-18,C0709,Customer 709,Islamabad,North,Store,Home Appliances,Air Fryer,1,89.56,0.0
+T01483,2024-07-30,C1254,Customer 1254,Faisalabad,Central,Online,Grocery,Snack Box,2,8.68,5.0
+T00682,2024-04-10,,Customer 49,Peshawar,North,Store,Clothing,Sneakers,4,67.04,0.0
+T02955,2024-07-21,C1021,Customer 1021,Faisalabad,Central,Store,Grocery,Tea Pack,2,5.59,20.0
+T00724,2024-03-28,C1491,Customer 1491,Peshawar,North,Online,Clothing,Jeans,4,36.89,10.0
+T00970,2024-01-27,C0928,Customer 928,Islamabad,North,Online,Clothing,Jacket,2,79.63,20.0
+T00497,2024-03-27,C0155,Customer 155,Hyderabad,South,Online,Electronics,Headphones,2,61.52,10.0
+T00951,2024-03-09,C0566,Customer 566,Karachi,South,Online,Electronics,Smart Watch,2,153.36,5.0
+T02178,2024-12-16,C0677,Customer 677,Karachi,South,Store,Grocery,Rice 5kg,2,13.04,10.0
+T01740,2024-05-29,C0783,Customer 783,Islamabad,North,Store,Home Appliances,Vacuum Cleaner,4,177.6,10.0
+T00338,2024-08-19,C0076,Customer 76,Hyderabad,South,Online,Clothing,Sneakers,4,64.19,0.0
+T02244,2024-03-22,C1440,Customer 1440,Lahore,Central,Store,Grocery,Tea Pack,1,5.61,0.0
+T02157,2024-11-19,C1394,Customer 1394,Lahore,Central,Store,Electronics,Laptop,3,959.14,0.0
+T00910,2024-03-07,C1359,Customer 1359,Faisalabad,Central,Online,Clothing,Jacket,2,87.99,10.0
+T02152,2024-08-23,C0930,Customer 930,Peshawar,North,Store,Home Appliances,Vacuum Cleaner,4,167.14,0.0
+T02011,2024-12-28,C1268,Customer 1268,Lahore,Central,Store,Electronics,Laptop,3,907.06,5.0
+T02492,2024-07-12,C1175,Customer 1175,Islamabad,North,Store,Electronics,Smartphone,4,429.12,0.0
+T01811,2024-06-27,C0306,Customer 306,Faisalabad,Central,Store,Clothing,Jacket,1,78.36,5.0
+T02276,2024-11-06,C0314,Customer 314,Hyderabad,South,Store,Home Appliances,Blender,3,43.32,0.0
+T00435,2024-11-12,C0354,Customer 354,Faisalabad,Central,Store,Grocery,Snack Box,1,8.57,5.0
+T01300,2024-01-22,C0140,Customer 140,Islamabad,North,Store,Home Appliances,Vacuum Cleaner,4,197.15,10.0
+T02175,2024-06-19,C0307,Customer 307,Peshawar,North,Store,Home Appliances,Vacuum Cleaner,3,187.57,20.0
+T00406,2024-12-31,C0529,Customer 529,Islamabad,North,Store,Home Appliances,Blender,2,42.11,5.0
+T02957,2024-03-13,C0327,Customer 327,Karachi,South,Online,Grocery,Cooking Oil,2,9.47,0.0
+T02316,2024-01-01,C0849,Customer 849,Hyderabad,South,Store,Clothing,Sneakers,3,74.06,0.0
+T00546,2024-02-08,C0947,Customer 947,Hyderabad,South,Online,Home Appliances,Air Fryer,3,88.89,5.0
+T01942,2024-07-03,C0670,Customer 670,Peshawar,North,Online,Grocery,Snack Box,1,7.78,20.0
+T01892,2024-06-28,C0858,Customer 858,Hyderabad,South,Online,Clothing,Sneakers,4,64.72,5.0
+T02724,2024-10-02,C0788,Customer 788,Karachi,South,Store,Electronics,Laptop,2,843.52,10.0
+T01266,2024-01-27,C1487,Customer 1487,Karachi,South,Online,Electronics,Laptop,3,836.95,5.0
+T01411,2024-02-14,C0181,Customer 181,Karachi,South,Online,Electronics,Laptop,2,935.71,10.0
+T01215,2024-02-24,C1028,Customer 1028,Hyderabad,South,Store,Clothing,Sneakers,3,68.46,0.0
+T00696,2024-07-03,C0963,Customer 963,Faisalabad,Central,Store,Electronics,Smart Watch,1,154.24,0.0
+T00646,2024-08-27,C0793,Customer 793,Islamabad,North,Store,Electronics,Smart Watch,2,154.06,20.0
+T01405,2024-05-09,C0392,Customer 392,Karachi,South,Online,Grocery,Snack Box,1,7.65,5.0
+T00495,2024-07-30,C1393,Customer 1393,Lahore,Central,Store,Clothing,T-Shirt,2,13.91,0.0
+T02488,2024-02-10,C1148,Customer 1148,Islamabad,North,Online,Grocery,Cooking Oil,3,9.5,20.0
+T01020,2024-03-25,C1032,Customer 1032,Karachi,South,Online,Clothing,T-Shirt,3,14.82,10.0
+T01113,2024-05-20,C0227,Customer 227,Karachi,South,Store,Grocery,Snack Box,3,8.5,5.0
+T00909,2024-09-27,C0295,Customer 295,Hyderabad,South,Store,Electronics,Laptop,2,869.06,0.0
+T02151,2024-08-27,C0238,Customer 238,Lahore,Central,Online,Electronics,Smartphone,1,425.99,5.0
+T00239,2024-08-13,C1325,Customer 1325,Faisalabad,Central,Store,Clothing,Jacket,2,76.99,20.0
+T01271,2024-09-26,C1199,Customer 1199,Lahore,Central,Store,Home Appliances,Microwave,1,120.75,20.0
+T00939,2024-12-03,C1085,Customer 1085,Karachi,South,Store,Clothing,T-Shirt,3,15.48,10.0
+T01425,2024-07-05,C0472,Customer 472,Peshawar,North,Store,Clothing,Jacket,3,82.56,0.0
+T00248,2024-10-30,C0134,Customer 134,Islamabad,North,Store,Grocery,Snack Box,2,7.63,10.0
+T02323,2024-09-03,C1035,Customer 1035,Karachi,South,Online,Clothing,T-Shirt,2,14.61,0.0
+T01805,2024-04-03,C1038,Customer 1038,Peshawar,North,Online,Electronics,Headphones,3,60.6,0.0
+T01571,2024-02-27,C1038,Customer 1038,Karachi,South,Online,Home Appliances,Air Fryer,2,89.69,0.0
+T00185,2024-12-27,C0945,Customer 945,Faisalabad,Central,Store,Grocery,Snack Box,3,8.19,10.0
+T01744,2024-01-17,C0491,Customer 491,Hyderabad,South,Online,Grocery,Rice 5kg,3,10.93,10.0
+T00521,2024-09-18,C1240,Customer 1240,Islamabad,North,Online,Grocery,Cooking Oil,1,9.15,20.0
+T02017,2024-10-29,C0085,Customer 85,Peshawar,North,Store,Home Appliances,Blender,1,49.45,5.0
+T02476,2024-11-04,C0795,Customer 795,Hyderabad,South,Online,Grocery,Rice 5kg,2,11.22,5.0
+T02127,2024-08-12,C0373,Customer 373,Lahore,Central,Store,Grocery,Cooking Oil,4,9.32,10.0
+T01271,2024-09-26,C1199,Customer 1199,Lahore,Central,Store,Home Appliances,Microwave,1,120.75,20.0
+T00231,2024-12-04,C1262,Customer 1262,Faisalabad,Central,Online,Electronics,Headphones,2,58.55,0.0
+T00332,2024-09-27,C1277,Customer 1277,Faisalabad,Central,Online,Home Appliances,Air Fryer,1,87.54,20.0
+T01928,2024-04-01,C0889,Customer 889,Lahore,Central,Online,Home Appliances,Microwave,2,113.18,0.0
+T01092,2024-11-23,C0064,Customer 64,Peshawar,North,Store,Clothing,Sneakers,3,75.23,5.0
+T01102,2024-12-08,C1482,Customer 1482,Islamabad,North,Store,Grocery,Snack Box,2,7.37,0.0
+T00462,2024-04-12,C1418,Customer 1418,Hyderabad,South,Store,Grocery,Tea Pack,2,5.82,0.0
+T01663,2024-05-15,C0233,Customer 233,Hyderabad,South,Store,Grocery,Snack Box,4,8.47,20.0
+T02739,2024-12-25,C0337,Customer 337,Lahore,Central,Store,Clothing,Jacket,2,92.24,20.0
+T02021,2024-08-09,,Customer 1321,Islamabad,North,Store,Electronics,Laptop,1,880.58,0.0
+T01520,2024-12-02,C0644,Customer 644,Hyderabad,South,Store,Electronics,Laptop,1,983.72,20.0
+T02033,2024-03-07,C0541,Customer 541,Faisalabad,Central,Store,Grocery,Cooking Oil,1,9.49,20.0
+T02485,2024-09-07,C0801,Customer 801,Lahore,Central,Store,Grocery,Cooking Oil,1,9.61,5.0
+T00070,2024-12-08,C0105,Customer 105,Peshawar,North,Store,Grocery,Snack Box,4,7.67,10.0
+T00809,2024-10-12,C0779,Customer 779,Peshawar,North,Online,Clothing,T-Shirt,3,14.66,10.0
+T02026,2024-12-11,C0180,Customer 180, karachi ,South,Online,Home Appliances,Blender,4,43.94,0.0
+T02193,2024-07-28,C0745,Customer 745,Faisalabad,Central,Store,Electronics,Laptop,4,932.63,5.0
+T01452,2024-01-30,C0380,Customer 380,Faisalabad,Central,Online,Clothing,Jeans,2,39.95,20.0
+T01256,2024-03-02,,Customer 492,Lahore,Central,Online,Electronics,Headphones,2,65.39,0.0
+T02192,2024-10-26,C1370,Customer 1370, karachi ,Central,Online,Home Appliances,Microwave,4,111.85,0.0
+T02802,2024-11-20,C0576,Customer 576,Lahore,Central,Store,Home Appliances,Air Fryer,4,89.63,5.0
+T01066,2024-10-10,C0518,Customer 518,Lahore,Central,Online,Electronics,Smart Watch,1,142.3,10.0
+T02661,2024-11-13,C0195,Customer 195,Lahore,Central,Store,Electronics,Laptop,3,961.44,20.0
+T00157,2024-04-02,C1156,Customer 1156,Peshawar,North,Store,Clothing,Jacket,3,79.1,10.0
+T02588,2024-08-22,C1483,Customer 1483,Faisalabad,Central,Online,Home Appliances,Blender,1,48.8,0.0
+T02047,2024-11-26,C1158,Customer 1158,Lahore,Central,Store,Electronics,Headphones,2,63.56,5.0
+T01851,2024-02-29,C1394,Customer 1394,Karachi,South,Store,Electronics,Headphones,3,63.96,20.0
+T02510,2024-03-30,C1324,Customer 1324,Lahore,Central,Store,Grocery,Cooking Oil,2,8.87,20.0
+T02006,2024-04-04,C1426,Customer 1426,Karachi,South,Online,Clothing,Sneakers,3,75.66,10.0
+T01186,2024-08-12,C0858,Customer 858,Faisalabad,Central,Store,Electronics,Laptop,2,959.05,10.0
+T01312,2024-09-11,C1286,Customer 1286,Hyderabad,South,Online,Electronics,Smartphone,1,436.0,10.0
+T02279,2024-09-26,C0567,Customer 567,Faisalabad,Central,Store,Home Appliances,Microwave,2,124.9,0.0
+T02232,2024-02-20,C0742,Customer 742,Peshawar,North,Store,Grocery,Cooking Oil,2,9.4,0.0
+T01266,2024-01-27,C1487,Customer 1487,Karachi,South,Online,Electronics,Laptop,3,836.95,5.0
+T00874,2024-04-01,C0713,Customer 713,Peshawar,North,Store,Clothing,T-Shirt,2,15.22,10.0
+T02094,2024-05-24,C1455,Customer 1455,Hyderabad,South,Store,Home Appliances,Vacuum Cleaner,2,179.39,0.0
+T01653,2024-02-07,C0498,Customer 498,Faisalabad,Central,Store,Grocery,Cooking Oil,4,9.74,5.0
+T02776,2024-08-08,C1413,Customer 1413,Lahore,Central,Online,Home Appliances,Blender,2,41.03,10.0
+T01949,2024-01-02,C0398,Customer 398,Karachi,South,Store,Clothing,Jacket,4,80.29,10.0
+T00576,2024-09-29,C1030,Customer 1030,Lahore,Central,Online,Clothing,Jacket,2,89.95,5.0
+T00912,2024-05-13,C1457,Customer 1457,Lahore,Central,Store,ELECTRONICS,Smart Watch,4,136.87,5.0
+T01834,2024-02-22,C0356,Customer 356,Faisalabad,Central,Store,Clothing,Sneakers,1,66.36,10.0
+T02134,2024-10-18,C0062,Customer 62,Lahore,Central,Online,Home Appliances,Air Fryer,4,102.97,20.0
+T00933,2024-07-06,C1055,Customer 1055,Hyderabad,South,Store,Clothing,Sneakers,4,75.37,0.0
+T01101,2024-12-16,C0138,Customer 138,Islamabad,North,Online,Grocery,Tea Pack,3,5.47,10.0
+T02525,2024-02-15,C0920,Customer 920,Lahore,Central,Store,Electronics,Smartphone,2,418.52,0.0
+T01695,2024-04-26,C1062,Customer 1062,Peshawar,North,Online,Home Appliances,Vacuum Cleaner,2,170.54,10.0
+T02274,2024-12-02,C0697,Customer 697,Islamabad,North,Store,Electronics,Smartphone,3,465.54,5.0
+T02823,2024-04-02,C1309,Customer 1309,Lahore,Central,Online,Electronics,Smartphone,4,432.27,0.0
+T02637,2024-09-01,C0383,Customer 383,Peshawar,North,Store,Electronics,Headphones,1,55.53,5.0
+T02524,2024-10-19,C1379,Customer 1379,Peshawar,North,Online,Electronics,Smartphone,3,491.76,0.0
+T02470,2024-06-05,C0409,Customer 409,Lahore,Central,Store,Grocery,Rice 5kg,2,11.77,0.0
+T01712,2024-12-08,C1194,Customer 1194,Islamabad,North,Store,Grocery,Rice 5kg,2,12.41,0.0
+T00183,2024-12-29,C1121,Customer 1121,Faisalabad,Central,Online,Grocery,Snack Box,4,8.06,5.0
+T00989,2024-06-28,C0623,Customer 623,Lahore,Central,Store,Grocery,Tea Pack,2,5.99,5.0
+T01642,2024-02-06,C0049,Customer 49,Hyderabad,South,Online,Grocery,Rice 5kg,4,11.14,10.0
+T01357,2024-09-08,C1448,Customer 1448,Hyderabad,South,Online,Electronics,Headphones,3,62.75,0.0
+T01463,2024-02-04,C0883,Customer 883,Hyderabad,South,Store,Home Appliances,Microwave,3,113.39,5.0
+T02948,2024-12-29,C1396,Customer 1396,Peshawar,North,Store,Grocery,Snack Box,3,7.65,20.0
+T02578,2024-11-25,C1403,Customer 1403,Hyderabad,South,Store,Electronics,Smart Watch,3,156.64,10.0
+T00487,2024-08-31,C0511,Customer 511,Lahore,Central,Store,Home Appliances,Vacuum Cleaner,4,183.9,0.0
+T00127,2024-02-27,C1249,Customer 1249,Faisalabad,Central,Store,Electronics,Headphones,4,63.14,20.0
+T02546,2024-10-17,C1332,Customer 1332,Faisalabad,Central,Online,Electronics,Laptop,3,857.45,0.0
+T01909,2024-01-27,C1198,Customer 1198,Faisalabad,Central,Store,Home Appliances,Air Fryer,1,89.47,10.0
+T00444,2024-12-22,C0331,Customer 331,Faisalabad,Central,Store,Clothing,Jacket,4,84.51,0.0
+T00647,2024-12-02,C0964,Customer 964,Faisalabad,Central,Store,Electronics,Laptop,2,983.01,5.0
+T01763,2024-01-08,C0147,Customer 147,Karachi,South,Online,Grocery,Cooking Oil,2,9.4,0.0
+T02239,2024-12-13,C1371,Customer 1371,Islamabad,North,Store,Grocery,Rice 5kg,3,10.84,10.0
+T01857,2024-09-30,C1269,Customer 1269,Lahore,Central,Store,Grocery,Rice 5kg,1,11.18,20.0
+T02331,2024-02-17,C0845,Customer 845,Karachi,South,Store,Home Appliances,Air Fryer,2,95.43,0.0
+T00030,2024-11-19,C1343,Customer 1343,Peshawar,North,Store,Clothing,T-Shirt,3,15.66,0.0
+T00170,2024-01-17,C0910,Customer 910,Hyderabad,South,Store,Grocery,Cooking Oil,2,8.21,0.0
+T00198,2024-03-27,C1218,Customer 1218,Peshawar,North,Online,Grocery,Rice 5kg,2,11.14,0.0
+T00496,2024-10-28,C0798,Customer 798,Hyderabad,South,Store,Electronics,Headphones,4,64.99,20.0
+T00045,2024-02-19,C0284,Customer 284,Faisalabad,Central,Online,Home Appliances,Microwave,4,130.15,20.0
+T02759,2024-09-19,C0806,Customer 806,Karachi,South,Online,Home Appliances,Vacuum Cleaner,4,170.74,0.0
+T00374,2024-09-29,C0755,Customer 755,Peshawar,North,Online,Electronics,Smart Watch,4,157.8,0.0
+T00567,2024-06-15,C0633,Customer 633,Islamabad,North,Store,Home Appliances,Vacuum Cleaner,3,172.36,20.0
+T02483,2024-05-11,C0453,Customer 453,Hyderabad,South,Store,Grocery,Snack Box,4,8.19,5.0
+T00974,2024-12-12,C0387,Customer 387,Lahore,Central,Store,Clothing,Jeans,3,43.56,0.0
+T01787,2024-05-24,C0842,Customer 842,Karachi,South,Online,Clothing,Jeans,3,43.72,0.0
+T01499,2024-12-07,C0367,Customer 367,Karachi,South,Online,Clothing,Jeans,3,42.43,0.0
+T02505,2024-02-07,C0799,Customer 799,Hyderabad,South,Online,Clothing,Jacket,3,90.12,5.0
+T01836,2024-04-10,C0792,Customer 792,Lahore,Central,Store,Clothing,T-Shirt,3,16.14,5.0
+T02309,2024-08-12,C0101,Customer 101,Peshawar,North,Store,Home Appliances,Microwave,4,131.87,10.0
+T01841,2024-11-06,C1145,Customer 1145,Hyderabad,South,Store,Grocery,Rice 5kg,3,10.99,10.0
+T01936,2024-04-29,C0891,Customer 891,Lahore,Central,Online,Electronics,Headphones,1,54.65,10.0
+T02045,2024-07-21,C1213,Customer 1213,Faisalabad,Central,Online,Home Appliances,Vacuum Cleaner,4,189.05,0.0
+T00310,2024-03-20,C1416,Customer 1416,Islamabad,North,Store,Electronics,Smartphone,1,437.34,10.0
+T00277,2024-12-06,C0108,Customer 108,Lahore,Central,Online,Electronics,Headphones,3,57.16,5.0
+T00637,2024-06-20,C0811,Customer 811,Islamabad,North,Online,Clothing,Jacket,3,82.15,0.0
+T00623,2024-04-30,C0496,Customer 496,Peshawar,North,Online,Home Appliances,Blender,2,47.34,10.0
+T00845,2024-01-04,C1382,Customer 1382,Peshawar,North,Store,Electronics,Laptop,1,929.52,0.0
+T02156,2024-12-23,C1289,Customer 1289,Islamabad,North,Store,Grocery,Snack Box,1,8.35,5.0
+T00350,2024-04-30,C1172,Customer 1172,Peshawar,North,Store,Clothing,T-Shirt,3,16.05,0.0
+T00785,2024-12-15,,Customer 1478,Hyderabad,South,Store,Electronics,Laptop,1,988.63,0.0
+T01979,2024-02-11,C1386,Customer 1386,Lahore,Central,Store,Home Appliances,Blender,2,43.01,5.0
+T01656,2024-06-17,C0298,Customer 298,Karachi,South,Store,Electronics,Smartphone,3,485.58,5.0
+T02070,2024-11-02,C1438,Customer 1438,Lahore,Central,Store,Grocery,Snack Box,1,8.28,5.0
+T00403,2024-08-21,C0236,Customer 236,Hyderabad,South,Online,Clothing,Jacket,3,85.13,0.0
+T01155,2024-08-10,C0341,Customer 341,Peshawar,North,Store,Home Appliances,Air Fryer,4,97.37,10.0
+T02002,2024-02-15,C0051,Customer 51,Hyderabad,South,Store,Electronics,Headphones,2,63.16,20.0
+T01866,2024-10-22,C0880,Customer 880,Lahore,Central,Online,Home Appliances,Air Fryer,3,101.43,10.0
+T02972,2024-02-07,C0362,Customer 362,Lahore,Central,Online,Clothing,Jeans,4,41.2,20.0
+T01044,2024-09-28,C0164,Customer 164,Hyderabad,South,Store,Electronics,Headphones,2,63.96,0.0
+T01244,2024-12-23,C0050,Customer 50,Karachi,South,Online,Clothing,T-Shirt,4,15.45,10.0
+T02628,2024-01-04,C0060,Customer 60,Lahore,Central,Online,Home Appliances,Vacuum Cleaner,1,189.56,5.0
+T02405,2024-10-07,C0038,Customer 38,Karachi,South,Online,Grocery,Cooking Oil,4,9.74,10.0
+T01249,2024-08-25,C1369,Customer 1369,Lahore,Central,Store,Grocery,Tea Pack,3,6.27,0.0
+T01176,2024-09-04,C0524,Customer 524,Lahore,Central,Store,Grocery,Rice 5kg,4,13.08,10.0
+T01342,2024-04-09,C0627,Customer 627,Hyderabad,South,Online,Clothing,T-Shirt,2,14.58,5.0
+T01473,2024-11-23,C0733,Customer 733,Karachi,South,Store,Home Appliances,Air Fryer,3,92.36,0.0
+T02852,2024-10-12,C0885,Customer 885,Islamabad,North,Store,Electronics,Laptop,4,918.61,20.0
+T02328,2024-05-02,C0369,Customer 369,Karachi,South,Store,Home Appliances,Vacuum Cleaner,2,183.34,5.0
+T00765,2024-09-20,C0619,Customer 619,Hyderabad,South,Store,Grocery,Snack Box,3,8.66,10.0
+T02178,2024-12-16,C0677,Customer 677,Karachi,South,Store,Grocery,Rice 5kg,2,13.04,10.0
+T01374,2024-11-02,C1228,Customer 1228,Karachi,South,Store,Grocery,Cooking Oil,3,8.82,0.0
+T01729,2024-11-20,C0169,Customer 169,Karachi,South,Online,Grocery,Snack Box,2,7.98,20.0
+T00258,2024-03-16,C0294,Customer 294,Karachi,South,Store,Grocery,Rice 5kg,1,12.06,0.0
+T00945,2024-04-04,C0196,Customer 196,Peshawar,North,Store,Grocery,Snack Box,3,8.02,0.0
+T01220,2024-11-17,C0245,Customer 245,Peshawar,North,Store,Grocery,Tea Pack,2,6.25,10.0
+T01162,2024-12-30,C0588,Customer 588,Karachi,South,Online,Clothing,Jeans,1,43.59,0.0
+T00773,2024-01-04,C0792,Customer 792,Karachi,South,Online,Home Appliances,Microwave,-1,118.17,5.0
+T01487,2024-04-28,C0816,Customer 816,Lahore,Central,Store,Home Appliances,Air Fryer,1,94.01,0.0
+T02250,2024-11-05,C0857,Customer 857,Faisalabad,Central,Store,Electronics,Headphones,4,65.21,20.0
+T00313,2024-03-27,C1395,Customer 1395,Peshawar,North,Online,Grocery,Cooking Oil,3,8.78,0.0
+T02998,2024-09-10,C1469,Customer 1469,Peshawar,North,Store,Home Appliances,Vacuum Cleaner,2,178.58,0.0
+T01177,2024-08-19,C0456,Customer 456,Islamabad,North,Online,Electronics,Headphones,1,58.98,20.0
+T02299,2024-06-11,C0255,Customer 255,Karachi,South,Store,Clothing,T-Shirt,1,13.97,20.0
+T01100,2024-11-12,C0505,Customer 505, karachi ,North,Store,Clothing,Jacket,4,91.87,0.0
+T00392,2024-05-10,C0785,Customer 785,Faisalabad,Central,Store,Grocery,Cooking Oil,2,9.01,20.0
+T00905,2024-12-01,C1310,Customer 1310,Karachi,South,Online,Clothing,Jeans,3,37.74,10.0
+T02779,2024-10-10,C1061,Customer 1061,Lahore,Central,Online,Clothing,Sneakers,2,65.47,20.0
+T00367,2024-12-08,C0932,Customer 932,Islamabad,North,Store,Electronics,Smartphone,2,481.0,5.0
+T00346,2024-07-05,C1140,Customer 1140,Islamabad,North,Store,Electronics,Headphones,1,63.24,10.0
+T01373,2024-11-24,C0341,Customer 341,Peshawar,North,Store,Clothing,Sneakers,4,69.94,5.0
+T01640,2024-07-18,,Customer 1379,Faisalabad,Central,Store,Grocery,Tea Pack,4,5.42,5.0
+T01604,2024-08-19,C1135,Customer 1135,Islamabad,North,Store,Home Appliances,Microwave,1,108.0,10.0
+T00538,2024-03-25,C0199,Customer 199,Peshawar,North,Store,Electronics,Smartphone,1,439.63,0.0
+T00176,2024-12-03,C0836,Customer 836,Lahore,Central,Online,Electronics,Smart Watch,1,144.74,0.0
